@@ -6,8 +6,8 @@ An autonomous digital forensics and incident response (DFIR) agent built on the 
 
 ```
 Claude Code (Agentic Framework)
-├── CLAUDE.md — Senior analyst persona + investigation methodology
-├── Skills — Phased investigation (triage → timeline → memory → correlate → report)
+├── CLAUDE.md - Senior analyst persona + investigation methodology
+├── Skills - Phased investigation (triage > timeline > memory > correlate > report)
 │
 └── MCP Client ──── stdio ──── sift-eye-mcp (Python MCP Server)
                                 ├── Disk tools (Sleuthkit, ewftools)
@@ -20,7 +20,7 @@ Claude Code (Agentic Framework)
 ### Why Hybrid?
 
 - **Claude Code** provides autonomous reasoning, self-correction, and narrative generation
-- **MCP Server** provides architectural evidence protection — destructive commands physically cannot be invoked because the server doesn't expose them. This is not a prompt restriction; it's a code constraint.
+- **MCP Server** provides architectural evidence protection -destructive commands physically cannot be invoked because the server doesn't expose them. This is not a prompt restriction; it's a code constraint.
 
 ### Security Boundaries
 
@@ -36,7 +36,7 @@ Claude Code (Agentic Framework)
 
 ### Prerequisites
 
-- SANS SIFT Workstation (VM or bare metal) — [Download](https://www.sans.org/tools/sift-workstation/)
+- SANS SIFT Workstation (VM or bare metal) -[Download](https://www.sans.org/tools/sift-workstation/)
 - Protocol SIFT installed: `curl -fsSL https://raw.githubusercontent.com/teamdfir/protocol-sift/main/install.sh | bash`
 - Claude Code: `npm install -g @anthropic-ai/claude-code`
 - Python 3.11+
@@ -82,10 +82,10 @@ Claude Code will:
 You can also invoke individual investigation phases:
 
 ```
-/triage              — Run initial disk triage
-/memory-analysis     — Analyze memory dump
-/correlate           — Cross-correlate and self-correct
-/report              — Generate final report
+/triage              -Run initial disk triage
+/memory-analysis     -Analyze memory dump
+/correlate           -Cross-correlate and self-correct
+/report              -Generate final report
 ```
 
 ## Output
@@ -135,10 +135,10 @@ All output goes to `/tmp/sift-eye/case_<timestamp>/`:
 
 SIFT-Eye's cross-correlation phase compares findings across evidence sources and documents contradictions:
 
-1. **Expected vs Found** — What the agent expected to find vs what it actually found
-2. **Hypothesis** — Possible explanations for the discrepancy
-3. **Test** — Targeted tool execution to resolve the contradiction
-4. **Resolution** — Updated finding with corrected information
+1. **Expected vs Found** -What the agent expected to find vs what it actually found
+2. **Hypothesis** -Possible explanations for the discrepancy
+3. **Test** -Targeted tool execution to resolve the contradiction
+4. **Resolution** -Updated finding with corrected information
 
 Example:
 > EXPECTED: Process `svchost.exe` (PID 1234) found in prefetch should appear in memory process list.
@@ -164,8 +164,8 @@ Example:
 ## Tested Against
 
 **The Fred Rocba Case** (SANS HACKATHON-2026 Standard Forensic Case):
-- `rocba-cdrive.e01` — 22.1 GB E01 disk image (Windows system)
-- `Rocba-Memory.zip` — 5.3 GB memory dump
+- `rocba-cdrive.e01` -22.1 GB E01 disk image (Windows system)
+- `Rocba-Memory.zip` -5.3 GB memory dump
 - Scenario: Break-in and IP theft at Stark Research Labs
 
 ## License
