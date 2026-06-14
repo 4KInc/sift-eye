@@ -1,0 +1,194 @@
+================================================================================
+DISK TRIAGE SUMMARY - Fred Rocba Case
+Date: 2026-06-14
+Disk Image: rocba-cdrive.e01
+================================================================================
+
+1. DISK IMAGE METADATA (ewfinfo)
+   - Description: rocba-cdrivev6
+   - Acquisition Date: Fri Dec 18 18:26:51 2020
+   - Acquisition Tool: XWF 20.1 (X-Ways Forensics)
+   - Host OS: Win 10, Build 19042 (64 bit) -- Windows 10 20H2
+   - Media Size: 81 GiB (87,431,311,360 bytes)
+   - Media Type: Fixed disk (logical image, not physical)
+   - Format: EnCase 1, no compression
+   - MD5:  5efc207c85587683e5ca5fa2d5ef1aa4
+   - SHA1: 645dcd29ab039359fbdb6643961478b3d914f21d
+
+2. USER ACCOUNTS
+   - fredr (inode 154910) -- PRIMARY SUBJECT
+   - srl-h (inode 154928) -- secondary user account
+   - SIDs in Recycle Bin:
+     * S-1-5-21-528816539-567677750-276746561-1001 (empty recycle bin)
+     * S-1-5-21-528816539-567677750-276746561-1002 (SIGNIFICANT content - see below)
+     * S-1-5-21-528816539-567677750-276746561-1005 (empty recycle bin)
+
+3. ORGANIZATION / EMPLOYER
+   - "Stark Research Labs" (SRL) -- appears as OneDrive org and folder name
+   - User email: fred.rocba@outlook.com (from Firefox Recovery Key file)
+   - OneDrive synced to "OneDrive - Stark Research Labs"
+   - Dropbox folder named "ROCBA Dropbox" with subfolder "Fred Rocba"
+
+4. INSTALLED SOFTWARE (from Program Files)
+   - Microsoft Office (Office 15 / Office Click-to-Run)
+   - Google Chrome
+   - Mozilla Firefox
+   - Adobe (Acrobat Reader DC)
+   - Dropbox
+   - Zoom
+   - Google Drive / DriveFS
+   - iCloud Drive
+   - Intel utilities
+   - VulkanRT (GPU)
+
+5. ANTI-FORENSIC ACTIVITY (HIGH PRIORITY)
+   ***SDELETE.EXE*** -- Sysinternals secure file deletion tool
+   - TWO separate prefetch entries found:
+     * SDELETE.EXE-0E837E93.pf (inode 104219)
+     * SDELETE.EXE-2BD91720.pf (inode 472552)
+   - SDelete.zip found in Downloads folder (inode 477601), downloaded from internet
+     (Zone.Identifier ADS present confirming web download)
+   - Two different prefetch hashes indicate SDelete was run from two different paths
+   - This is a strong indicator of deliberate evidence destruction
+
+6. OTHER FORENSICALLY SIGNIFICANT PREFETCH ENTRIES
+   - BITLOCKERWIZARD.EXE-BC98F555.pf -- BitLocker encryption setup
+   - MSTSC.EXE-2A83B7D7.pf -- Remote Desktop Client
+   - REGEDIT.EXE-DAB4D60B.pf -- Registry Editor
+   - CMD.EXE-0BD30981.pf -- Command Prompt
+   - OUTLOOK.EXE-FA973E49.pf -- Microsoft Outlook
+   - WINWORD.EXE-AB6EC2FA.pf -- Microsoft Word
+   - EXCEL.EXE-FE860005.pf -- Microsoft Excel
+   - CHROME.EXE -- multiple instances (6+ prefetch files)
+   - FIREFOX.EXE-66015FD1.pf -- Mozilla Firefox
+   - Total prefetch files: 211
+
+7. RECYCLE BIN CONTENTS (SID -1002, likely fredr)
+   Significant items deleted:
+   - 6 executable files (.exe) -- several with SmartScreen and Zone.Identifier ADS
+   - 1 MSI installer (.msi) with SmartScreen ADS
+   - 1 PST file ($RDNBREY.pst, inode 479180) -- Outlook email archive DELETED
+   - 1 DOCX file ($RHROJIJ.docx)
+   - 2 PDF files (one with Zone.Identifier = downloaded from internet)
+   - 1 PNG image
+   - 1 TXT file ($RXM7S25.txt)
+   - 2 LNK shortcut files
+   - 2 directories ($RWXGU0D, $RX6RSGR)
+   - 1 drivedownload directory ($RZ8M5KP.drivedownload)
+   NOTE: The deleted PST file ($RDNBREY.pst) is potentially critical evidence --
+   it contains email communications that were deliberately sent to Recycle Bin.
+
+8. CLOUD STORAGE / SYNC SERVICES
+   - OneDrive (Stark Research Labs org account)
+   - Dropbox ("ROCBA Dropbox")
+   - Google Drive / DriveFS (Google account ID: 106274999640256541802)
+   - iCloud Drive
+   - Multiple cloud sync services suggest data may exist off-disk
+
+9. KEY DOCUMENTS & RESEARCH FILES
+   OneDrive - Stark Research Labs/Documents:
+   - ADAMANTIUM-Background.docx
+   - SUCCESS-TEST-PLAN-VIBRANIUM-ALLOY-RESULTS.docx
+   - The Shield Background and Ongoing Research.docx
+   - Business_Plan_Mail_Order_Pharmacy.docx
+   - Nokia Strategy.docx
+
+   OneDrive - Research:
+   - France DGSE Intel Analysis Adamantium.pptx (POTENTIALLY CLASSIFIED)
+   - Vibrainium - SRL.docx
+   - Vibrainium(1).doc
+   - Project P.E.G.A.S.U.S folder:
+     * Tesseract Overview_MH.pptx
+     * Loki.gif, tesseract.jpg
+
+   Stark Research Labs (synced folder):
+   - SRL-Projects: Gunstar, Airwolf, Blue Thunder, Megaforce
+   - GunStar Death Blossom Data.docx (weapons system data)
+   - Gunstar Test Harness Data.xlsx
+   - GunStar Upgrade Specs.xlsx
+   - Wolves_Lair_Tech_Specs.pptx (Airwolf project)
+   - Maria Hill - WorkingFiles:
+     * German-KITT-Specs-CMDRHill-Laptop.docx
+     * German-KITT-Specs.docx
+     * RareEarthDeposits_Confidential.jpg (CONFIDENTIAL marking)
+   - Timothy Dungan - New Alloy Research (colleague data accessed)
+   - Data Testing Results (15 "New World" test run folders)
+
+   Google Drive:
+   - VIBRANIUM.docx
+   - Firedam.xls
+   - SRL-Offer.pdf (job offer?)
+   - HighFiveBusinessPlanV20.docx
+   - NETFLIX SEC Filings folder
+   - starbucks.csv
+
+   Downloads:
+   - SDelete.zip (anti-forensic tool)
+   - WorkingFiles.zip
+   - Firefox Recovery Key for fred.rocba@outlook.com
+   - Multiple iOS images
+   - Academic PDFs (mental health, activity of metals)
+
+10. REGISTRY HIVES (available for extraction)
+    - SAM (inode 380308-128-4)
+    - SECURITY (inode 380310-128-4)
+    - SOFTWARE (inode 380859-128-4)
+    - SYSTEM (inode 380861-128-4)
+    - DEFAULT (inode 379436-128-4)
+    - NTUSER.DAT for fredr (inode 154911-128-4)
+    - RegBack directory available (inode 284869)
+
+11. SYSTEM ARTIFACTS
+    - pagefile.sys present (inode 41944)
+    - hiberfil.sys present (inode 16875)
+    - swapfile.sys present (inode 62784)
+    - Windows.old directory present (prior Windows installation)
+    - $OrphanFiles virtual directory present
+
+================================================================================
+PRIORITY INVESTIGATION ITEMS
+================================================================================
+
+1. EXTRACT AND ANALYZE SDELETE PREFETCH FILES
+   - Determine execution times and paths
+   - Two different hashes = two different source locations
+   - Correlate with file deletion timestamps
+
+2. RECOVER DELETED PST FILE FROM RECYCLE BIN
+   - $RDNBREY.pst (inode 479180) -- email archive deliberately deleted
+   - Use icat to extract and analyze with pst tools
+
+3. EXTRACT REGISTRY HIVES
+   - NTUSER.DAT (fredr) for: UserAssist, RecentDocs, TypedPaths, RunMRU
+   - SYSTEM for: USB device history, timezone, computer name
+   - SAM for: user account details, last login times
+   - SOFTWARE for: installed programs, network profiles
+
+4. ANALYZE CHROME/FIREFOX BROWSER DATA
+   - Multiple Chrome profiles detected (Default, Profile 1, Profile 2)
+   - Firefox used (Recovery Key saved)
+   - Browser history, downloads, bookmarks
+
+5. EXAMINE "CONFIDENTIAL" AND SENSITIVE FILES
+   - RareEarthDeposits_Confidential.jpg
+   - France DGSE Intel Analysis Adamantium.pptx
+   - Weapons system data (Death Blossom, Gunstar specs)
+   - Maria Hill's working files accessed from fredr's machine
+
+6. INVESTIGATE BITLOCKER ACTIVITY
+   - BitLockerWizard.exe was executed
+   - Check for encrypted volumes
+
+7. ANALYZE RECYCLE BIN EXECUTABLES
+   - 6 deleted .exe files with SmartScreen ADS (downloaded from internet)
+   - Determine what was installed and then deleted
+
+8. CHECK CLOUD SYNC ARTIFACTS
+   - Google DriveFS database files
+   - Dropbox cache and sync state
+   - OneDrive sync metadata
+   - Data exfiltration via cloud sync is possible
+
+================================================================================
+END OF TRIAGE SUMMARY
+================================================================================

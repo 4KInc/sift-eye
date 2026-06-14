@@ -1,0 +1,245 @@
+================================================================================
+MEMORY ANALYSIS SUMMARY - Fred Rocba Case
+================================================================================
+Memory Dump:  Rocba-Memory.raw (18 GB)
+Analysis Date: 2026-06-14
+Tool:         Volatility 3 Framework 2.28.0
+OS Detected:  Windows 10 (Build 19041, 64-bit)
+User Account: fredr
+Machine IP:   192.168.1.5
+System Boot:  2020-11-11 08:13:00 UTC
+Dump Time:    ~2020-11-16 02:36 UTC (based on latest activity)
+
+================================================================================
+1. SUSPICIOUS PROCESSES
+================================================================================
+
+[HIGH] MRC.exe - Remote Access Tool
+  PID:      29440
+  PPID:     7464 (explorer.exe)
+  Path:     D:\Tools\MRC.exe
+  Created:  2020-11-16 02:31:15 UTC
+  Threads:  20
+  Wow64:    True (32-bit process on 64-bit OS)
+  Details:  MRC.exe is consistent with MeshCentral Remote Control (or similar
+            remote administration/access tool). It was launched from a
+            non-standard location (D:\Tools\) directly by explorer.exe,
+            suggesting manual execution by a logged-in user. Its creation
+            timestamp (02:31:15 UTC) coincides exactly with the active RDP
+            brute-force attack window (02:30-02:36 UTC). This could indicate:
+            (a) the attacker gained RDP access and launched the tool, or
+            (b) it was pre-installed by the user as a remote management tool.
+            The D:\Tools path is unusual for legitimate software.
+
+[MEDIUM] svchost.exe PID 1248 - Abnormally High Thread Count
+  Threads:  266
+  Service:  TermService (Remote Desktop Services)
+  Details:  This svchost.exe instance hosts the Terminal Services and has 266
+            threads, which is abnormally high. This is explained by the massive
+            volume of RDP connection attempts (107+ connections from 4 external
+            IPs). Each connection attempt spawns handler threads.
+
+[INFO] No cmd.exe or powershell.exe processes found in memory
+  Details:  No command shells were active at the time of capture. This does not
+            rule out prior shell usage that has since exited.
+
+[INFO] LogonUI.exe (PID 1168) - Exited
+  Created:  2020-11-11 08:13:14 UTC
+  Exited:   2020-11-14 03:42:49 UTC
+  Details:  LogonUI exited on Nov 14, indicating a user logged in interactively
+            at that time (the lock screen was dismissed).
+
+================================================================================
+2. NETWORK CONNECTIONS - EXTERNAL IPs
+================================================================================
+
+[CRITICAL] RDP Brute-Force Attack in Progress
+  Target Port: 3389 (RDP) on 192.168.1.5
+  Total RDP connections found: 107+
+  Time Window: 2020-11-16 02:30:05 UTC to 02:36:24 UTC (~6 minutes)
+  RDP is LISTENING on all interfaces (0.0.0.0:3389)
+
+  Attacking IPs:
+  -----------------------------------------------------------------------
+  IP                  Connections  ESTABLISHED  CLOSED  Other
+  -----------------------------------------------------------------------
+  81.30.144.115       59           2            57      -
+  213.202.233.104     54           2            52      -
+  201.193.188.114     3            0            3       -
+  81.19.209.101       2            0            1       1 SYN_RCVD
+  -----------------------------------------------------------------------
+
+  ACTIVE ESTABLISHED RDP Sessions at time of dump:
+    - 213.202.233.104:40876 -> 192.168.1.5:3389 (since 02:35:53 UTC)
+    - 213.202.233.104:45753 -> 192.168.1.5:3389 (since 02:34:58 UTC)
+    - 81.30.144.115:5067    -> 192.168.1.5:3389 (since 02:34:45 UTC)
+    - 81.30.144.115:51048   -> 192.168.1.5:3389 (since 02:34:58 UTC)
+
+  Assessment: The pattern of dozens of rapid CLOSED connections from two
+  primary IPs (81.30.144.115 and 213.202.233.104) with varying source ports
+  is consistent with an RDP brute-force or credential-stuffing attack.
+  Multiple ESTABLISHED sessions indicate the attackers may have successfully
+  authenticated. The simultaneous activity from two IPs suggests a
+  coordinated attack or botnet.
+
+[INFO] Legitimate Application Connections (not suspicious):
+  - Apple services (17.57.x.x, 17.248.x.x) - iCloud, APSDaemon
+  - Google services (142.250.x.x, 172.217.x.x) - Google Drive
+  - Microsoft services (13.107.x.x, 52.x.x.x) - OneDrive, Teams
+  - Slack (54.82.161.19)
+  - Akamai CDN (23.x.x.x, 72.21.x.x) - Windows Store, Search
+  - iCloud CDN (104.91.97.114)
+
+================================================================================
+3. MALFIND - INJECTED CODE ANALYSIS
+================================================================================
+
+[LOW] MsMpEng.exe (PID 4864) - Windows Defender
+  Regions: 5 memory regions with PAGE_EXECUTE_READWRITE protection
+  Details: These are likely false positives. MsMpEng.exe (Windows Defender
+           antimalware engine) commonly allocates RWX memory for its JIT
+           scanning engine. The code patterns (function prologues with
+           PUSH/SUB RSP, INT3 padding) are consistent with dynamically
+           generated scanning routines, not injected malware.
+
+[LOW] dllhost.exe (PID 8748) - COM Surrogate
+  Region:  1 region with PAGE_EXECUTE_READ, all null bytes
+  Details: Empty executable memory region. Likely benign (pre-allocated).
+
+[LOW] SearchApp.exe (PID 8312) - Windows Search
+  Regions: 4 memory regions with PAGE_EXECUTE_READWRITE
+  Details: Contains JIT-compiled code (jump tables, trampolines). Consistent
+           with the Chromium-based SearchApp using V8 JavaScript engine.
+           Not indicative of injection.
+
+Summary: No clearly malicious code injection detected by malfind. All
+flagged regions are attributable to legitimate applications (Defender JIT,
+Chromium V8 JIT).
+
+================================================================================
+4. COMMAND LINE ANALYSIS
+================================================================================
+
+[HIGH] MRC.exe launched from non-standard path
+  PID 29440: "D:\Tools\MRC.exe"
+  Assessment: Only process running from D:\ drive. No other processes
+  found in D:\Tools\. Manually launched via explorer.exe.
+
+[INFO] No suspicious command-line arguments detected
+  - No encoded PowerShell commands
+  - No certutil/bitsadmin download commands
+  - No obfuscated or suspicious script execution
+  - All svchost.exe instances have standard -k service group arguments
+  - All application processes (Chrome, Teams, Slack, OneDrive, etc.) have
+    normal command-line arguments
+
+[INFO] Notable legitimate applications running:
+  - Microsoft Teams (multiple renderer processes)
+  - Slack (multiple renderer processes)
+  - Google Chrome (multiple renderer processes)
+  - Microsoft Edge (multiple renderer processes)
+  - Google Drive File Stream
+  - Apple iCloud services (Photos, Drive, Services)
+  - Microsoft OneDrive
+  - Adobe ARM (update service)
+  - Windows Defender (MsMpEng.exe + NisSrv.exe)
+
+================================================================================
+5. REGISTRY HIVES
+================================================================================
+
+Key hives found in memory:
+
+  System Hives:
+    \REGISTRY\MACHINE\SYSTEM
+    \REGISTRY\MACHINE\HARDWARE
+    \SystemRoot\System32\Config\SOFTWARE
+    \SystemRoot\System32\Config\DEFAULT
+    \SystemRoot\System32\Config\SECURITY
+    \SystemRoot\System32\Config\SAM
+    \SystemRoot\System32\Config\BBI
+    \Device\HarddiskVolume1\EFI\Microsoft\Boot\BCD
+
+  User Hives:
+    C:\Users\fredr\ntuser.dat
+    C:\Users\fredr\AppData\Local\Microsoft\Windows\UsrClass.dat
+
+  Service Account Hives:
+    C:\WINDOWS\ServiceProfiles\NetworkService\NTUSER.DAT
+    C:\WINDOWS\ServiceProfiles\LocalService\NTUSER.DAT
+
+  Application Hives:
+    C:\WINDOWS\AppCompat\Programs\Amcache.hve
+    Various ActivationStore.dat and settings.dat for UWP apps
+    (StartMenu, Search, LockApp, ShellExperience, iCloud, Slack,
+     Cortana, ZuneVideo, Photos, YourPhone, WindowsStore)
+
+  Total hives: 48
+
+  Note: SAM and SECURITY hives are present and could be extracted for
+  offline password hash analysis. The Amcache.hve hive can provide
+  evidence of program execution history.
+
+================================================================================
+6. SERVICES (SvcScan)
+================================================================================
+
+  Total services enumerated: ~500
+  No suspicious or unknown service binaries detected.
+  All services reference standard Windows system paths or known
+  third-party software (Intel, Google, Apple).
+  TermService (Remote Desktop) is running (SERVICE_RUNNING) on PID 1248.
+
+================================================================================
+7. OVERALL ASSESSMENT & TIMELINE
+================================================================================
+
+  2020-11-11 08:13:00 - System booted, all core services started
+  2020-11-11 08:13:15 - RDP (TermService) started listening on port 3389
+  2020-11-11 08:13:48 - User "fredr" logged in, applications launched
+  2020-11-14 03:42:49 - LogonUI exited (interactive login completed)
+  2020-11-16 02:30:05 - RDP brute-force attack begins from multiple IPs
+  2020-11-16 02:31:15 - MRC.exe launched from D:\Tools\ via explorer.exe
+  2020-11-16 02:34:45 - Multiple ESTABLISHED RDP sessions from attackers
+  2020-11-16 ~02:36   - Memory dump captured
+
+  Key Findings:
+  1. The machine has RDP exposed and was under active brute-force attack
+     from at least 4 external IPs (81.30.144.115, 213.202.233.104,
+     201.193.188.114, 81.19.209.101) with 107+ connection attempts in
+     a ~6-minute window.
+
+  2. At least 4 RDP sessions were ESTABLISHED at the time of capture,
+     indicating successful authentication by attackers from two IPs.
+
+  3. MRC.exe (remote access tool) was launched from D:\Tools\ at
+     02:31:15 UTC, during the active attack window. This may represent
+     the attacker deploying a persistence mechanism after gaining
+     RDP access, or it may be a pre-existing tool used by the
+     legitimate user.
+
+  4. No traditional malware injection was detected by malfind.
+
+  5. No suspicious shell processes (cmd.exe, powershell.exe) were
+     running at the time of capture.
+
+  Recommended Next Steps:
+  - Extract and crack password hashes from SAM hive to assess password
+    strength
+  - Analyze Amcache.hve for full program execution history
+  - Run windows.filescan to search for D:\Tools\ contents
+  - Run windows.dumpfiles to extract MRC.exe binary for malware analysis
+  - Check Windows Event Logs for successful RDP authentication events
+  - Investigate the 4 attacking IPs via threat intelligence feeds
+  - Run windows.hashdump to extract NTLM hashes
+
+================================================================================
+Files Generated:
+  mem_pslist.txt   - Process list (2190 lines)
+  mem_pstree.txt   - Process tree (2190 lines)
+  mem_netscan.txt  - Network connections (432 lines)
+  mem_cmdline.txt  - Command lines (2190 lines)
+  mem_malfind.txt  - Injected code detection (28 lines)
+  mem_svcscan.txt  - Service scan (1421 lines)
+  mem_hivelist.txt - Registry hives (51 lines)
+================================================================================
