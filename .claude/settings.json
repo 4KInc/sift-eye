@@ -1,9 +1,8 @@
 {
   "mcpServers": {
     "sift-eye-mcp": {
-      "command": "python3",
+      "command": ".venv/bin/python3",
       "args": ["-m", "sift_eye_mcp.server"],
-      "cwd": "mcp-server",
       "env": {}
     }
   },

@@ -21,11 +21,7 @@ CASE_DIR = os.environ.get(
     f"/tmp/sift-eye/case_{datetime.now(timezone.utc).strftime('%Y%m%d_%H%M%S')}",
 )
 
-mcp = FastMCP(
-    "sift-eye-mcp",
-    version="0.1.0",
-    description="Read-only forensic tool wrappers for SIFT Workstation. All tools are read-only — no destructive commands exist.",
-)
+mcp = FastMCP("sift-eye-mcp")
 
 audit = AuditLogger(CASE_DIR)
 
