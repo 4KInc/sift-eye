@@ -1,0 +1,46 @@
+=== Program Files ===
+d/d 281306-144-6:	Common Files
+r/r 310326-128-1:	desktop.ini
+d/d 122304-144-1:	Google
+d/d 280911-144-1:	Intel
+d/d 281385-144-6:	Internet Explorer
+d/d 107331-144-6:	Microsoft Office
+d/d 107324-144-1:	Microsoft Office 15
+d/d 281389-144-1:	ModifiableWindowsApps
+d/d 157088-144-6:	Mozilla Firefox
+d/d 281390-144-1:	Uninstall Information
+d/d 281406-144-1:	Windows Multimedia Platform
+d/d 281407-144-1:	Windows NT
+d/d 281414-144-1:	Windows Portable Devices
+d/d 281415-144-1:	Windows Security
+d/d 281418-144-1:	Windows Sidebar
+d/d 282469-144-1:	WindowsPowerShell
+d/d 281391-144-6:	Windows Defender
+d/d 281394-144-7:	Windows Defender Advanced Threat Protection
+d/d 281398-144-1:	Windows Mail
+d/d 281399-144-7:	Windows Media Player
+d/d 281412-144-7:	Windows Photo Viewer
+d/d 281421-144-7:	WindowsApps
+
+=== Program Files (x86) ===
+d/d 61667-144-1:	Adobe
+d/d 282521-144-6:	Common Files
+r/r 310332-128-1:	desktop.ini
+d/d 131051-144-5:	Dropbox
+d/d 119020-144-1:	Google
+d/d 569-144-1:	Intel
+d/d 282545-144-6:	Internet Explorer
+d/d 282549-144-1:	Microsoft
+d/d 282583-144-1:	Microsoft.NET
+d/d 136210-144-6:	Mozilla Maintenance Service
+d/d 17424-144-1:	VulkanRT
+d/d 282585-144-6:	Windows Defender
+d/d 282587-144-1:	Windows Mail
+d/d 282588-144-7:	Windows Media Player
+d/d 282595-144-1:	Windows Multimedia Platform
+d/d 282596-144-1:	Windows NT
+d/d 282601-144-6:	Windows Photo Viewer
+d/d 282603-144-1:	Windows Portable Devices
+d/d 282604-144-1:	Windows Sidebar
+d/d 282607-144-1:	WindowsPowerShell
+d/d 148879-144-1:	Zoom

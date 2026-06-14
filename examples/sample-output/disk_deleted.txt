@@ -1,0 +1,2000 @@
+-/r * 384485-128-4:	ProgramData/Dropbox/Update/Log/DropboxUpdate.log-2020-11-01-22-20-00-770-5524
+-/r * 474918-128-4:	ProgramData/Dropbox/Update/Log/DropboxUpdate.log-2020-11-14-13-35-01-650-27084-finished
+-/r * 475860-128-4:	ProgramData/Dropbox/Update/Log/DropboxUpdate.log-2020-11-14-12-35-01-633-1164-finished
+-/r * 385251-128-3:	ProgramData/Microsoft/Search/Data/Applications/Windows/edb000BF.jtx
+-/d * 371067-144-1:	ProgramData/Microsoft/Search/Data/Temp/usgthrsvc
+-/r * 381277-128-4:	ProgramData/Microsoft/Windows/AppRepository/Packages/Microsoft.BingWeather_4.46.22742.0_x64__8wekyb3d8bbwe/S-1-5-21-528816539-567677750-276746561-1002.pckgdep
+-/r * 381298-128-4:	ProgramData/Microsoft/Windows/AppRepository/Packages/Microsoft.DesktopAppInstaller_1.0.32912.0_x64__8wekyb3d8bbwe/S-1-5-21-528816539-567677750-276746561-1002.pckgdep
+-/r * 381369-128-4:	ProgramData/Microsoft/Windows/AppRepository/Packages/Microsoft.MicrosoftOfficeHub_18.2008.12711.0_x64__8wekyb3d8bbwe/S-1-5-21-528816539-567677750-276746561-1002.pckgdep
+-/r * 381388-128-4:	ProgramData/Microsoft/Windows/AppRepository/Packages/Microsoft.MicrosoftStickyNotes_3.7.142.0_x64__8wekyb3d8bbwe/S-1-5-21-528816539-567677750-276746561-1002.pckgdep
+-/r * 381320-128-4:	ProgramData/Microsoft/Windows/AppRepository/Packages/Microsoft.GetHelp_10.2004.31291.0_x64__8wekyb3d8bbwe/S-1-5-21-528816539-567677750-276746561-1002.pckgdep
+-/r * 381859-128-4:	ProgramData/Microsoft/Windows/AppRepository/Packages/Microsoft.WindowsAlarms_10.2009.5.0_x64__8wekyb3d8bbwe/S-1-5-21-528816539-567677750-276746561-1002.pckgdep
+-/r * 381401-128-4:	ProgramData/Microsoft/Windows/AppRepository/Packages/Microsoft.MixedReality.Portal_2000.20081.1312.0_x64__8wekyb3d8bbwe/S-1-5-21-528816539-567677750-276746561-1002.pckgdep
+-/r * 381566-128-4:	ProgramData/Microsoft/Windows/AppRepository/Packages/Microsoft.ScreenSketch_10.2008.2277.0_x64__8wekyb3d8bbwe/S-1-5-21-528816539-567677750-276746561-1002.pckgdep
+-/r * 381727-128-4:	ProgramData/Microsoft/Windows/AppRepository/Packages/Microsoft.WebMediaExtensions_1.0.20875.0_x64__8wekyb3d8bbwe/S-1-5-21-528816539-567677750-276746561-1002.pckgdep
+-/r * 381555-128-4:	ProgramData/Microsoft/Windows/AppRepository/Packages/Microsoft.People_10.1909.10841.0_x64__8wekyb3d8bbwe/S-1-5-21-528816539-567677750-276746561-1002.pckgdep
+-/r * 381897-128-4:	ProgramData/Microsoft/Windows/AppRepository/Packages/Microsoft.WindowsFeedbackHub_1.1907.3152.0_x64__8wekyb3d8bbwe/S-1-5-21-528816539-567677750-276746561-1002.pckgdep
+-/r * 381904-128-4:	ProgramData/Microsoft/Windows/AppRepository/Packages/Microsoft.WindowsMaps_10.2009.2.0_x64__8wekyb3d8bbwe/S-1-5-21-528816539-567677750-276746561-1002.pckgdep
+-/r * 391339-128-4:	ProgramData/Microsoft/Windows/AppRepository/Packages/Microsoft.WindowsStore_12011.1001.1.0_x64__8wekyb3d8bbwe/S-1-5-21-528816539-567677750-276746561-1002.pckgdep
+-/r * 382053-128-4:	ProgramData/Microsoft/Windows/AppRepository/Packages/TheNewYorkTimes.NYTCrossword_1.5.0.0_x86__3q5wqmazkcmtm/S-1-5-21-528816539-567677750-276746561-1002.pckgdep
+-/r * 381868-128-4:	ProgramData/Microsoft/Windows/AppRepository/Packages/Microsoft.WindowsCalculator_10.2009.4.0_x64__8wekyb3d8bbwe/S-1-5-21-528816539-567677750-276746561-1002.pckgdep
+-/r * 381955-128-4:	ProgramData/Microsoft/Windows/AppRepository/Packages/Microsoft.XboxGameOverlay_1.54.4001.0_x64__8wekyb3d8bbwe/S-1-5-21-528816539-567677750-276746561-1002.pckgdep
+-/r * 381991-128-4:	ProgramData/Microsoft/Windows/AppRepository/Packages/Microsoft.XboxSpeechToTextOverlay_1.21.13002.0_x64__8wekyb3d8bbwe/S-1-5-21-528816539-567677750-276746561-1002.pckgdep
+-/r * 382005-128-4:	ProgramData/Microsoft/Windows/AppRepository/Packages/Microsoft.ZuneMusic_10.20092.10311.0_neutral_split.scale-125_8wekyb3d8bbwe/S-1-5-21-528816539-567677750-276746561-1002.pckgdep
+-/r * 382011-128-4:	ProgramData/Microsoft/Windows/AppRepository/Packages/Microsoft.ZuneMusic_10.20092.10311.0_x64__8wekyb3d8bbwe/S-1-5-21-528816539-567677750-276746561-1002.pckgdep
+-/d * 381718-144-1:	ProgramData/Microsoft/Windows/AppRepository/Packages/Microsoft.WebMediaExtensions_1.0.20875.0_neutral_split.scale-125_8wekyb3d8bbwe
+-/d * 381889-144-1:	ProgramData/Microsoft/Windows/AppRepository/Packages/Microsoft.WindowsFeedbackHub_1.1907.3152.0_neutral_split.scale-125_8wekyb3d8bbwe
+-/r * 344830-128-4:	ProgramData/Microsoft/Windows/AppRepository/a366a047-286a-4e1a-b69a-330f6d9b729c_S-1-5-21-528816539-567677750-276746561-1002_35.rslc
+-/r * 344859-128-4:	ProgramData/Microsoft/Windows/AppRepository/a366a047-286a-4e1a-b69a-330f6d9b729c_S-1-5-21-528816539-567677750-276746561-1002_40.rslc
+-/r * 344873-128-4:	ProgramData/Microsoft/Windows/AppRepository/a366a047-286a-4e1a-b69a-330f6d9b729c_S-1-5-21-528816539-567677750-276746561-1002_42.rslc
+-/r * 344876-128-4:	ProgramData/Microsoft/Windows/AppRepository/a366a047-286a-4e1a-b69a-330f6d9b729c_S-1-5-21-528816539-567677750-276746561-1002_41.rslc
+-/r * 367133-128-4:	ProgramData/Microsoft/Windows/AppRepository/a366a047-286a-4e1a-b69a-330f6d9b729c_S-1-5-21-528816539-567677750-276746561-1002_24.rslc
+-/r * 367474-128-4:	ProgramData/Microsoft/Windows/AppRepository/a366a047-286a-4e1a-b69a-330f6d9b729c_S-1-5-21-528816539-567677750-276746561-1002_22.rslc
+-/r * 472518-128-4:	ProgramData/Microsoft/Windows/DeviceMetadataCache/OLDCACHE.000
+-/r * 386237-128-1:	ProgramData/Microsoft/Windows Defender/Definition Updates/Backup/mpasdlta.vdm
+-/r * 386238-128-1:	ProgramData/Microsoft/Windows Defender/Definition Updates/Backup/mpavdlta.vdm
+-/r * 386239-128-1:	ProgramData/Microsoft/Windows Defender/Definition Updates/Backup/mpengine.dll
+-/d * 381326-144-6:	ProgramData/Microsoft/Windows Defender/Definition Updates/{E871989D-7734-4B34-A732-80ABBEE037D4}
+-/r * 381919-128-4:	ProgramData/Microsoft/Windows Defender/Scans/mpcache-9F89D07C59FF7B010A4CC7BAACF4628DAD6C8A00.bin.67
+-/r * 381921-128-4:	ProgramData/Microsoft/Windows Defender/Scans/mpcache-9F89D07C59FF7B010A4CC7BAACF4628DAD6C8A00.bin.6C
+-/r * 381922-128-4:	ProgramData/Microsoft/Windows Defender/Scans/mpcache-9F89D07C59FF7B010A4CC7BAACF4628DAD6C8A00.bin.79
+-/r * 381922-128-7:	ProgramData/Microsoft/Windows Defender/Scans/mpcache-9F89D07C59FF7B010A4CC7BAACF4628DAD6C8A00.bin.79:WofCompressedData
+-/r * 381924-128-4:	ProgramData/Microsoft/Windows Defender/Scans/mpcache-9F89D07C59FF7B010A4CC7BAACF4628DAD6C8A00.bin.7C
+-/r * 381924-128-7:	ProgramData/Microsoft/Windows Defender/Scans/mpcache-9F89D07C59FF7B010A4CC7BAACF4628DAD6C8A00.bin.7C:WofCompressedData
+-/r * 385354-128-4:	ProgramData/Microsoft/Windows Defender/Scans/mpcache-9F89D07C59FF7B010A4CC7BAACF4628DAD6C8A00.bin.7E
+-/r * 385362-128-4:	ProgramData/Microsoft/Windows Defender/Scans/mpcache-9F89D07C59FF7B010A4CC7BAACF4628DAD6C8A00.bin.80
+-/r * 385368-128-4:	ProgramData/Microsoft/Windows Defender/Scans/mpcache-9F89D07C59FF7B010A4CC7BAACF4628DAD6C8A00.bin.87
+-/r * 385383-128-4:	ProgramData/Microsoft/Windows Defender/Scans/mpcache-9F89D07C59FF7B010A4CC7BAACF4628DAD6C8A00.bin.A0
+-/r * 385386-128-4:	ProgramData/Microsoft/Windows Defender/Scans/mpcache-9F89D07C59FF7B010A4CC7BAACF4628DAD6C8A00.bin.83
+-/r * 385386-128-7:	ProgramData/Microsoft/Windows Defender/Scans/mpcache-9F89D07C59FF7B010A4CC7BAACF4628DAD6C8A00.bin.83:WofCompressedData
+-/r * 385390-128-4:	ProgramData/Microsoft/Windows Defender/Scans/mpcache-9F89D07C59FF7B010A4CC7BAACF4628DAD6C8A00.bin.5B
+-/r * 367373-128-4:	ProgramData/USOShared/Logs/System/WuProvider.7982c698-d7e8-4566-a433-55ad210405fc.1.etl
+-/r * 472539-128-4:	Users/fredr/AppData/Local/Google/Chrome/User Data/Default/Network Persistent State~RF10a90db2.TMP
+-/r * 473040-128-3:	Users/fredr/AppData/Local/Google/Chrome/User Data/Profile 1/Cache/f_0001e2
+-/r * 477424-128-3:	Users/fredr/AppData/Local/Google/Chrome/User Data/Profile 1/Cache/f_0001de
+-/r * 476808-128-1:	Users/fredr/AppData/Local/Google/Chrome/User Data/Profile 1/Code Cache/js/8e29c2045ca4ba49_0
+-/r * 476362-128-1:	Users/fredr/AppData/Local/Google/Chrome/User Data/Profile 1/Service Worker/CacheStorage/eadf114e35641d8a14aa9648d8e1c01b4b3bb3f0/dd01a335-4751-4d80-be6b-0148e3fb8b33/index-dir/the-real-index~RF10aab3a2.TMP
+-/r * 477460-128-1:	Users/fredr/AppData/Local/Google/Chrome/User Data/Profile 1/Service Worker/ScriptCache/index-dir/the-real-index~RF10aaf61a.TMP
+-/r * 386961-128-4:	Users/fredr/AppData/Local/Google/Chrome/User Data/Profile 1/Service Worker/ScriptCache/d0757ff92c7cde0a_0
+-/r * 473037-128-4:	Users/fredr/AppData/Local/Google/Chrome/User Data/Profile 1/Service Worker/ScriptCache/7b4fd8111178d5b1_0
+-/r * 475931-128-4:	Users/fredr/AppData/Local/Google/Chrome/User Data/Profile 1/Service Worker/ScriptCache/7b4fd8111178d5b1_1
+-/r * 474372-128-3:	Users/fredr/AppData/Local/Google/Chrome/User Data/Profile 1/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/000045.ldb
+-/r * 388678-128-3:	Users/fredr/AppData/Local/Google/Chrome/User Data/Profile 1/Sync Data/LevelDB/000003.log
+-/r * 477718-128-4:	Users/fredr/AppData/Local/Google/Chrome/User Data/Profile 1/TransportSecurity~RF10a81c0f.TMP
+-/r * 386927-128-4:	Users/fredr/AppData/Local/Google/Chrome/User Data/Profile 2/Network Persistent State~RF10bef676.TMP
+-/r * 386748-128-4:	Users/fredr/AppData/Local/Google/Chrome/User Data/System Profile/Preferences~RF10b4107c.TMP
+-/r * 281458-128-4:	Users/fredr/AppData/Local/Google/Drive/user_default/sync_config.db-shm
+-/r * 371045-128-4:	Users/fredr/AppData/Local/Google/Drive/user_default/uploader.db-shm
+-/r * 479133-128-4:	Users/fredr/AppData/Local/Google/Drive/user_default/sync_config.db-shm
+-/r * 476851-128-4:	Users/fredr/AppData/Local/Google/DriveFS/106274999640256541802/content_cache/chunks.db-wal
+-/r * 476852-128-4:	Users/fredr/AppData/Local/Google/DriveFS/106274999640256541802/content_cache/chunks.db-shm
+-/r * 476853-128-4:	Users/fredr/AppData/Local/Google/DriveFS/106274999640256541802/thumbnails_cache/chunks.db-wal
+-/r * 476863-128-4:	Users/fredr/AppData/Local/Google/DriveFS/106274999640256541802/thumbnails_cache/chunks.db-shm
+-/r * 476822-128-4:	Users/fredr/AppData/Local/Google/DriveFS/106274999640256541802/metrics_sqlite_db-wal
+-/r * 476850-128-4:	Users/fredr/AppData/Local/Google/DriveFS/106274999640256541802/metrics_sqlite_db-shm
+-/r * 477323-128-4:	Users/fredr/AppData/Local/Google/DriveFS/106274999640256541802/metadata_sqlite_db-wal
+-/r * 477446-128-4:	Users/fredr/AppData/Local/Google/DriveFS/106274999640256541802/metadata_sqlite_db-shm
+-/r * 477452-128-4:	Users/fredr/AppData/Local/Google/DriveFS/106274999640256541802/metadata_sqlite_db_local_counter-wal
+-/r * 477694-128-4:	Users/fredr/AppData/Local/Google/DriveFS/106274999640256541802/metadata_sqlite_db_local_counter-shm
+-/d * 476368-144-1:	Users/fredr/AppData/Local/Google/DriveFS/cef_cache/blob_storage/766a904e-43fc-4868-9637-964cf97bc7c5
+-/r * 372322-128-1:	Users/fredr/AppData/Local/Google/DriveFS/cef_cache/Code Cache/js/index-dir/the-real-index~RF10abd00f.TMP
+-/r * 372297-128-1:	Users/fredr/AppData/Local/Google/DriveFS/cef_cache/LOG.old~RF10abfc3f.TMP
+-/r * 476364-128-1:	Users/fredr/AppData/Local/Google/DriveFS/cef_cache/TransportSecurity~RF10ab7c22.TMP
+-/r * 386957-128-4:	Users/fredr/AppData/Local/Google/DriveFS/account_db_sqlite.db-wal
+-/r * 467319-128-4:	Users/fredr/AppData/Local/Google/DriveFS/account_db_sqlite.db-shm
+-/r * 477563-128-4:	Users/fredr/AppData/Local/Microsoft/OneDrive/logs/Personal/SyncEngine-2020-11-14.1336.6188.32.odl
+-/r * 386203-128-4:	Users/fredr/AppData/Local/Microsoft/Edge/User Data/Default/Preferences~RF10c0168c.TMP
+-/r * 472476-128-4:	Users/fredr/AppData/Local/Microsoft/Edge/User Data/Default/TransportSecurity~RF10b9cc80.TMP
+-/r * 472509-128-4:	Users/fredr/AppData/Local/Microsoft/Edge/User Data/Default/Network Persistent State~RF10a9ea57.TMP
+-/r * 472577-128-4:	Users/fredr/AppData/Local/Microsoft/Edge/User Data/Local State~RF10ac5c60.TMP
+-/r * 479183-128-1:	Users/fredr/AppData/Local/Microsoft/Edge/User Data/lockfile
+-/r * 479116-128-4:	Users/fredr/AppData/Local/Microsoft/Office/16.0/Personalization/Governance/d1a7c039-6175-4ddb-bcdb-a8de45cf1678_ADAL/floodgatecampaigns.json
+-/r * 371033-128-4:	Users/fredr/AppData/Local/Microsoft/Outlook/Inferences4CE0071EA2E4B641B7373C128074BEEE_{95496771-E3B3-4B6D-AF64-1E37CF71B00A}.xml
+-/r * 471860-128-4:	Users/fredr/AppData/Local/Microsoft/Outlook/~fred.rocba@outlook.com.ost.tmp
+-/r * 478899-128-4:	Users/fredr/AppData/Local/Microsoft/Outlook/~frocba@stark-research-labs.com.ost.tmp
+-/r * 479005-128-4:	Users/fredr/AppData/Local/Microsoft/Outlook/~fred.rocba@gmail.com.ost.tmp
+-/r * 388103-128-4:	Users/fredr/AppData/Local/Microsoft/TokenBroker/Cache/93bebb0babdeead93bf2190648de9b48311862cf.tbres
+-/r * 388517-128-4:	Users/fredr/AppData/Local/Microsoft/TokenBroker/Cache/f7ba582fda33c3a979e4f627032b5c8786de7a40.tbres
+-/r * 390073-128-4:	Users/fredr/AppData/Local/Microsoft/TokenBroker/Cache/d9411be00797f228c0805613ef84a51263396e8a.tbres
+-/r * 479041-128-4:	Users/fredr/AppData/Local/Microsoft/TokenBroker/Cache/089d66ba04a8cec4bdc5267f42f39cf84278bb67.tbres
+-/r * 479093-128-4:	Users/fredr/AppData/Local/Microsoft/TokenBroker/Cache/42298d97e2762de1400dbb7fbbacd685c642f96b.tbres
+-/r * 479106-128-4:	Users/fredr/AppData/Local/Microsoft/TokenBroker/Cache/dcf2c62c745513eefe1553f6839685b7eb715fc2.tbres
+-/r * 479107-128-4:	Users/fredr/AppData/Local/Microsoft/TokenBroker/Cache/369ae0ddc07114fd918752cb0739f01a868b6928.tbres
+-/r * 479108-128-4:	Users/fredr/AppData/Local/Microsoft/TokenBroker/Cache/47f99362b862e332573b07ec228f37cd75af81b8.tbres
+-/r * 479110-128-4:	Users/fredr/AppData/Local/Microsoft/TokenBroker/Cache/437e09337eb7bb19b8ab52170d5f723420dcbbf5.tbres
+-/r * 479188-128-4:	Users/fredr/AppData/Local/Microsoft/TokenBroker/Cache/4d87bc779cd176dd0d20c3bb508dfb4a5af2574a.tbres
+-/r * 477719-128-1:	Users/fredr/AppData/Local/Microsoft/Windows/INetCache/Content.MSO/4816B326.dat
+-/r * 479179-128-3:	Users/fredr/AppData/Local/Microsoft/Windows/INetCache/Content.MSO/333E3CEF.dat
+-/r * 367125-128-1:	Users/fredr/AppData/Local/Microsoft/Windows/ActionCenterCache/microsoft-office-outlook-exe-15_1041_0.png
+-/r * 367131-128-4:	Users/fredr/AppData/Local/Microsoft/Windows/ActionCenterCache/microsoft-office-outlook-exe-15_1041_1.png
+-/r * 281459-128-1:	Users/fredr/AppData/Local/Microsoft/Windows/Explorer/IconCacheToDelete/icn35D3.tmp
+-/r * 281460-128-1:	Users/fredr/AppData/Local/Microsoft/Windows/Explorer/IconCacheToDelete/icn35D2.tmp
+-/r * 281461-128-1:	Users/fredr/AppData/Local/Microsoft/Windows/Explorer/IconCacheToDelete/icn35D1.tmp
+-/r * 479181-128-1:	Users/fredr/AppData/Local/Mozilla/Firefox/Profiles/jyiq7x58.default-release/safebrowsing/google4/goog-badbinurl-proto.vlpset
+-/r * 479321-128-4:	Users/fredr/AppData/Local/Mozilla/Firefox/Profiles/jyiq7x58.default-release/activity-stream.discovery_stream.json
+-/r * 479256-128-4:	Users/fredr/AppData/Local/Packages/91750D7E.Slack_8she8kybcnzg4/LocalCache/Roaming/Slack/storage/root-state.json
+-/r * 281450-128-4:	Users/fredr/AppData/Local/Packages/91750D7E.Slack_8she8kybcnzg4/LocalCache/Roaming/Slack/TransportSecurity~RF189f3e20.TMP
+-/r * 475854-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.AAD.BrokerPlugin_cw5n1h2txyewy/LocalState/u_k6n37ibnncb6bgd5u0t77ouq/c_8mb8eds39r4rmn0oveg4gg5v/a_k0d3p7ef9etr0bab3ndnhosd.def~RF112aecb5.TMP
+-/r * 390117-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.MicrosoftOfficeHub_8wekyb3d8bbwe/LocalState/notifications.json~RF18859269.TMP
+-/r * 376718-128-1:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy/AC/BackgroundTransferApi/cc958d16-b8ff-4f18-ac5a-fddb1b66ae55.up_meta_secure
+-/r * 376770-128-1:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy/AC/BackgroundTransferApi/0004fc2c-d0b4-485e-9fcc-b2da710549a0.up_meta_secure
+-/r * 376790-128-1:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy/AC/BackgroundTransferApi/4bcbbebd-fba9-4be0-b594-b18ac2c4bdb4.up_meta_secure
+-/r * 376861-128-1:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy/AC/BackgroundTransferApi/0004fc2c-d0b4-485e-9fcc-b2da710549a0.up_meta_body
+-/r * 376998-128-1:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy/AC/BackgroundTransferApi/fc18768c-c1c9-4947-922a-1a0c6e7a45d0.up_meta_secure
+-/r * 376999-128-1:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy/AC/BackgroundTransferApi/fc18768c-c1c9-4947-922a-1a0c6e7a45d0.up_meta_body
+-/r * 377000-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy/AC/BackgroundTransferApi/fc18768c-c1c9-4947-922a-1a0c6e7a45d0.dca97709-4b77-4f79-b9e7-159804015d17.down_meta
+-/r * 377001-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy/AC/BackgroundTransferApi/009eb106-9c89-4629-827e-c507adecd697.f88b990a-0100-47d2-b96e-5c90cbb5f650.down_meta
+-/r * 377002-128-1:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy/AC/BackgroundTransferApi/009eb106-9c89-4629-827e-c507adecd697.up_meta_secure
+-/r * 377003-128-1:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy/AC/BackgroundTransferApi/009eb106-9c89-4629-827e-c507adecd697.up_meta_body
+-/r * 377004-128-1:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy/AC/BackgroundTransferApi/cc958d16-b8ff-4f18-ac5a-fddb1b66ae55.up_meta_body
+-/r * 377005-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy/AC/BackgroundTransferApi/cc958d16-b8ff-4f18-ac5a-fddb1b66ae55.0965c1fb-d242-4d2f-8b0b-52a541c14f86.down_meta
+-/r * 377006-128-1:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy/AC/BackgroundTransferApi/4bcbbebd-fba9-4be0-b594-b18ac2c4bdb4.up_meta_body
+-/r * 377008-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy/AC/BackgroundTransferApi/4bcbbebd-fba9-4be0-b594-b18ac2c4bdb4.d6d5b36e-e093-4050-87b3-6e2f24b79882.down_meta
+-/r * 377011-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy/AC/BackgroundTransferApi/0004fc2c-d0b4-485e-9fcc-b2da710549a0.cacc5b3f-1fd6-4cbc-b4bf-a88f9276b02b.down_meta
+-/r * 377012-128-1:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy/AC/BackgroundTransferApi/cabe3586-52bc-4d70-9b59-39b0321f3aa6.up_meta_secure
+-/r * 377013-128-1:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy/AC/BackgroundTransferApi/cabe3586-52bc-4d70-9b59-39b0321f3aa6.up_meta_body
+-/r * 377014-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy/AC/BackgroundTransferApi/cabe3586-52bc-4d70-9b59-39b0321f3aa6.a4ebb5b8-35ee-4a09-9eb8-7864cf35b80b.down_meta
+-/r * 376873-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy/LocalState/Assets/f9d0bf2d2207e52c7bfbc2dda00c9deb59c097f20cc02a2f35e4eba56cf71685
+-/r * 376900-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy/LocalState/Assets/92f4c6f1a35e1a26876c195f1d0609e08bacdea8925abf3941ac356793bebf1f
+-/r * 376901-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy/LocalState/Assets/a67d3d2c8b08f10b2b89b6ba5df1ed18acd33372ca9fd12b6a55e949d73a9e3d
+-/r * 376902-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy/LocalState/Assets/84d25a28507d2e3b05a8344aa29839ad756abbb4106ea6547f74ea5698a882d5
+-/r * 376925-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy/LocalState/Assets/dc279dd6da89f7aafcd81eb4ae453386a7b42e57f2261f22768b26136e612567
+-/r * 376996-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy/LocalState/Assets/71ac0d7cd36d332d6276b8e1b77fea3c6fabcb3acbeb140f6be205fcbb3ecaf6
+-/r * 391346-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy/LocalState/ContentManagementSDK/Creatives/338388/1605356833
+-/r * 477695-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy/LocalState/ContentManagementSDK/Creatives/338388/imprbeacons.dat~RF10bc3785.TMP
+-/r * 367823-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy/LocalState/ContentManagementSDK/Creatives/353698/1604323979
+-/r * 386523-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy/LocalState/TargetedContentCache/v3/314559/f5b36049be904d55927ec1c8692fd1b2_9
+-/r * 282416-128-1:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy/LocalState/TargetedContentCache/v3/338387/ff4f6d8db9bb4e49bbf7652371de1bda_2~RF189055b8.TMP
+-/r * 474956-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/AC/TokenBroker/Cache/fbaf94e759052658216786bfbabcdced1b67a5c2.tbres
+-/r * 474964-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/AC/TokenBroker/Cache/0755b4442bd83d3c3a2cad2c74c1f22c6b52b9ca.tbres
+-/r * 477690-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/AC/TokenBroker/Cache/9b768ec0fedf97296f0a5dfa1998b10d42e9aea9.tbres
+-/r * 477691-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/AC/TokenBroker/Cache/1d2b1ef394c3fc4104f9aed91c816ad0ca34cc0a.tbres
+-/d * 475832-144-6:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/AppIconCache/100
+-/r * 475834-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/AppIconCache/100/Microsoft_WindowsCamera_8wekyb3d8bbwe!App
+-/r * 475836-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/AppIconCache/100/Microsoft_AutoGenerated_{923DD477-5846-686B-A659-0FCCD73851A8}
+-/r * 475838-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/AppIconCache/100/Microsoft_SkyDrive_Desktop
+-/r * 475841-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/AppIconCache/100/Microsoft_ScreenSketch_8wekyb3d8bbwe!App
+-/r * 475844-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/AppIconCache/100/Microsoft_AutoGenerated_{8ABD94FB-E7D6-84A6-A997-C918EDDE0AE5}
+-/r * 475846-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/AppIconCache/100/Microsoft_XboxApp_8wekyb3d8bbwe!Microsoft_XboxApp
+-/r * 475847-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/AppIconCache/100/Microsoft_AutoGenerated_{BD3F924E-55FB-A1BA-9DE6-B50F9F2460AC}
+-/r * 475848-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/AppIconCache/100/Microsoft_MicrosoftOfficeHub_8wekyb3d8bbwe!Microsoft_MicrosoftOfficeHub
+-/r * 475850-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/AppIconCache/100/{1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}_mspaint_exe
+-/r * 475861-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/AppIconCache/100/Microsoft_MSPaint_8wekyb3d8bbwe!Microsoft_MSPaint
+-/r * 475862-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/AppIconCache/100/Microsoft_XboxOneSmartGlass_8wekyb3d8bbwe!Microsoft_XboxOneSmartGlass
+-/r * 475863-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/AppIconCache/100/{1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}_msconfig_exe
+-/r * 475864-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/AppIconCache/100/Microsoft_Microsoft3DViewer_8wekyb3d8bbwe!Microsoft_Microsoft3DViewer
+-/r * 475870-128-3:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/AppIconCache/100/Chrome
+-/r * 475871-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/AppIconCache/100/Microsoft_FreshPaint_8wekyb3d8bbwe!Microsoft_FreshPaint
+-/r * 475929-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/AppIconCache/100/Microsoft_WindowsFeedbackHub_8wekyb3d8bbwe!App
+-/r * 475930-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/AppIconCache/100/Microsoft_AutoGenerated_{4F320C6D-566B-A328-A366-1EC51BD74B62}
+-/r * 475935-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/AppIconCache/100/microsoft_windowscommunicationsapps_8wekyb3d8bbwe!microsoft_windowslive_calendar
+-/r * 475937-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/AppIconCache/100/Microsoft_MicrosoftStickyNotes_8wekyb3d8bbwe!App
+-/r * 475938-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/AppIconCache/100/Microsoft_Windows_SecHealthUI_cw5n1h2txyewy!SecHealthUI
+-/r * 475939-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/AppIconCache/100/91750D7E_Slack_8she8kybcnzg4!Slack
+-/r * 475940-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/AppIconCache/100/windows_immersivecontrolpanel_cw5n1h2txyewy!microsoft_windows_immersivecontrolpanel
+-/r * 475941-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/AppIconCache/100/Microsoft_Office_MSPUB_EXE_15
+-/r * 475942-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/AppIconCache/100/AppleInc_iCloud_nzyj5cx40ttqa!iCloud
+-/r * 476100-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/AppIconCache/100/Flipboard_Flipboard_3f5azkryzdbc4!App
+-/r * 476349-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/AppIconCache/100/microsoft_windowscommunicationsapps_8wekyb3d8bbwe!microsoft_windowslive_mail
+-/r * 476363-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/AppIconCache/100/Microsoft_ZuneMusic_8wekyb3d8bbwe!Microsoft_ZuneMusic
+-/r * 476748-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/AppIconCache/100/TheNewYorkTimes_NYTCrossword_3q5wqmazkcmtm!App
+-/r * 476785-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/AppIconCache/100/Microsoft_GetHelp_8wekyb3d8bbwe!App
+-/r * 476786-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/AppIconCache/100/308046B0AF4A39CB
+-/r * 476807-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/AppIconCache/100/Microsoft_People_8wekyb3d8bbwe!x4c7a3b7dy2188y46d4ya362y19ac5a5805e5x
+-/r * 476820-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/AppIconCache/100/Microsoft_WindowsAlarms_8wekyb3d8bbwe!App
+-/r * 476821-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/AppIconCache/100/Microsoft_SurfaceHub_8wekyb3d8bbwe!App
+-/r * 476833-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/AppIconCache/100/Microsoft_AutoGenerated_{C1C6F8AC-40A3-0F5C-146F-65A9DC70BBB4}
+-/r * 476834-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/AppIconCache/100/Microsoft_MixedReality_Portal_8wekyb3d8bbwe!App
+-/r * 477459-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/AppIconCache/100/Microsoft_Getstarted_8wekyb3d8bbwe!App
+-/r * 477537-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/AppIconCache/100/Microsoft_Windows_Photos_8wekyb3d8bbwe!App
+-/r * 477558-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/AppIconCache/100/Microsoft_Windows_Photos_8wekyb3d8bbwe!SecondaryEntry
+-/r * 477560-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/AppIconCache/100/Microsoft_AutoGenerated_{A7FB06FF-C7BC-348A-F03A-1AB15C0664FB}
+-/r * 477588-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/AppIconCache/100/Microsoft_Office_OneNote_8wekyb3d8bbwe!microsoft_onenoteim
+-/r * 477610-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/AppIconCache/100/Microsoft_XboxGamingOverlay_8wekyb3d8bbwe!App
+-/r * 477611-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/AppIconCache/100/Microsoft_WindowsStore_8wekyb3d8bbwe!App
+-/r * 477612-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/AppIconCache/100/Microsoft_AutoGenerated_{DAA168DE-4306-C8BC-8C11-B596240BDDED}
+-/r * 477613-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/AppIconCache/100/Microsoft_YourPhone_8wekyb3d8bbwe!App
+-/r * 477614-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/AppIconCache/100/Microsoft_ZuneVideo_8wekyb3d8bbwe!Microsoft_ZuneVideo
+-/r * 477615-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/AppIconCache/100/Microsoft_BingWeather_8wekyb3d8bbwe!App
+-/r * 477616-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/AppIconCache/100/Microsoft_InternetExplorer_Default
+-/r * 477617-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/AppIconCache/100/Microsoft_SkypeApp_kzf8qxf38zg5c!App
+-/r * 477618-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/AppIconCache/100/Microsoft_WindowsMaps_8wekyb3d8bbwe!App
+-/r * 477619-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/AppIconCache/100/Microsoft_WindowsCalculator_8wekyb3d8bbwe!App
+-/r * 477620-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/AppIconCache/100/Microsoft_549981C3F5F10_8wekyb3d8bbwe!App
+-/r * 477621-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/AppIconCache/100/Microsoft_AutoGenerated_{8AA47365-B2B3-1961-69EB-F866E376B12F}
+-/r * 477622-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/AppIconCache/100/Microsoft_WindowsSoundRecorder_8wekyb3d8bbwe!App
+-/r * 477623-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/AppIconCache/100/Microsoft_MicrosoftSolitaireCollection_8wekyb3d8bbwe!App
+-/r * 477624-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/AppIconCache/100/AD2F1837_HPPrinterControl_v10z8vjag6ke6!AD2F1837_HPPrinterControl
+-/r * 477625-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/AppIconCache/100/AppleInc_iCloud_nzyj5cx40ttqa!iCloudPhotoViewer
+-/r * 477626-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/AppIconCache/100/com_squirrel_Teams_Teams
+-/r * 477627-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/AppIconCache/100/9E2F88E3_Twitter_wgeqdkkx372wm!Twitter
+-/r * 477628-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/AppIconCache/100/4DF9E0F8_Netflix_mcm4njqhnhss8!Netflix_App
+-/r * 477629-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/AppIconCache/100/C__Windows10Upgrade_Windows10UpgraderApp_exe
+-/r * 477630-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/AppIconCache/100/Dropbox_Desktop_Client
+-/r * 477631-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/AppIconCache/100/Microsoft_Office_EXCEL_EXE_15
+-/r * 477632-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/AppIconCache/100/https___www_dropbox_com
+-/r * 477633-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/AppIconCache/100/Microsoft_AutoGenerated_{BB044BFD-25B7-2FAA-22A8-6371A93E0456}
+-/r * 477634-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/AppIconCache/100/Microsoft_AutoGenerated_{BBD91EB3-B1EC-9260-5BB1-FAB2265F9FB5}
+-/r * 477635-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/AppIconCache/100/{6D809377-6AF0-444B-8957-A3773F02200E}_Common Files_Microsoft Shared_Ink_mip_exe
+-/r * 477636-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/AppIconCache/100/Microsoft_AutoGenerated_{C804BBA7-FA5F-CBF7-8B55-2096E5F972CB}
+-/r * 477637-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/AppIconCache/100/Microsoft_Office_MSACCESS_EXE_15
+-/r * 477638-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/AppIconCache/100/Microsoft_Office_MSOUC_EXE_15
+-/r * 477639-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/AppIconCache/100/{1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}_WindowsPowerShell_v1_0_PowerShell_ISE_exe
+-/r * 477640-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/AppIconCache/100/Microsoft_Office_ONENOTE_EXE_15
+-/r * 477641-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/AppIconCache/100/Microsoft_Office_OUTLOOK_EXE_15
+-/r * 477642-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/AppIconCache/100/{1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}_osk_exe
+-/r * 477643-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/AppIconCache/100/Microsoft_Office_POWERPNT_EXE_15
+-/r * 477644-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/AppIconCache/100/Microsoft_Office_WINWORD_EXE_15
+-/r * 477645-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/AppIconCache/100/Microsoft_Office_SETLANG_EXE_15
+-/r * 477646-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/AppIconCache/100/Microsoft_Windows_AdministrativeTools
+-/r * 477647-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/AppIconCache/100/Microsoft_Windows_Computer
+-/r * 477648-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/AppIconCache/100/{7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}_Adobe_Acrobat Reader DC_Reader_AcroRd32_exe
+-/r * 477649-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/AppIconCache/100/Microsoft_Windows_ControlPanel
+-/r * 477650-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/AppIconCache/100/Microsoft_Windows_Explorer
+-/r * 477651-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/AppIconCache/100/{1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}_RecoveryDrive_exe
+-/r * 477652-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/AppIconCache/100/Microsoft_Windows_MediaPlayer32
+-/r * 477653-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/AppIconCache/100/Microsoft_Windows_RemoteDesktop
+-/r * 477654-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/AppIconCache/100/Microsoft_Windows_Shell_RunDialog
+-/r * 477655-128-3:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/AppIconCache/100/MSEdge
+-/r * 477656-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/AppIconCache/100/zoom_us_Zoom Video Meetings
+-/r * 477657-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/AppIconCache/100/_crx__bjhmmnoficofgoiacjaajpkfndojknpb
+-/r * 477658-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/AppIconCache/100/_crx__hikhggiobiflkdfdgdajcfklmcibbopi
+-/r * 477659-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/AppIconCache/100/_crx__leffmjdabcgaflkikcefahmlgpodjkdm
+-/r * 477660-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/AppIconCache/100/_crx__opfacbhaojodjaojgocnibmklknchehf
+-/r * 477661-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/AppIconCache/100/{1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}_charmap_exe
+-/r * 477662-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/AppIconCache/100/{1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}_cleanmgr_exe
+-/r * 477663-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/AppIconCache/100/{1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}_cmd_exe
+-/r * 477664-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/AppIconCache/100/{1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}_comexp_msc
+-/r * 477665-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/AppIconCache/100/{1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}_dfrgui_exe
+-/r * 477666-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/AppIconCache/100/{1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}_iscsicpl_exe
+-/r * 477667-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/AppIconCache/100/{1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}_magnify_exe
+-/r * 477668-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/AppIconCache/100/{1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}_MdSched_exe
+-/r * 477669-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/AppIconCache/100/{1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}_msinfo32_exe
+-/r * 477670-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/AppIconCache/100/{1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}_notepad_exe
+-/r * 477671-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/AppIconCache/100/{1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}_narrator_exe
+-/r * 477672-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/AppIconCache/100/{1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}_odbcad32_exe
+-/r * 477673-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/AppIconCache/100/{1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}_printmanagement_msc
+-/r * 477674-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/AppIconCache/100/{1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}_psr_exe
+-/r * 477675-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/AppIconCache/100/{1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}_quickassist_exe
+-/r * 477676-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/AppIconCache/100/{1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}_services_msc
+-/r * 477677-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/AppIconCache/100/{1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}_SnippingTool_exe
+-/r * 477678-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/AppIconCache/100/{1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}_WF_msc
+-/r * 477679-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/AppIconCache/100/{1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}_WFS_exe
+-/r * 477680-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/AppIconCache/100/{1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}_WindowsPowerShell_v1_0_powershell_exe
+-/r * 477681-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/AppIconCache/100/{6D809377-6AF0-444B-8957-A3773F02200E}_Google_Drive File Stream_43_0_8_0_GoogleDriveFS_exe
+-/r * 477682-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/AppIconCache/100/{6D809377-6AF0-444B-8957-A3773F02200E}_Google_Drive_googledrivesync_exe
+-/r * 477683-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/AppIconCache/100/{6D809377-6AF0-444B-8957-A3773F02200E}_Windows NT_Accessories_wordpad_exe
+-/r * 477684-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/AppIconCache/100/{D65231B0-B2F1-4857-A4CE-A8E7C6EA7D27}_odbcad32_exe
+-/r * 477685-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/AppIconCache/100/{D65231B0-B2F1-4857-A4CE-A8E7C6EA7D27}_WindowsPowerShell_v1_0_powershell_exe
+-/r * 477686-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/AppIconCache/100/{D65231B0-B2F1-4857-A4CE-A8E7C6EA7D27}_WindowsPowerShell_v1_0_PowerShell_ISE_exe
+-/r * 477687-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/AppIconCache/100/{F38BF404-1D43-42F2-9305-67DE0B28FC23}_regedit_exe
+-/d * 344846-144-6:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/ConstraintIndex/Apps_{def50fb2-34e0-4c41-919a-41bedb4d7bc7}
+-/r * 344850-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/ConstraintIndex/Apps_{def50fb2-34e0-4c41-919a-41bedb4d7bc7}/Apps.index
+-/r * 344851-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/ConstraintIndex/Apps_{def50fb2-34e0-4c41-919a-41bedb4d7bc7}/0.0.filtertrie.intermediate.txt
+-/r * 344853-128-1:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/ConstraintIndex/Apps_{def50fb2-34e0-4c41-919a-41bedb4d7bc7}/0.1.filtertrie.intermediate.txt
+-/r * 344854-128-1:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/ConstraintIndex/Apps_{def50fb2-34e0-4c41-919a-41bedb4d7bc7}/0.2.filtertrie.intermediate.txt
+-/r * 344855-128-3:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/ConstraintIndex/Apps_{def50fb2-34e0-4c41-919a-41bedb4d7bc7}/Apps.ft
+-/d * 344867-144-6:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/ConstraintIndex/Apps_{9ee1e69a-a8b3-413b-9b83-54b7215df76c}
+-/r * 344868-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/ConstraintIndex/Apps_{9ee1e69a-a8b3-413b-9b83-54b7215df76c}/Apps.index
+-/r * 344869-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/ConstraintIndex/Apps_{9ee1e69a-a8b3-413b-9b83-54b7215df76c}/0.0.filtertrie.intermediate.txt
+-/r * 344870-128-1:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/ConstraintIndex/Apps_{9ee1e69a-a8b3-413b-9b83-54b7215df76c}/0.1.filtertrie.intermediate.txt
+-/r * 344871-128-1:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/ConstraintIndex/Apps_{9ee1e69a-a8b3-413b-9b83-54b7215df76c}/0.2.filtertrie.intermediate.txt
+-/r * 344872-128-3:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/ConstraintIndex/Apps_{9ee1e69a-a8b3-413b-9b83-54b7215df76c}/Apps.ft
+-/d * 344879-144-6:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/ConstraintIndex/Apps_{3fdc897e-f0f4-4cca-af52-f88a7873c6bf}
+-/r * 344880-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/ConstraintIndex/Apps_{3fdc897e-f0f4-4cca-af52-f88a7873c6bf}/0.0.filtertrie.intermediate.txt
+-/r * 344881-128-1:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/ConstraintIndex/Apps_{3fdc897e-f0f4-4cca-af52-f88a7873c6bf}/0.1.filtertrie.intermediate.txt
+-/r * 344882-128-1:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/ConstraintIndex/Apps_{3fdc897e-f0f4-4cca-af52-f88a7873c6bf}/0.2.filtertrie.intermediate.txt
+-/r * 344883-128-3:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/ConstraintIndex/Apps_{3fdc897e-f0f4-4cca-af52-f88a7873c6bf}/Apps.ft
+-/d * 344884-144-6:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/ConstraintIndex/Apps_{e6d02d94-14de-4224-a0dc-14a314dfa366}
+r/r * 344927-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/ConstraintIndex/Apps_{e6d02d94-14de-4224-a0dc-14a314dfa366}/0.0.filtertrie.intermediate.txt
+r/r * 344933-128-1:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/ConstraintIndex/Apps_{e6d02d94-14de-4224-a0dc-14a314dfa366}/0.1.filtertrie.intermediate.txt
+r/r * 365962-128-1:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/ConstraintIndex/Apps_{e6d02d94-14de-4224-a0dc-14a314dfa366}/0.2.filtertrie.intermediate.txt
+r/r * 366004-128-3:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/ConstraintIndex/Apps_{e6d02d94-14de-4224-a0dc-14a314dfa366}/Apps.ft
+r/r * 344886-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/ConstraintIndex/Apps_{e6d02d94-14de-4224-a0dc-14a314dfa366}/Apps.index
+-/d * 366728-144-6:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/ConstraintIndex/Apps_{76b76546-5f38-484f-90b9-c136c86cc939}
+-/r * 366730-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/ConstraintIndex/Apps_{76b76546-5f38-484f-90b9-c136c86cc939}/Apps.index
+-/r * 366731-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/ConstraintIndex/Apps_{76b76546-5f38-484f-90b9-c136c86cc939}/0.0.filtertrie.intermediate.txt
+-/r * 366732-128-1:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/ConstraintIndex/Apps_{76b76546-5f38-484f-90b9-c136c86cc939}/0.1.filtertrie.intermediate.txt
+-/r * 366734-128-1:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/ConstraintIndex/Apps_{76b76546-5f38-484f-90b9-c136c86cc939}/0.2.filtertrie.intermediate.txt
+-/r * 366735-128-3:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/ConstraintIndex/Apps_{76b76546-5f38-484f-90b9-c136c86cc939}/Apps.ft
+-/r * 344840-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/DeviceSearchCache/AppCache132499367600116484.txt
+-/r * 344842-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/DeviceSearchCache/AppCache132499367580337965.txt
+-/r * 344857-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/DeviceSearchCache/AppCache132499367657677677.txt
+-/r * 344861-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/DeviceSearchCache/AppCache132499367636699484.txt
+-/r * 344878-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/DeviceSearchCache/AppCache132499367678297467.txt
+-/r * 344885-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/DeviceSearchCache/AppCache132499367696594473.txt
+-/r * 366726-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/DeviceSearchCache/AppCache132499367358099881.txt
+-/r * 477604-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/DeviceSearchCache/AppCache132498346218367175.txt
+-/r * 477689-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/DeviceSearchCache/AppCache132498316988903052.txt
+-/r * 479095-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/DeviceSearchCache/AppCache132498332634875339.txt
+-/r * 479109-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/DeviceSearchCache/AppCache132498333329107248.txt
+-/r * 366077-128-1:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/TempState/CortanaUnifiedTileModelCache.dat~RF16b26f40.TMP
+-/r * 474974-128-4:	Users/fredr/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/TempState/CortanaUnifiedTileModelCache.dat~RF16b1b084.TMP
+-/r * 388581-128-3:	Users/fredr/AppData/Local/Packages/microsoft.windowscommunicationsapps_8wekyb3d8bbwe/LocalState/Files/S0/4/EFMData/258.dat
+-/r * 388596-128-3:	Users/fredr/AppData/Local/Packages/microsoft.windowscommunicationsapps_8wekyb3d8bbwe/LocalState/Files/S0/4/EFMData/259.dat
+-/r * 367676-128-5:	Users/fredr/AppData/Local/Temp/197148a6-f1d9-4db9-999d-9effa624d794.tmp
+-/r * 371018-128-4:	Users/fredr/AppData/Local/Temp/2ce14210-5c45-4502-bd67-9337dffb19b8.tmp
+-/r * 386664-128-1:	Users/fredr/AppData/Local/Temp/aria-debug-15672.log
+-/r * 472065-128-5:	Users/fredr/AppData/Local/Temp/47602b09-9380-4899-b55d-7bce5abaa571.tmp
+-/r * 472535-128-4:	Users/fredr/AppData/Local/Temp/bd89045f-4317-479a-a2f2-9b831752288a.tmp
+-/r * 473035-128-5:	Users/fredr/AppData/Local/Temp/81290545-f28e-479c-bc1b-063695b58b88.tmp
+-/r * 473036-128-5:	Users/fredr/AppData/Local/Temp/02279def-e9b1-4b36-8e7a-202dc76bc778.tmp
+-/r * 477609-128-5:	Users/fredr/AppData/Local/Temp/6aa7792f-9c16-47d9-967d-c00f50623845.tmp
+-/r * 472517-128-1:	Users/fredr/AppData/Roaming/Microsoft/Teams/Service Worker/ScriptCache/index-dir/the-real-index~RF10b6ca6c.TMP
+-/r * 477822-128-1:	Users/fredr/AppData/Roaming/Microsoft/Teams/SkypeRT/persistent.conf
+-/r * 472543-128-4:	Users/fredr/AppData/Roaming/Microsoft/Windows/Recent/CustomDestinations/6824f4a902c78fbd.customDestinations-ms~RF10a90805.TMP
+-/r * 477700-128-4:	Users/fredr/AppData/Roaming/Microsoft/Windows/Recent/CustomDestinations/a55ed4fbb973aefb.customDestinations-ms~RF10c0a2fd.TMP
+-/r * 479130-128-1:	Users/fredr/AppData/Roaming/Microsoft/Windows/Recent/CustomDestinations/6824f4a902c78fbd.customDestinations-ms~RF10a73355.TMP
+-/r * 370963-128-1:	Users/fredr/AppData/Roaming/Microsoft/Windows/Recent/Homework (E).lnk
+-/r * 389649-128-1:	Users/fredr/AppData/Roaming/Microsoft/Windows/Recent/STARK-RESEARCH-LABS FOLDER (2).lnk
+-/r * 479132-128-4:	Users/fredr/AppData/Roaming/Mozilla/Firefox/Profiles/jyiq7x58.default-release/datareporting/aborted-session-ping
+-/r * 479131-128-1:	Users/fredr/AppData/Roaming/Mozilla/Firefox/Profiles/jyiq7x58.default-release/storage/default/moz-extension+++67c38259-1a96-4640-969c-aa7c01c9f82f^userContextId=4294967295/idb/3647222921wleabcEoxlt-eengsairo.files/journals/158
+-/r * 472538-128-4:	Users/fredr/AppData/Roaming/Mozilla/Firefox/Profiles/jyiq7x58.default-release/storage/default/moz-extension+++67c38259-1a96-4640-969c-aa7c01c9f82f^userContextId=4294967295/idb/3647222921wleabcEoxlt-eengsairo.sqlite-shm
+-/r * 472544-128-1:	Users/fredr/AppData/Roaming/Mozilla/Firefox/Profiles/jyiq7x58.default-release/weave/changes/clients.json
+-/r * 472513-128-4:	Users/fredr/AppData/Roaming/Mozilla/Firefox/Profiles/jyiq7x58.default-release/weave/addonsreconciler.json
+-/d * 344835-144-1:	$Extend/$Deleted/000500000005430336BED9E5
+-/r * 344839-128-3:	$Extend/$Deleted/000500000005430336BED9E5/content.phf
+-/d * 388602-144-1:	$Extend/$Deleted/000600000005EDFA7E247764
+-/d * 390030-144-5:	$Extend/$Deleted/000900000005F38E15838BFF
+-/r * 390031-128-1:	$Extend/$Deleted/000900000005F38E15838BFF/trans[1].gif
+-/r * 474979-128-4:	$Extend/$Deleted/000900000005F38E15838BFF/msbstrings_f957035e2a648586e2f869f76264c6de583fb091[1].js
+-/r * 474980-128-4:	$Extend/$Deleted/000900000005F38E15838BFF/msbqf_cbded6b98e60a9192b7d[1].js
+-/r * 474981-128-4:	$Extend/$Deleted/000900000005F38E15838BFF/msbdatastrings_90a01c2061d7058f5e05332c6da21c6ff366caff[1].js
+-/r * 474982-128-4:	$Extend/$Deleted/000900000005F38E15838BFF/main_30b8658d726de08abf48[1].js
+-/r * 474983-128-4:	$Extend/$Deleted/000900000005F38E15838BFF/vendors_main_d76fedd200af0578fc49[1].js
+-/r * 474984-128-4:	$Extend/$Deleted/000900000005F38E15838BFF/msb_c98d04f1147acb8cb2b5[1].js
+-/d * 390032-144-5:	$Extend/$Deleted/000800000005F390255D7AB4
+-/r * 390033-128-1:	$Extend/$Deleted/000800000005F390255D7AB4/trans[1].gif
+-/r * 473127-128-1:	$Extend/$Deleted/000800000005F390255D7AB4/trans[2].gif
+-/r * 473151-128-1:	$Extend/$Deleted/000800000005F390255D7AB4/trans[3].gif
+-/r * 474988-128-4:	$Extend/$Deleted/000800000005F390255D7AB4/msbdataworker_dcb75ea98bf3154fbb63[1].js
+-/r * 477706-128-1:	$Extend/$Deleted/000800000005F390255D7AB4/trans[5].gif
+-/d * 473044-144-5:	$Extend/$Deleted/00010000000737D44F8B1FA5
+-/r * 473045-128-4:	$Extend/$Deleted/00010000000737D44F8B1FA5/footer-youtube-4x[1].png
+-/r * 473046-128-1:	$Extend/$Deleted/00010000000737D44F8B1FA5/footer-facebook-4x[1].png
+-/r * 474367-128-1:	$Extend/$Deleted/00010000000737D44F8B1FA5/20.169.0823[1].json
+-/r * 474398-128-1:	$Extend/$Deleted/00010000000737D44F8B1FA5/blank[1].gif
+-/r * 474399-128-1:	$Extend/$Deleted/00010000000737D44F8B1FA5/blank[2].gif
+-/r * 475070-128-4:	$Extend/$Deleted/00010000000737D44F8B1FA5/dh-76-purple[1].png
+-/r * 475071-128-4:	$Extend/$Deleted/00010000000737D44F8B1FA5/apps.46851.9007199266246365.1f6d0339-ecce-4fe5-840a-652cd84111ad[4].png
+-/r * 475076-128-4:	$Extend/$Deleted/00010000000737D44F8B1FA5/RE4ncJa[1].jpg
+-/r * 475077-128-4:	$Extend/$Deleted/00010000000737D44F8B1FA5/favicon[1].ico
+-/d * 473047-144-5:	$Extend/$Deleted/00010000000737D77D4B235C
+-/r * 473048-128-4:	$Extend/$Deleted/00010000000737D77D4B235C/footer-twitter-4x[1].png
+-/r * 473049-128-4:	$Extend/$Deleted/00010000000737D77D4B235C/footer-linkedin-4x[1].png
+-/r * 473051-128-4:	$Extend/$Deleted/00010000000737D77D4B235C/microsoft-logo-2x[1].png
+-/r * 473052-128-4:	$Extend/$Deleted/00010000000737D77D4B235C/microsoft-azure-2x[1].png
+-/r * 473053-128-1:	$Extend/$Deleted/00010000000737D77D4B235C/arrow[2].png
+-/r * 475068-128-4:	$Extend/$Deleted/00010000000737D77D4B235C/4773961c254d7b524194b079d7c4a6d333e3f530[1].gif
+-/r * 475072-128-4:	$Extend/$Deleted/00010000000737D77D4B235C/33c540c16ea7114191a2cd83d1dc85cfaf3d619a[3].png
+-/r * 475078-128-4:	$Extend/$Deleted/00010000000737D77D4B235C/favicon[1].ico
+-/d * 473050-144-5:	$Extend/$Deleted/00020000000737DA30D07265
+-/r * 473054-128-1:	$Extend/$Deleted/00020000000737DA30D07265/emailtrackingpixel[1].png
+-/r * 474060-128-4:	$Extend/$Deleted/00020000000737DA30D07265/256_icdotx[1].png
+-/r * 474393-128-4:	$Extend/$Deleted/00020000000737DA30D07265/siteIcon[1].png
+-/r * 474394-128-4:	$Extend/$Deleted/00020000000737DA30D07265/core[1].js
+-/r * 474400-128-1:	$Extend/$Deleted/00020000000737DA30D07265/folder[1].gif
+-/r * 474401-128-4:	$Extend/$Deleted/00020000000737DA30D07265/icpptx[1].png
+-/r * 475079-128-4:	$Extend/$Deleted/00020000000737DA30D07265/BB1apRqi[1].jpg
+-/r * 476386-128-4:	$Extend/$Deleted/00030000000744E210CF8074
+-/r * 476392-128-4:	$Extend/$Deleted/00020000000744E8781560AA
+d/- * 281345:	Program Files/Common Files/microsoft shared/ink/HWRCustomization
+d/- * 0:	Program Files/Common Files/microsoft shared/ink/sk-SK
+r/- * 0:	Program Files/Common Files/microsoft shared/ink/ipsesp.xml
+r/- * 0:	Program Files/Common Files/microsoft shared/ink/ipsfra.xml
+-/r * 377354-128-4:	Program Files/WindowsApps/Microsoft.WindowsFeedbackHub_2019.1111.2029.0_neutral_~_8wekyb3d8bbwe/AppxMetadata/AppxBundleManifest.xml
+-/r * 377354-128-7:	Program Files/WindowsApps/Microsoft.WindowsFeedbackHub_2019.1111.2029.0_neutral_~_8wekyb3d8bbwe/AppxMetadata/AppxBundleManifest.xml:WofCompressedData
+-/r * 377237-128-1:	Program Files/WindowsApps/Microsoft.WindowsFeedbackHub_2019.1111.2029.0_neutral_~_8wekyb3d8bbwe/AppxBlockMap.xml
+d/- * 0:	Windows/assembly/NativeImages_v4.0.30319_64/Microsoft.S0f8e494c#
+d/- * 0:	Windows/assembly/NativeImages_v4.0.30319_64/Microsoft.Sb6a1f1bc#
+d/- * 0:	Windows/Boot/PCAT/ja-JP
+r/- * 51434:	Windows/Installer/SourceHash{BC958BD2-5DAC-3862-BB1A-C1BE0790438D}
+d/- * 283593:	Windows/Media/Garden
+d/- * 283594:	Windows/Media/Heritage
+d/- * 283595:	Windows/Media/Landscape
+d/- * 283596:	Windows/Media/Quirky
+d/- * 283597:	Windows/Media/Raga
+d/- * 283598:	Windows/Media/Savanna
+d/- * 283599:	Windows/Media/Sonata
+r/- * 0:	Windows/ImmersiveControlPanel/images/logo.contrast-black_scale-200.png
+r/- * 0:	Windows/ImmersiveControlPanel/images/logo.scale-125_altform-unplated.png
+r/- * 0:	Windows/ImmersiveControlPanel/images/splashscreen.contrast-black_scale-125.png
+r/- * 0:	Windows/ImmersiveControlPanel/images/TileSmall.contrast-white_scale-150.png
+r/- * 0:	Windows/ImmersiveControlPanel/images/TinyTile.contrast-black_scale-400.png
+-/r * 366698-128-4:	Windows/Logs/WindowsUpdate/WindowsUpdate.20201115.125740.498.17.etl
+-/r * 366722-128-4:	Windows/Logs/WindowsUpdate/WindowsUpdate.20201115.125740.498.21.etl
+-/r * 366724-128-4:	Windows/Logs/WindowsUpdate/WindowsUpdate.20201115.125740.498.24.etl
+-/r * 366821-128-4:	Windows/Logs/WindowsUpdate/WindowsUpdate.20201115.125740.498.23.etl
+-/r * 367566-128-4:	Windows/Logs/WindowsUpdate/WindowsUpdate.20201114.074629.578.3.etl
+-/r * 371020-128-4:	Windows/Logs/WindowsUpdate/WindowsUpdate.20201114.074629.578.2.etl
+-/r * 372617-128-4:	Windows/Logs/WindowsUpdate/WindowsUpdate.20201113.222732.398.1.etl
+-/r * 386073-128-4:	Windows/Logs/WindowsUpdate/WindowsUpdate.20201114.073127.154.1.etl
+-/r * 386194-128-4:	Windows/Logs/WindowsUpdate/WindowsUpdate.20201113.122732.330.3.etl
+-/r * 388349-128-4:	Windows/Logs/WindowsUpdate/WindowsUpdate.20201113.122732.330.4.etl
+-/r * 390420-128-4:	Windows/Logs/WindowsUpdate/WindowsUpdate.20201113.122732.330.5.etl
+d/- * 0:	Windows/Microsoft.NET/assembly/GAC_32/Microsoft.Management.Infrastructure.Native
+d/- * 0:	Windows/Microsoft.NET/assembly/GAC_64/Microsoft.GroupPolicy.AdmTmplEditor.Resources
+d/- * 0:	Windows/Microsoft.NET/assembly/GAC_MSIL/EventViewer.Resources
+d/- * 0:	Windows/Microsoft.NET/assembly/GAC_MSIL/Microsoft.PowerShell.Editor
+d/- * 0:	Windows/Microsoft.NET/assembly/GAC_MSIL/Microsoft.PowerShell.Security.Resources
+d/- * 0:	Windows/Microsoft.NET/assembly/GAC_MSIL/Microsoft.Windows.Diagnosis.Commands.WriteDiagProgress
+d/- * 0:	Windows/Microsoft.NET/assembly/GAC_MSIL/Microsoft.Windows.StartLayout.Commands.Resources
+d/- * 0:	Windows/Microsoft.NET/assembly/GAC_MSIL/System.Numerics.Vectors
+d/- * 0:	Windows/Microsoft.NET/assembly/GAC_MSIL/System.Runtime.Handles
+d/- * 0:	Windows/Microsoft.NET/assembly/GAC_MSIL/System.Runtime.WindowsRuntime
+r/- * 322721:	Windows/Microsoft.NET/Framework/v4.0.30319/SMSvcHost.exe.config
+r/- * 377853:	Windows/Microsoft.NET/Framework/v4.0.30319/Config/NetFx40_IIS_schema_update.xml
+r/- * 377857:	Windows/Microsoft.NET/Framework/v4.0.30319/Config/NetFx45_IIS_schema_update.xml
+r/- * 322720:	Windows/Microsoft.NET/Framework64/v4.0.30319/SMSvcHost.exe.config
+r/- * 377852:	Windows/Microsoft.NET/Framework64/v4.0.30319/Config/NetFx40_IIS_schema_update.xml
+r/- * 377856:	Windows/Microsoft.NET/Framework64/v4.0.30319/Config/NetFx45_IIS_schema_update.xml
+r/- * 0:	Windows/PolicyDefinitions/en-US/CEIPEnable.adml
+r/- * 0:	Windows/PolicyDefinitions/en-US/PenTraining.adml
+r/- * 0:	Windows/System32/SMI/Store/Machine/SCHEMA.DAT.LOG1
+r/- * 0:	Windows/System32/SMI/Store/Machine/SCHEMA.DAT.LOG2
+r/- * 0:	Windows/System32/Hydrogen/BakedPlugins/Animation/preseteasecurveinquad.hbakedcurve
+r/- * 0:	Windows/System32/config/COMPONENTS.LOG1
+r/- * 0:	Windows/System32/config/COMPONENTS.LOG2
+r/- * 0:	Windows/System32/config/DEFAULT.LOG1
+r/- * 0:	Windows/System32/config/DRIVERS.LOG1
+r/- * 0:	Windows/System32/config/DRIVERS.LOG2
+r/- * 0:	Windows/System32/en-US/FileHistory.exe.mui
+r/- * 0:	Windows/System32/en-US/mpeval.dll.mui
+r/- * 0:	Windows/System32/en-US/PlayToStatusProvider.dll.mui
+r/- * 0:	Windows/System32/en-US/SystemPropertiesAdvanced.exe.mui
+r/- * 0:	Windows/System32/en-US/winver.exe.mui
+r/- * 0:	Windows/System32/en-US/certcli.dll.mui
+r/- * 0:	Windows/System32/en-US/edptask.dll.mui
+r/- * 0:	Windows/System32/en-US/fontview.exe.mui
+r/- * 0:	Windows/System32/en-US/InfDefaultInstall.exe.mui
+r/- * 0:	Windows/System32/en-US/SettingsHandlers_Display.dll.mui
+r/- * 0:	Windows/System32/en-US/TelephonyInteractiveUserRes.dll.mui
+r/- * 0:	Windows/System32/en-US/TrustedSignalCredProv.dll.mui
+r/- * 0:	Windows/System32/en-US/Windows.ApplicationModel.Store.TestingFramework.dll.mui
+r/- * 0:	Windows/System32/en-US/wshrm.dll.mui
+-/r * 375566-128-1:	Windows/System32/spp/store/2.0/tokens.dat.bak
+r/- * 0:	Windows/System32/wbem/dscproxy.mof
+r/- * 0:	Windows/System32/wbem/mswmdm.mof
+r/- * 0:	Windows/System32/wbem/nshipsec.mof
+d/- * 0:	Windows/System32/WindowsPowerShell/v1.0/Modules/MMAgent
+r/- * 0:	Windows/System32/WindowsPowerShell/v1.0/Modules/NetworkTransition/MSFT_NetIpHTTPsState.format.ps1xml
+r/- * 0:	Windows/System32/WindowsPowerShell/v1.0/Modules/PrintManagement/MSFT_PrinterNfcTag.format.ps1xml
+d/- * 0:	Windows/System32/WindowsPowerShell/v1.0/Modules/ProcessMitigations
+r/- * 0:	Windows/System32/WindowsPowerShell/v1.0/Schemas/PSMaml/developerManagedEvent.xsd
+r/- * 0:	Windows/System32/migwiz/dlmanifests/DirectoryServices-Domain-DL.man
+r/- * 0:	Windows/System32/migwiz/dlmanifests/GroupPolicy-CSE-SoftwareInstallation-DL.man
+d/- * 0:	Windows/System32/migwiz/dlmanifests/Microsoft-Windows-COM-DTC-Setup-DL
+r/- * 0:	Windows/System32/migwiz/dlmanifests/Printing-Spooler-Networkclient-DL.man
+r/- * 0:	Windows/System32/migwiz/dlmanifests/TabletPC-TabBtn-DL.man
+r/- * 0:	Windows/System32/migwiz/replacementmanifests/DHCPServer-Tools-Replacement.man
+r/- * 0:	Windows/System32/migwiz/replacementmanifests/Microsoft-Windows-ServerManager-RSAT-FeatureTools-Replacement.man
+r/- * 0:	Windows/System32/migwiz/replacementmanifests/DmrcWin7Replacement.man
+r/- * 0:	Windows/System32/migwiz/replacementmanifests/IdentityServer-Migration-Replacement.man
+r/- * 0:	Windows/System32/migwiz/replacementmanifests/Kernel32-Server-Replacement.man
+r/- * 0:	Windows/System32/migwiz/replacementmanifests/Microsoft-Windows-WCFCoreComp-Replacement.man
+r/- * 0:	Windows/System32/migwiz/replacementmanifests/nfs-servercoreupg-clientcore-repl.man
+r/- * 0:	Windows/System32/migwiz/replacementmanifests/RasApi-Repl.man
+r/- * 0:	Windows/System32/migwiz/replacementmanifests/shmig-replacement.man
+r/- * 0:	Windows/System32/migwiz/replacementmanifests/Tcblaunch-Replacement.man
+r/- * 0:	Windows/System32/migwiz/replacementmanifests/UsbMigration-Replacement.man
+r/- * 0:	Windows/SystemApps/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/Assets/MicrosoftEdgeFile.targetsize-129.png
+r/- * 0:	Windows/SystemApps/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/Assets/MicrosoftEdgeSplashScreen.scale-100.png
+r/- * 0:	Windows/SystemApps/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/Assets/MicrosoftEdgeSplashScreen.scale-200_contrast-white.png
+r/- * 0:	Windows/SystemApps/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/Assets/MicrosoftEdgeSquare150x150.scale-150_contrast-black.png
+r/- * 0:	Windows/SystemApps/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/Assets/MicrosoftEdgeSquare310x310.scale-125.png
+r/- * 0:	Windows/SystemApps/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/Assets/MicrosoftEdgeSquare44x44.scale-200_contrast-white.png
+r/- * 0:	Windows/SystemApps/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/Assets/MicrosoftEdgeSquare44x44.targetsize-20_altform-unplated.png
+r/- * 0:	Windows/SystemApps/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/Assets/MicrosoftEdgeSquare44x44.targetsize-24_contrast-white.png
+r/- * 0:	Windows/SystemApps/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/Assets/MicrosoftEdgeSquare44x44.targetsize-30_altform-unplated_contrast-white.png
+r/- * 0:	Windows/SystemApps/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/Assets/MicrosoftEdgeSquare44x44.targetsize-36_altform-unplated.png
+r/- * 0:	Windows/SystemApps/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/Assets/MicrosoftEdgeSquare44x44.targetsize-40_contrast-white.png
+r/- * 0:	Windows/SystemApps/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/Assets/MicrosoftEdgeSquare44x44.targetsize-64_altform-unplated_contrast-white.png
+r/- * 0:	Windows/SystemApps/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/Assets/MicrosoftEdgeSquare44x44.targetsize-80_altform-unplated.png
+r/- * 0:	Windows/SystemApps/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/Assets/MicrosoftEdgeSquare44x44.targetsize-96_contrast-white.png
+r/- * 0:	Windows/SystemApps/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/Assets/MicrosoftEdgeSquare71x71.scale-150_contrast-white.png
+r/- * 0:	Windows/SystemApps/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/Assets/MicrosoftEdgeWide310x150.scale-125_contrast-white.png
+r/- * 0:	Windows/SystemApps/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/Assets/NewInprivateWindowIcon.scale-100_contrast-white.png
+r/- * 0:	Windows/SystemApps/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/Assets/NewInprivateWindowIcon.scale-400_contrast-white.png
+r/- * 0:	Windows/SystemApps/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/Assets/NewWindowIcon.scale-400.png
+r/- * 0:	Windows/SystemApps/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/en-US/assets/ErrorPages/navcancl.htm
+r/- * 0:	Windows/SystemApps/Microsoft.Windows.CallingShellApp_cw5n1h2txyewy/Assets/Splashscreen.scale-200_contrast-white.png
+r/- * 0:	Windows/SystemApps/Microsoft.Windows.CallingShellApp_cw5n1h2txyewy/Assets/square150x150logo.scale-200.png
+r/- * 0:	Windows/SystemApps/Microsoft.Windows.CallingShellApp_cw5n1h2txyewy/Assets/square44x44logo.scale-150_contrast-black.png
+r/- * 0:	Windows/SystemApps/Microsoft.Windows.CallingShellApp_cw5n1h2txyewy/Assets/Square44x44Logo.targetsize-20_altform-unplated.png
+r/- * 0:	Windows/SystemApps/Microsoft.Windows.CallingShellApp_cw5n1h2txyewy/Assets/Square44x44Logo.targetsize-32_altform-unplated.png
+r/- * 0:	Windows/SystemApps/Microsoft.Windows.CallingShellApp_cw5n1h2txyewy/Assets/Square44x44Logo.targetsize-60_altform-unplated.png
+r/- * 0:	Windows/SystemApps/Microsoft.Windows.CallingShellApp_cw5n1h2txyewy/Assets/Square44x44Logo.targetsize-96_altform-unplated.png
+r/- * 0:	Windows/SystemApps/Microsoft.Windows.CloudExperienceHost_cw5n1h2txyewy/webapps/inclusiveOobe/view/oobehello-main.html
+r/- * 0:	Windows/SystemApps/Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy/Ratings/RatingStars34.contrast-black_scale-200.png
+r/- * 0:	Windows/SystemApps/Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy/Ratings/RatingStars38.contrast-white_scale-200.png
+r/- * 0:	Windows/SystemApps/Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy/Ratings/RatingStars42.scale-200.png
+r/- * 0:	Windows/SystemApps/Microsoft.Windows.FileExplorer_cw5n1h2txyewy/Assets/SquareTile44x44.targetsize-256_altform-unplated_contrast-white_devicefamily-colorfulunplated.png
+r/- * 0:	Windows/SystemApps/microsoft.windows.narratorquickstart_8wekyb3d8bbwe/assets/NarratorUWPSplashScreen.scale-200_contrast-black.png
+r/- * 0:	Windows/SystemApps/microsoft.windows.narratorquickstart_8wekyb3d8bbwe/assets/NarratorUWPSquare150x150Logo.scale-150.png
+r/- * 0:	Windows/SystemApps/microsoft.windows.narratorquickstart_8wekyb3d8bbwe/assets/NarratorUWPSquare44x44Logo.scale-100_contrast-white.png
+r/- * 0:	Windows/SystemApps/microsoft.windows.narratorquickstart_8wekyb3d8bbwe/assets/NarratorUWPSquare44x44Logo.scale-400_contrast-black.png
+r/- * 0:	Windows/SystemApps/microsoft.windows.narratorquickstart_8wekyb3d8bbwe/assets/NarratorUWPSquare44x44Logo.targetsize-20_altform-unplated_contrast-black.png
+r/- * 0:	Windows/SystemApps/microsoft.windows.narratorquickstart_8wekyb3d8bbwe/assets/NarratorUWPSquare44x44Logo.targetsize-256.png
+r/- * 0:	Windows/SystemApps/microsoft.windows.narratorquickstart_8wekyb3d8bbwe/assets/NarratorUWPSquare44x44Logo.targetsize-30_contrast-black.png
+r/- * 0:	Windows/SystemApps/microsoft.windows.narratorquickstart_8wekyb3d8bbwe/assets/NarratorUWPSquare44x44Logo.targetsize-36_altform-unplated_contrast-black.png
+r/- * 0:	Windows/SystemApps/microsoft.windows.narratorquickstart_8wekyb3d8bbwe/assets/NarratorUWPSquare44x44Logo.targetsize-48.png
+r/- * 0:	Windows/SystemApps/microsoft.windows.narratorquickstart_8wekyb3d8bbwe/assets/NarratorUWPSquare44x44Logo.targetsize-60_contrast-black.png
+r/- * 0:	Windows/SystemApps/microsoft.windows.narratorquickstart_8wekyb3d8bbwe/assets/NarratorUWPSquare44x44Logo.targetsize-72_altform-unplated_contrast-black.png
+r/- * 0:	Windows/SystemApps/microsoft.windows.narratorquickstart_8wekyb3d8bbwe/assets/NarratorUWPSquare44x44Logo.targetsize-96.png
+r/- * 0:	Windows/SystemApps/Microsoft.Windows.PeopleExperienceHost_cw5n1h2txyewy/Assets/PeopleLogo.scale-400_contrast-black.png
+r/- * 0:	Windows/SystemApps/Microsoft.Windows.PeopleExperienceHost_cw5n1h2txyewy/Assets/PeopleLogo.targetsize-256_altform-unplated.png
+r/- * 0:	Windows/SystemApps/Microsoft.Windows.PeopleExperienceHost_cw5n1h2txyewy/Assets/PeopleLogo.targetsize-36_altform-unplated_contrast-white.png
+r/- * 0:	Windows/SystemApps/Microsoft.Windows.PeopleExperienceHost_cw5n1h2txyewy/Assets/PeopleLogo.targetsize-64_altform-unplated_contrast-black.png
+r/- * 0:	Windows/SystemApps/Microsoft.Windows.Search_cw5n1h2txyewy/Assets/Icons/AppListIcon.targetsize-32.png
+r/- * 0:	Windows/SystemApps/Microsoft.Windows.Search_cw5n1h2txyewy/Assets/Icons/contrast-black/AppListIcon.targetsize-32.png
+r/- * 0:	Windows/SystemApps/Microsoft.Windows.Search_cw5n1h2txyewy/Assets/Icons/contrast-white/AppListIcon.targetsize-32.png
+r/- * 0:	Windows/SystemApps/Microsoft.Windows.SecHealthUI_cw5n1h2txyewy/Assets/Square150x150Logo.contrast-black_scale-150.png
+r/- * 0:	Windows/SystemApps/Microsoft.Windows.SecHealthUI_cw5n1h2txyewy/Assets/Square71x71Logo.contrast-black_scale-200.png
+r/- * 0:	Windows/SystemApps/Microsoft.Windows.SecureAssessmentBrowser_cw5n1h2txyewy/Assets/Square44x44Logo.targetsize-256_altform-unplated_contrast-black.png
+r/- * 0:	Windows/SystemApps/Microsoft.Windows.SecureAssessmentBrowser_cw5n1h2txyewy/Assets/Square71x71Logo.contrast-white_scale-125.png
+r/- * 0:	Windows/SystemApps/Microsoft.Windows.SecureAssessmentBrowser_cw5n1h2txyewy/Assets/Wide310x150Logo.contrast-black_scale-125.png
+r/- * 0:	Windows/SystemApps/MicrosoftWindows.Client.CBS_cw5n1h2txyewy/InputApp/InputApp/Assets/SquareLogo44x44.scale-200.png
+r/- * 0:	Windows/SystemResources/Windows.UI.Shell/Images/Icon_MMXresume.scale-150.png
+r/- * 0:	Windows/SystemResources/Windows.UI.Shell/Images/LocationIcon.scale-100.png
+r/- * 0:	Windows/SystemResources/Windows.UI.Shell/Images/PasswordExpiry.contrast-white_scale-200.png
+r/- * 0:	Windows/SystemResources/Windows.UI.Shell/Images/RequestedDownloadsCloudIcon.contrast-white_scale-100.png
+r/- * 0:	Windows/SystemResources/Windows.UI.Shell/Images/RequestedDownloadsLargeCloudIcon.contrast-black_scale-125.png
+r/- * 0:	Windows/SystemResources/Windows.UI.ShellCommon/Images/CellularToast.scale-400.png
+r/- * 0:	Windows/SystemResources/Windows.UI.ShellCommon/Images/DefaultSystemNotification.contrast-white_scale-200.png
+r/- * 0:	Windows/SystemResources/Windows.UI.ShellCommon/Images/NearShare.contrast-white_scale-125.png
+r/- * 0:	Windows/SystemResources/Windows.UI.ShellCommon/Images/SIMLockToast.scale-100_contrast-black.png
+r/- * 0:	Windows/SystemResources/Windows.UI.ShellCommon/Images/SIMLockToast.scale-400_contrast-white.png
+r/- * 0:	Windows/SystemResources/Windows.UI.ShellCommon/Images/WiFiNetworkManagerToast.scale-200_contrast-white.png
+r/- * 0:	Windows/SystemResources/Windows.SystemToast.Calling/Images/SendPhone.scale-400.png
+r/- * 0:	Windows/SystemResources/Windows.UI.AccountsControl/Images/Advanced.Theme-Light_Scale-400.png
+r/- * 0:	Windows/SystemResources/Windows.UI.AccountsControl/Images/Exchange.Theme-Light_Scale-400.png
+r/- * 0:	Windows/SystemResources/Windows.UI.AccountsControl/Images/Generic.Theme-Light_Scale-400.png
+r/- * 0:	Windows/SysWOW64/en-US/dot3dlg.dll.mui
+r/- * 0:	Windows/SysWOW64/en-US/licmgr10.dll.mui
+r/- * 0:	Windows/SysWOW64/msorc32r.dll
+r/- * 0:	Windows/SysWOW64/wbem/en-US/msfeeds.mfl
+d/- * 0:	Windows/SysWOW64/WindowsPowerShell/v1.0/Modules/Dism
+d/- * 0:	Windows/SysWOW64/WindowsPowerShell/v1.0/Modules/NetAdapter
+r/- * 0:	Windows/SysWOW64/WindowsPowerShell/v1.0/Modules/NetworkTransition/MSFT_NetIpHTTPsState.format.ps1xml
+r/- * 0:	Windows/SysWOW64/WindowsPowerShell/v1.0/Modules/PrintManagement/MSFT_PrinterNfcTag.format.ps1xml
+r/- * 0:	Windows/SysWOW64/WindowsPowerShell/v1.0/Schemas/PSMaml/developerManagedEvent.xsd
+-/r * 367420-128-4:	Windows/Temp/APPX.kh5svnus6undb9fp97qie4a0f.tmp
+-/r * 367440-128-4:	Windows/Temp/APPX.upval4bw8n1vsiclfwogice9f.tmp
+-/r * 367477-128-4:	Windows/Temp/APPX.856ee7j5mm0luek4u4k9x9xdb.tmp
+-/r * 367478-128-4:	Windows/Temp/APPX.qignlwsvjbqkqlned34l7a51c.tmp
+-/r * 367485-128-4:	Windows/Temp/APPX.5i7qghha5ltzh4o_wdxzlg4_h.tmp
+-/r * 367490-128-4:	Windows/Temp/APPX.2w2hxljx7h4o9ojvzkpkwinkc.tmp
+-/r * 367491-128-4:	Windows/Temp/APPX.4prhhloxsirlebhwc4zczm5ug.tmp
+d/- * 0:	Windows.old/Program Files/Common Files/microsoft shared/ink/sk-SK
+d/- * 0:	Windows.old/Program Files/WindowsApps/Microsoft.Windows.Photos_2019.19071.12548.0_neutral_~_8wekyb3d8bbwe
+d/d * 4137-144-6(realloc):	Windows.old/Program Files/WindowsApps/Microsoft.Windows.Photos_2019.19071.12548.0_neutral_~_8wekyb3d8bbwe
+d/- * 0:	Windows.old/Program Files/WindowsApps/Microsoft.WindowsCalculator_2020.1906.55.0_neutral_~_8wekyb3d8bbwe
+d/d * 4187-144-6(realloc):	Windows.old/Program Files/WindowsApps/Microsoft.WindowsCalculator_2020.1906.55.0_neutral_~_8wekyb3d8bbwe
+r/- * 0:	Windows.old/WINDOWS/Fonts/app932.fon
+r/- * 0:	Windows.old/WINDOWS/Fonts/app936.fon
+r/- * 0:	Windows.old/WINDOWS/Fonts/cga40850.fon
+r/- * 0:	Windows.old/WINDOWS/Fonts/ega80852.fon
+r/- * 0:	Windows.old/WINDOWS/Fonts/jvgasys.fon
+r/- * 0:	Windows.old/WINDOWS/Fonts/ssee1255.fon
+r/- * 0:	Windows.old/WINDOWS/Fonts/svgafix.fon
+r/- * 0:	Windows.old/WINDOWS/Fonts/vga857.fon
+r/- * 0:	Windows.old/WINDOWS/Fonts/c8514oem.fon
+r/- * 0:	Windows.old/WINDOWS/Fonts/fms_metadata.xml
+r/- * 0:	Windows.old/WINDOWS/INF/bthmtpenum.inf
+r/- * 0:	Windows.old/WINDOWS/INF/c_smartcardreader.inf
+r/- * 0:	Windows.old/WINDOWS/INF/mdm5674a.inf
+r/- * 0:	Windows.old/WINDOWS/INF/netvchannel.inf
+r/- * 0:	Windows.old/WINDOWS/INF/netxex64.inf
+r/r * 43209-128-3(realloc):	Windows.old/WINDOWS/INF/xboxgip.inf
+r/- * 51046:	Windows.old/WINDOWS/INF/xboxgip.PNF
+r/r * 43211-128-4(realloc):	Windows.old/WINDOWS/INF/xinputhid.inf
+r/- * 0:	Windows.old/WINDOWS/INF/ykinx64.inf
+r/- * 0:	Windows.old/WINDOWS/INF/c_cdrom.inf
+r/- * 0:	Windows.old/WINDOWS/Installer/SourceHash{929FBD26-9020-399B-9A7A-751D61F0B942}
+r/- * 0:	Windows.old/WINDOWS/Installer/SourceHash{A749D8E6-B613-3BE3-8F5F-045C84EBA29B}
+r/- * 51434:	Windows.old/WINDOWS/Installer/SourceHash{BC958BD2-5DAC-3862-BB1A-C1BE0790438D}
+r/r * 51437-128-4(realloc):	Windows.old/WINDOWS/Installer/SourceHash{F8CFEB22-A2E7-3971-9EDA-4B11EDEFC185}
+r/- * 0:	Windows.old/WINDOWS/Media/Ring01.wav
+r/- * 0:	Windows.old/WINDOWS/System32/LAPRXY.DLL
+r/- * 0:	Windows.old/WINDOWS/System32/config/COMPONENTS.LOG1
+r/- * 0:	Windows.old/WINDOWS/System32/config/SYSTEM{53b39e3e-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000001.regtrans-ms
+r/r * 52002-128-3(realloc):	Windows.old/WINDOWS/System32/vcamp120.dll
+r/- * 52004:	Windows.old/WINDOWS/System32/vcamp140.dll
+r/r * 25175-128-3(realloc):	Windows.old/WINDOWS/System32/vdsbas.dll
+r/r * 41781-128-4(realloc):	Windows.old/WINDOWS/System32/Windows.UI.Cred.dll
+r/- * 0:	Windows.old/WINDOWS/System32/XpsGdiConverter.dll
+r/- * 0:	Windows.old/WINDOWS/System32/SMI/Store/Machine/SCHEMA.DAT.LOG1
+r/- * 0:	Windows.old/WINDOWS/System32/SMI/Store/Machine/SCHEMA.DAT.LOG2
+d/d * 7749-144-1(realloc):	Windows.old/WINDOWS/System32/Tasks/Microsoft/Windows/SyncCenter
+r/- * 0:	Windows.old/WINDOWS/System32/mfc140chs.dll
+r/- * 51767:	Windows.old/WINDOWS/System32/mfc140cht.dll
+r/- * 51779:	Windows.old/WINDOWS/System32/mfc140deu.dll
+r/- * 51787:	Windows.old/WINDOWS/System32/mfc140enu.dll
+r/- * 51789:	Windows.old/WINDOWS/System32/mfc140esn.dll
+r/- * 51800:	Windows.old/WINDOWS/System32/mfc140fra.dll
+r/- * 51811:	Windows.old/WINDOWS/System32/mfc140ita.dll
+r/- * 51818:	Windows.old/WINDOWS/System32/mfc140jpn.dll
+r/- * 51830:	Windows.old/WINDOWS/System32/mfc140kor.dll
+r/- * 51840:	Windows.old/WINDOWS/System32/mfc140rus.dll
+r/- * 0:	Windows.old/WINDOWS/System32/wbem/winlogon.mof
+r/- * 0:	Windows.old/WINDOWS/System32/wbem/wmipicmp.mof
+-/r * 282417-128-4:	$OrphanFiles/Apps.index
+-/r * 282418-128-4:	$OrphanFiles/0.0.filtertrie.intermediate.txt
+-/r * 282422-128-3:	$OrphanFiles/Apps.ft
+-/r * 282429-128-1:	$OrphanFiles/0.1.filtertrie.intermediate.txt
+-/r * 282431-128-1:	$OrphanFiles/0.2.filtertrie.intermediate.txt
+-/r * 282438-128-3:	$OrphanFiles/Apps.ft
+-/r * 318217-128-4:	$OrphanFiles/0.0.filtertrie.intermediate.txt
+-/r * 328921-128-1:	$OrphanFiles/0.1.filtertrie.intermediate.txt
+-/r * 335374-128-1:	$OrphanFiles/0.2.filtertrie.intermediate.txt
+-/r * 335497-128-3:	$OrphanFiles/Apps.ft
+-/r * 341672-128-4:	$OrphanFiles/0.0.filtertrie.intermediate.txt
+-/r * 344773-128-1:	$OrphanFiles/0.1.filtertrie.intermediate.txt
+-/r * 344828-128-1:	$OrphanFiles/0.2.filtertrie.intermediate.txt
+-/r * 344829-128-3:	$OrphanFiles/Apps.ft
+-/r * 344837-128-1:	$OrphanFiles/0.1.filtertrie.intermediate.txt
+-/r * 344844-128-1:	$OrphanFiles/0.2.filtertrie.intermediate.txt
+-/r * 344845-128-3:	$OrphanFiles/Apps.ft
+-/r * 344856-128-4:	$OrphanFiles/Apps.index
+-/r * 344858-128-4:	$OrphanFiles/0.0.filtertrie.intermediate.txt
+-/r * 344864-128-1:	$OrphanFiles/0.1.filtertrie.intermediate.txt
+-/r * 344865-128-1:	$OrphanFiles/0.2.filtertrie.intermediate.txt
+-/r * 344866-128-3:	$OrphanFiles/Apps.ft
+-/r * 365843-128-1:	$OrphanFiles/0.1.filtertrie.intermediate.txt
+-/r * 365859-128-1:	$OrphanFiles/0.2.filtertrie.intermediate.txt
+-/r * 366198-128-1:	$OrphanFiles/1.png
+-/r * 366199-128-5:	$OrphanFiles/10.png
+-/r * 366200-128-1:	$OrphanFiles/10px.png
+-/r * 366201-128-4:	$OrphanFiles/69.png
+-/r * 366203-128-1:	$OrphanFiles/12.png
+-/r * 366204-128-1:	$OrphanFiles/15.png
+-/r * 366205-128-1:	$OrphanFiles/150.png
+-/r * 366206-128-1:	$OrphanFiles/151.png
+-/r * 366207-128-1:	$OrphanFiles/152.png
+-/r * 366208-128-1:	$OrphanFiles/153.png
+-/r * 366209-128-1:	$OrphanFiles/154.png
+-/r * 366210-128-1:	$OrphanFiles/155.png
+-/r * 366211-128-1:	$OrphanFiles/156.png
+-/r * 366212-128-1:	$OrphanFiles/157.png
+-/r * 366213-128-1:	$OrphanFiles/158.png
+-/r * 366214-128-1:	$OrphanFiles/159.png
+-/r * 366215-128-3:	$OrphanFiles/82.png
+-/r * 366216-128-1:	$OrphanFiles/160.png
+-/r * 366217-128-1:	$OrphanFiles/161.png
+-/r * 366218-128-1:	$OrphanFiles/162.png
+-/r * 366219-128-1:	$OrphanFiles/163.png
+-/r * 366220-128-1:	$OrphanFiles/164.png
+-/r * 366221-128-1:	$OrphanFiles/165.png
+-/r * 366222-128-1:	$OrphanFiles/166.png
+-/r * 366223-128-1:	$OrphanFiles/167.png
+-/r * 366224-128-5:	$OrphanFiles/168.png
+-/r * 366225-128-5:	$OrphanFiles/169.png
+-/r * 366226-128-1:	$OrphanFiles/170.png
+-/r * 366227-128-1:	$OrphanFiles/171.png
+-/r * 366228-128-1:	$OrphanFiles/172.png
+-/r * 366229-128-1:	$OrphanFiles/173.png
+-/r * 366230-128-1:	$OrphanFiles/174.png
+-/r * 366231-128-1:	$OrphanFiles/175.png
+-/r * 366232-128-1:	$OrphanFiles/176.png
+-/r * 366233-128-1:	$OrphanFiles/177.png
+-/r * 366234-128-1:	$OrphanFiles/178.png
+-/r * 366235-128-1:	$OrphanFiles/179.png
+-/r * 366236-128-1:	$OrphanFiles/180.png
+-/r * 366237-128-1:	$OrphanFiles/181.png
+-/r * 366238-128-5:	$OrphanFiles/182.png
+-/r * 366239-128-1:	$OrphanFiles/183.png
+-/r * 366240-128-1:	$OrphanFiles/184.png
+-/r * 366241-128-5:	$OrphanFiles/185.png
+-/r * 366250-128-1:	$OrphanFiles/186.png
+-/r * 366251-128-1:	$OrphanFiles/187.png
+-/r * 366252-128-1:	$OrphanFiles/188.png
+-/r * 366253-128-1:	$OrphanFiles/189.png
+-/r * 366254-128-1:	$OrphanFiles/190.png
+-/r * 366255-128-1:	$OrphanFiles/191.png
+-/r * 366256-128-1:	$OrphanFiles/192.png
+-/r * 366257-128-1:	$OrphanFiles/193.png
+-/r * 366258-128-1:	$OrphanFiles/194.png
+-/r * 366263-128-1:	$OrphanFiles/195.png
+-/r * 366264-128-1:	$OrphanFiles/196.png
+-/r * 366265-128-1:	$OrphanFiles/197.png
+-/r * 366266-128-1:	$OrphanFiles/198.png
+-/r * 366267-128-1:	$OrphanFiles/199.png
+-/r * 366268-128-1:	$OrphanFiles/1px.png
+-/r * 366269-128-1:	$OrphanFiles/1px.png
+-/r * 366272-128-1:	$OrphanFiles/20.png
+-/r * 366273-128-1:	$OrphanFiles/200.png
+-/r * 366274-128-1:	$OrphanFiles/201.png
+-/r * 366275-128-1:	$OrphanFiles/202.png
+-/r * 366276-128-1:	$OrphanFiles/203.png
+-/r * 366277-128-1:	$OrphanFiles/204.png
+-/r * 366278-128-3:	$OrphanFiles/23.png
+-/r * 366279-128-5:	$OrphanFiles/24.png
+-/r * 366281-128-4:	$OrphanFiles/27.png
+-/r * 366282-128-4:	$OrphanFiles/28.png
+-/r * 366285-128-1:	$OrphanFiles/2px.png
+-/r * 366286-128-1:	$OrphanFiles/3.png
+-/r * 366287-128-1:	$OrphanFiles/30.png
+-/r * 366292-128-1:	$OrphanFiles/4px.png
+-/r * 366293-128-1:	$OrphanFiles/3px.png
+-/r * 366294-128-1:	$OrphanFiles/5.png
+-/r * 366295-128-3:	$OrphanFiles/50.png
+-/r * 366296-128-1:	$OrphanFiles/55.png
+-/r * 366297-128-1:	$OrphanFiles/6px.png
+-/r * 366298-128-1:	$OrphanFiles/5px.png
+-/r * 366299-128-1:	$OrphanFiles/6.png
+-/r * 366300-128-1:	$OrphanFiles/63.png
+-/r * 366302-128-3:	$OrphanFiles/66.png
+-/r * 366303-128-5:	$OrphanFiles/7.png
+-/r * 366310-128-1:	$OrphanFiles/7px.png
+-/r * 366311-128-1:	$OrphanFiles/8px.png
+-/r * 366312-128-5:	$OrphanFiles/8.png
+-/r * 366319-128-1:	$OrphanFiles/9.png
+-/r * 366320-128-1:	$OrphanFiles/91.png
+-/r * 366321-128-1:	$OrphanFiles/9px.png
+-/r * 366360-128-4:	$OrphanFiles/accuweather.png
+-/r * 366621-128-4:	$OrphanFiles/0.0.filtertrie.intermediate.txt
+-/r * 366705-128-3:	$OrphanFiles/Apps.ft
+-/r * 366727-128-1:	$OrphanFiles/0.1.filtertrie.intermediate.txt
+-/r * 366729-128-4:	$OrphanFiles/Apps.index
+-/r * 366736-128-4:	$OrphanFiles/0.0.filtertrie.intermediate.txt
+-/r * 366812-128-1:	$OrphanFiles/0.2.filtertrie.intermediate.txt
+-/r * 366813-128-1:	$OrphanFiles/0.1.filtertrie.intermediate.txt
+-/r * 366815-128-3:	$OrphanFiles/Apps.ft
+-/r * 366816-128-4:	$OrphanFiles/Apps.index
+-/r * 366817-128-4:	$OrphanFiles/0.0.filtertrie.intermediate.txt
+-/r * 366818-128-1:	$OrphanFiles/0.1.filtertrie.intermediate.txt
+-/r * 366819-128-1:	$OrphanFiles/0.2.filtertrie.intermediate.txt
+-/r * 366820-128-3:	$OrphanFiles/Apps.ft
+-/r * 366830-128-1:	$OrphanFiles/0.2.filtertrie.intermediate.txt
+-/r * 366963-128-3:	$OrphanFiles/Apps.ft
+-/d * 367495-144-5:	$OrphanFiles/Locales
+-/d * 367496-144-5:	$OrphanFiles/Locales/devtools
+-/d * 367498-144-1:	$OrphanFiles/MEIPreload
+-/d * 367500-144-5:	$OrphanFiles/MLModels
+-/d * 367505-144-1:	$OrphanFiles/Notifications
+-/d * 367512-144-1:	$OrphanFiles/PlayReadyCdm
+-/d * 367532-144-1:	$OrphanFiles/PlayReadyCdm/_platform_specific
+-/d * 367534-144-1:	$OrphanFiles/PlayReadyCdm/_platform_specific/win_x64
+-/r * 369563-128-4:	$OrphanFiles/PlayReadyCdm/_platform_specific/win_x64/playreadycdm.dll
+-/r * 369563-128-7:	$OrphanFiles/PlayReadyCdm/_platform_specific/win_x64/playreadycdm.dll:WofCompressedData
+-/d * 367547-144-1:	$OrphanFiles/swiftshader
+-/r * 369570-128-3:	$OrphanFiles/swiftshader/libEGL.dll
+-/r * 369570-128-6:	$OrphanFiles/swiftshader/libEGL.dll:WofCompressedData
+-/r * 369572-128-4:	$OrphanFiles/swiftshader/libGLESv2.dll
+-/r * 369572-128-7:	$OrphanFiles/swiftshader/libGLESv2.dll:WofCompressedData
+-/d * 367551-144-6:	$OrphanFiles/Trust Protection Lists
+-/r * 369575-128-4:	$OrphanFiles/Trust Protection Lists/Advertising
+-/r * 369575-128-7:	$OrphanFiles/Trust Protection Lists/Advertising:WofCompressedData
+-/r * 369576-128-4:	$OrphanFiles/Trust Protection Lists/Analytics
+-/r * 369576-128-7:	$OrphanFiles/Trust Protection Lists/Analytics:WofCompressedData
+-/r * 369577-128-1:	$OrphanFiles/Trust Protection Lists/CompatExceptions
+-/r * 369579-128-3:	$OrphanFiles/Trust Protection Lists/Content
+-/r * 369579-128-6:	$OrphanFiles/Trust Protection Lists/Content:WofCompressedData
+-/r * 369580-128-4:	$OrphanFiles/Trust Protection Lists/Cryptomining
+-/r * 369581-128-3:	$OrphanFiles/Trust Protection Lists/Entities
+-/r * 369581-128-6:	$OrphanFiles/Trust Protection Lists/Entities:WofCompressedData
+-/r * 369585-128-4:	$OrphanFiles/Trust Protection Lists/Fingerprinting
+-/r * 369586-128-3:	$OrphanFiles/Trust Protection Lists/LICENSE
+-/r * 369586-128-6:	$OrphanFiles/Trust Protection Lists/LICENSE:WofCompressedData
+-/r * 369587-128-1:	$OrphanFiles/Trust Protection Lists/manifest.json
+-/r * 369588-128-1:	$OrphanFiles/Trust Protection Lists/Other
+-/r * 369591-128-3:	$OrphanFiles/Trust Protection Lists/Social
+-/d * 367553-144-6:	$OrphanFiles/VisualElements
+-/r * 369602-128-3:	$OrphanFiles/VisualElements/Logo.png
+-/r * 369605-128-3:	$OrphanFiles/VisualElements/LogoBeta.png
+-/r * 369608-128-4:	$OrphanFiles/VisualElements/LogoCanary.png
+-/r * 369609-128-3:	$OrphanFiles/VisualElements/LogoDev.png
+-/r * 369610-128-4:	$OrphanFiles/VisualElements/SmallLogo.png
+-/r * 369611-128-4:	$OrphanFiles/VisualElements/SmallLogoBeta.png
+-/r * 369614-128-4:	$OrphanFiles/VisualElements/SmallLogoCanary.png
+-/r * 369617-128-4:	$OrphanFiles/VisualElements/SmallLogoDev.png
+-/d * 367558-144-1:	$OrphanFiles/WidevineCdm
+-/d * 367559-144-1:	$OrphanFiles/WidevineCdm/_platform_specific
+-/d * 367569-144-1:	$OrphanFiles/WidevineCdm/_platform_specific/win_x64
+-/r * 369625-128-4:	$OrphanFiles/WidevineCdm/_platform_specific/win_x64/widevinecdm.dll
+-/r * 369625-128-7:	$OrphanFiles/WidevineCdm/_platform_specific/win_x64/widevinecdm.dll:WofCompressedData
+-/r * 369627-128-4:	$OrphanFiles/WidevineCdm/_platform_specific/win_x64/widevinecdm.dll.sig
+-/r * 369622-128-1:	$OrphanFiles/WidevineCdm/manifest.json
+-/r * 367590-128-3:	$OrphanFiles/foreca.png
+-/r * 367632-128-1:	$OrphanFiles/86.0.622.68.manifest
+-/r * 367633-128-4:	$OrphanFiles/ie_to_edge_bho.dll
+-/r * 367633-128-7:	$OrphanFiles/ie_to_edge_bho.dll:WofCompressedData
+-/r * 367635-128-4:	$OrphanFiles/ie_to_edge_bho_64.dll
+-/r * 367635-128-7:	$OrphanFiles/ie_to_edge_bho_64.dll:WofCompressedData
+-/r * 367649-128-4:	$OrphanFiles/ie_to_edge_stub.exe
+-/r * 367649-128-7:	$OrphanFiles/ie_to_edge_stub.exe:WofCompressedData
+-/r * 367667-128-4:	$OrphanFiles/concrt140.dll
+-/r * 367667-128-7:	$OrphanFiles/concrt140.dll:WofCompressedData
+-/r * 367681-128-4:	$OrphanFiles/cookie_exporter.exe
+-/r * 367681-128-7:	$OrphanFiles/cookie_exporter.exe:WofCompressedData
+-/r * 367740-128-4:	$OrphanFiles/d3dcompiler_47.dll
+-/r * 367740-128-7:	$OrphanFiles/d3dcompiler_47.dll:WofCompressedData
+-/r * 367751-128-4:	$OrphanFiles/dual_engine_adapter_x64.dll
+-/r * 367751-128-7:	$OrphanFiles/dual_engine_adapter_x64.dll:WofCompressedData
+-/r * 367752-128-4:	$OrphanFiles/EmbeddedBrowserWebView.dll
+-/r * 367752-128-7:	$OrphanFiles/EmbeddedBrowserWebView.dll:WofCompressedData
+-/r * 367756-128-4:	$OrphanFiles/EmbeddedBrowserWebView.dll
+-/r * 367756-128-7:	$OrphanFiles/EmbeddedBrowserWebView.dll:WofCompressedData
+-/r * 367759-128-4:	$OrphanFiles/elevation_service.exe
+-/r * 367759-128-7:	$OrphanFiles/elevation_service.exe:WofCompressedData
+-/r * 367763-128-4:	$OrphanFiles/eventlog_provider.dll
+-/r * 367763-128-7:	$OrphanFiles/eventlog_provider.dll:WofCompressedData
+-/r * 479264-128-4:	$OrphanFiles/1-f746-5fafca9b
+-/r * 479176-128-1:	$OrphanFiles/social-tracking-protection-twitter-digest256.vlpset
+-/r * 367784-128-4:	$OrphanFiles/identity_helper.exe
+-/r * 367784-128-7:	$OrphanFiles/identity_helper.exe:WofCompressedData
+-/r * 367790-128-4:	$OrphanFiles/beta.identity_helper.exe.manifest
+-/r * 367793-128-4:	$OrphanFiles/canary.identity_helper.exe.manifest
+-/r * 367796-128-4:	$OrphanFiles/dev.identity_helper.exe.manifest
+-/r * 479175-128-1:	$OrphanFiles/social-tracking-protection-twitter-digest256.sbstore
+-/r * 479174-128-1:	$OrphanFiles/social-tracking-protection-linkedin-digest256.vlpset
+-/r * 479173-128-1:	$OrphanFiles/social-tracking-protection-linkedin-digest256.sbstore
+-/r * 479172-128-1:	$OrphanFiles/social-tracking-protection-facebook-digest256.vlpset
+-/r * 479171-128-1:	$OrphanFiles/social-tracking-protection-facebook-digest256.sbstore
+-/r * 367814-128-4:	$OrphanFiles/internal.identity_helper.exe.manifest
+-/r * 479170-128-4:	$OrphanFiles/social-track-digest256.vlpset
+-/r * 367901-128-4:	$OrphanFiles/notification_helper.exe.manifest
+-/r * 367902-128-4:	$OrphanFiles/learning_tools.dll
+-/r * 367902-128-7:	$OrphanFiles/learning_tools.dll:WofCompressedData
+-/r * 367905-128-3:	$OrphanFiles/libEGL.dll
+-/r * 367905-128-6:	$OrphanFiles/libEGL.dll:WofCompressedData
+-/r * 367913-128-4:	$OrphanFiles/libGLESv2.dll
+-/r * 367913-128-7:	$OrphanFiles/libGLESv2.dll:WofCompressedData
+-/r * 367914-128-4:	$OrphanFiles/libsmartscreen.dll
+-/r * 367914-128-7:	$OrphanFiles/libsmartscreen.dll:WofCompressedData
+-/r * 479169-128-1:	$OrphanFiles/social-track-digest256.sbstore
+-/r * 479168-128-1:	$OrphanFiles/mozstd-trackwhite-digest256.vlpset
+-/r * 479167-128-1:	$OrphanFiles/mozstd-trackwhite-digest256.sbstore
+-/r * 479166-128-4:	$OrphanFiles/mozplugin-block-digest256.vlpset
+-/r * 368033-128-4:	$OrphanFiles/holiday_weather.png
+-/r * 479165-128-1:	$OrphanFiles/mozplugin-block-digest256.sbstore
+-/d * 479154-144-5:	$OrphanFiles/google4
+-/r * 479155-128-4:	$OrphanFiles/google4/goog-badbinurl-proto.metadata
+-/r * 479157-128-1:	$OrphanFiles/google4/goog-downloadwhite-proto.metadata
+-/r * 479158-128-1:	$OrphanFiles/google4/goog-downloadwhite-proto.vlpset
+-/r * 479159-128-4:	$OrphanFiles/google4/goog-malware-proto.metadata
+-/r * 479160-128-5:	$OrphanFiles/google4/goog-unwanted-proto.vlpset
+-/r * 479161-128-4:	$OrphanFiles/google4/goog-phish-proto.metadata
+-/r * 479162-128-5:	$OrphanFiles/google4/goog-malware-proto.vlpset
+-/r * 479163-128-4:	$OrphanFiles/google4/goog-unwanted-proto.metadata
+-/r * 479164-128-5:	$OrphanFiles/google4/goog-badbinurl-proto.vlpset
+-/r * 479153-128-1:	$OrphanFiles/google-trackwhite-digest256.vlpset
+-/r * 479152-128-1:	$OrphanFiles/google-trackwhite-digest256.sbstore
+-/r * 479151-128-1:	$OrphanFiles/except-flashsubdoc-digest256.vlpset
+-/r * 479150-128-1:	$OrphanFiles/except-flashsubdoc-digest256.sbstore
+-/r * 479149-128-1:	$OrphanFiles/except-flashallow-digest256.vlpset
+-/r * 479148-128-1:	$OrphanFiles/except-flashallow-digest256.sbstore
+-/r * 479147-128-1:	$OrphanFiles/except-flash-digest256.vlpset
+-/r * 479146-128-1:	$OrphanFiles/except-flash-digest256.sbstore
+-/r * 479145-128-1:	$OrphanFiles/content-track-digest256.vlpset
+-/r * 479144-128-4:	$OrphanFiles/content-track-digest256.sbstore
+-/r * 479143-128-1:	$OrphanFiles/block-flashsubdoc-digest256.vlpset
+-/r * 479142-128-4:	$OrphanFiles/block-flashsubdoc-digest256.sbstore
+-/r * 479141-128-1:	$OrphanFiles/block-flash-digest256.vlpset
+-/r * 479140-128-1:	$OrphanFiles/block-flash-digest256.sbstore
+-/r * 479139-128-4:	$OrphanFiles/base-fingerprinting-track-digest256.vlpset
+-/r * 479138-128-1:	$OrphanFiles/base-fingerprinting-track-digest256.sbstore
+-/r * 479137-128-4:	$OrphanFiles/base-cryptomining-track-digest256.vlpset
+-/r * 479136-128-1:	$OrphanFiles/base-cryptomining-track-digest256.sbstore
+-/r * 479135-128-1:	$OrphanFiles/analytics-track-digest256.vlpset
+-/r * 479134-128-4:	$OrphanFiles/analytics-track-digest256.sbstore
+-/r * 477699-128-4:	$OrphanFiles/LockScreen___1024_0768_notdimmed.jpg
+-/r * 475855-128-1:	$OrphanFiles/trans[3].gif
+-/d * 475549-144-1:	$OrphanFiles/SHELLNEW
+-/d * 475548-144-1:	$OrphanFiles/PCHEALTH
+-/d * 475562-144-1:	$OrphanFiles/PCHEALTH/ERRORREP
+-/d * 475563-144-1:	$OrphanFiles/PCHEALTH/ERRORREP/QHEADLES
+-/d * 475564-144-1:	$OrphanFiles/PCHEALTH/ERRORREP/QSIGNOFF
+-/d * 475547-144-1:	$OrphanFiles/assembly
+-/d * 475550-144-5:	$OrphanFiles/assembly/GAC_MSIL
+-/d * 475552-144-1:	$OrphanFiles/assembly/GAC_MSIL/Microsoft.Office.BusinessApplications.Diagnostics
+-/d * 475556-144-1:	$OrphanFiles/assembly/GAC_MSIL/Microsoft.Office.BusinessApplications.Diagnostics/16.0.0.0__71E9BCE111E9429C
+-/d * 475553-144-1:	$OrphanFiles/assembly/GAC_MSIL/Microsoft.BusinessData
+-/d * 475557-144-1:	$OrphanFiles/assembly/GAC_MSIL/Microsoft.BusinessData/16.0.0.0__71E9BCE111E9429C
+-/d * 475554-144-1:	$OrphanFiles/assembly/GAC_MSIL/Microsoft.Office.BusinessData.Intl
+-/d * 475558-144-1:	$OrphanFiles/assembly/GAC_MSIL/Microsoft.Office.BusinessData.Intl/16.0.0.0__71E9BCE111E9429C
+-/d * 475555-144-1:	$OrphanFiles/assembly/GAC_MSIL/Microsoft.Office.BusinessData
+-/d * 475559-144-1:	$OrphanFiles/assembly/GAC_MSIL/Microsoft.Office.BusinessData/16.0.0.0__71E9BCE111E9429C
+-/d * 475551-144-1:	$OrphanFiles/assembly/GAC_64
+-/d * 475560-144-1:	$OrphanFiles/assembly/GAC_64/Microsoft.Office.Access.BusinessDataCatalog
+-/d * 475561-144-1:	$OrphanFiles/assembly/GAC_64/Microsoft.Office.Access.BusinessDataCatalog/16.0.0.0__71E9BCE111E9429C
+-/d * 475372-144-1:	$OrphanFiles/SystemX86
+-/d * 475313-144-1:	$OrphanFiles/Common AppData
+-/d * 475582-144-1:	$OrphanFiles/Common AppData/Microsoft
+-/d * 475583-144-1:	$OrphanFiles/Common AppData/Microsoft/OFFICE
+-/d * 475584-144-1:	$OrphanFiles/Common AppData/Microsoft/OFFICE/Heartbeat
+-/d * 475311-144-1:	$OrphanFiles/System
+-/d * 475277-144-1:	$OrphanFiles/ProgramFilesX64
+-/d * 475575-144-1:	$OrphanFiles/ProgramFilesX64/Microsoft Analysis Services
+-/d * 475577-144-1:	$OrphanFiles/ProgramFilesX64/Microsoft Analysis Services/AS OLEDB
+-/d * 475578-144-1:	$OrphanFiles/ProgramFilesX64/Microsoft Analysis Services/AS OLEDB/140
+-/d * 475579-144-1:	$OrphanFiles/ProgramFilesX64/Microsoft Analysis Services/AS OLEDB/140/Cartridges
+-/d * 475580-144-1:	$OrphanFiles/ProgramFilesX64/Microsoft Analysis Services/AS OLEDB/140/Resources
+-/d * 475581-144-1:	$OrphanFiles/ProgramFilesX64/Microsoft Analysis Services/AS OLEDB/140/Resources/1033
+-/d * 475576-144-1:	$OrphanFiles/ProgramFilesX64/Microsoft Office
+-/d * 475254-144-6:	$OrphanFiles/ProgramFilesX86
+-/d * 475565-144-1:	$OrphanFiles/ProgramFilesX86/Microsoft Office
+-/d * 475568-144-5:	$OrphanFiles/ProgramFilesX86/Microsoft Office/Office16
+-/d * 475569-144-1:	$OrphanFiles/ProgramFilesX86/Microsoft Office/Office16/1033
+-/d * 475566-144-1:	$OrphanFiles/ProgramFilesX86/Microsoft Analysis Services
+-/d * 475570-144-1:	$OrphanFiles/ProgramFilesX86/Microsoft Analysis Services/AS OLEDB
+-/d * 475571-144-1:	$OrphanFiles/ProgramFilesX86/Microsoft Analysis Services/AS OLEDB/140
+-/d * 475572-144-1:	$OrphanFiles/ProgramFilesX86/Microsoft Analysis Services/AS OLEDB/140/Cartridges
+-/d * 475573-144-1:	$OrphanFiles/ProgramFilesX86/Microsoft Analysis Services/AS OLEDB/140/Resources
+-/d * 475574-144-1:	$OrphanFiles/ProgramFilesX86/Microsoft Analysis Services/AS OLEDB/140/Resources/1033
+-/d * 475567-144-1:	$OrphanFiles/ProgramFilesX86/Microsoft SQL Server
+-/d * 475252-144-1:	$OrphanFiles/ProgramFilesCommonX64
+-/d * 475455-144-6:	$OrphanFiles/ProgramFilesCommonX64/Microsoft Shared
+-/d * 475459-144-5:	$OrphanFiles/ProgramFilesCommonX64/Microsoft Shared/THEMES16
+-/d * 475475-144-1:	$OrphanFiles/ProgramFilesCommonX64/Microsoft Shared/THEMES16/ICE
+-/d * 475476-144-1:	$OrphanFiles/ProgramFilesCommonX64/Microsoft Shared/THEMES16/DEEPBLUE
+-/d * 475477-144-1:	$OrphanFiles/ProgramFilesCommonX64/Microsoft Shared/THEMES16/EVRGREEN
+-/d * 475478-144-1:	$OrphanFiles/ProgramFilesCommonX64/Microsoft Shared/THEMES16/SKY
+-/d * 475479-144-1:	$OrphanFiles/ProgramFilesCommonX64/Microsoft Shared/THEMES16/PROFILE
+-/d * 475480-144-1:	$OrphanFiles/ProgramFilesCommonX64/Microsoft Shared/THEMES16/BLENDS
+-/d * 475481-144-1:	$OrphanFiles/ProgramFilesCommonX64/Microsoft Shared/THEMES16/CASCADE
+-/d * 475482-144-1:	$OrphanFiles/ProgramFilesCommonX64/Microsoft Shared/THEMES16/BREEZE
+-/d * 475483-144-1:	$OrphanFiles/ProgramFilesCommonX64/Microsoft Shared/THEMES16/BLUEPRNT
+-/d * 475484-144-1:	$OrphanFiles/ProgramFilesCommonX64/Microsoft Shared/THEMES16/RICEPAPR
+-/d * 475485-144-1:	$OrphanFiles/ProgramFilesCommonX64/Microsoft Shared/THEMES16/BOLDSTRI
+-/d * 475486-144-1:	$OrphanFiles/ProgramFilesCommonX64/Microsoft Shared/THEMES16/RMNSQUE
+-/d * 475487-144-1:	$OrphanFiles/ProgramFilesCommonX64/Microsoft Shared/THEMES16/RIPPLE
+-/d * 475488-144-1:	$OrphanFiles/ProgramFilesCommonX64/Microsoft Shared/THEMES16/REFINED
+-/d * 475489-144-1:	$OrphanFiles/ProgramFilesCommonX64/Microsoft Shared/THEMES16/LEVEL
+-/d * 475490-144-1:	$OrphanFiles/ProgramFilesCommonX64/Microsoft Shared/THEMES16/BLUECALM
+-/d * 475491-144-1:	$OrphanFiles/ProgramFilesCommonX64/Microsoft Shared/THEMES16/RADIAL
+-/d * 475492-144-1:	$OrphanFiles/ProgramFilesCommonX64/Microsoft Shared/THEMES16/EDGE
+-/d * 475493-144-1:	$OrphanFiles/ProgramFilesCommonX64/Microsoft Shared/THEMES16/LAYERS
+-/d * 475494-144-1:	$OrphanFiles/ProgramFilesCommonX64/Microsoft Shared/THEMES16/ECHO
+-/d * 475495-144-1:	$OrphanFiles/ProgramFilesCommonX64/Microsoft Shared/THEMES16/AFTRNOON
+-/d * 475496-144-1:	$OrphanFiles/ProgramFilesCommonX64/Microsoft Shared/THEMES16/CONCRETE
+-/d * 475497-144-1:	$OrphanFiles/ProgramFilesCommonX64/Microsoft Shared/THEMES16/NETWORK
+-/d * 475498-144-1:	$OrphanFiles/ProgramFilesCommonX64/Microsoft Shared/THEMES16/EXPEDITN
+-/d * 475499-144-1:	$OrphanFiles/ProgramFilesCommonX64/Microsoft Shared/THEMES16/CAPSULES
+-/d * 475500-144-1:	$OrphanFiles/ProgramFilesCommonX64/Microsoft Shared/THEMES16/SONORA
+-/d * 475501-144-1:	$OrphanFiles/ProgramFilesCommonX64/Microsoft Shared/THEMES16/JOURNAL
+-/d * 475502-144-1:	$OrphanFiles/ProgramFilesCommonX64/Microsoft Shared/THEMES16/STUDIO
+-/d * 475503-144-1:	$OrphanFiles/ProgramFilesCommonX64/Microsoft Shared/THEMES16/COMPASS
+-/d * 475504-144-1:	$OrphanFiles/ProgramFilesCommonX64/Microsoft Shared/THEMES16/SUMIPNTG
+-/d * 475505-144-1:	$OrphanFiles/ProgramFilesCommonX64/Microsoft Shared/THEMES16/IRIS
+-/d * 475506-144-1:	$OrphanFiles/ProgramFilesCommonX64/Microsoft Shared/THEMES16/QUAD
+-/d * 475507-144-1:	$OrphanFiles/ProgramFilesCommonX64/Microsoft Shared/THEMES16/ECLIPSE
+-/d * 475508-144-1:	$OrphanFiles/ProgramFilesCommonX64/Microsoft Shared/THEMES16/ARCTIC
+-/d * 475509-144-1:	$OrphanFiles/ProgramFilesCommonX64/Microsoft Shared/THEMES16/AXIS
+-/d * 475510-144-1:	$OrphanFiles/ProgramFilesCommonX64/Microsoft Shared/THEMES16/WATER
+-/d * 475511-144-1:	$OrphanFiles/ProgramFilesCommonX64/Microsoft Shared/THEMES16/SLATE
+-/d * 475512-144-1:	$OrphanFiles/ProgramFilesCommonX64/Microsoft Shared/THEMES16/WATERMAR
+-/d * 475513-144-1:	$OrphanFiles/ProgramFilesCommonX64/Microsoft Shared/THEMES16/STRTEDGE
+-/d * 475514-144-1:	$OrphanFiles/ProgramFilesCommonX64/Microsoft Shared/THEMES16/SPRING
+-/d * 475515-144-1:	$OrphanFiles/ProgramFilesCommonX64/Microsoft Shared/THEMES16/PAPYRUS
+-/d * 475516-144-1:	$OrphanFiles/ProgramFilesCommonX64/Microsoft Shared/THEMES16/INDUST
+-/d * 475517-144-1:	$OrphanFiles/ProgramFilesCommonX64/Microsoft Shared/THEMES16/CANYON
+-/d * 475518-144-1:	$OrphanFiles/ProgramFilesCommonX64/Microsoft Shared/THEMES16/SATIN
+-/d * 475519-144-1:	$OrphanFiles/ProgramFilesCommonX64/Microsoft Shared/THEMES16/PIXEL
+-/d * 475460-144-5:	$OrphanFiles/ProgramFilesCommonX64/Microsoft Shared/OFFICE16
+-/d * 475520-144-1:	$OrphanFiles/ProgramFilesCommonX64/Microsoft Shared/OFFICE16/DataModel
+-/d * 475526-144-1:	$OrphanFiles/ProgramFilesCommonX64/Microsoft Shared/OFFICE16/DataModel/Cartridges
+-/d * 475527-144-1:	$OrphanFiles/ProgramFilesCommonX64/Microsoft Shared/OFFICE16/DataModel/Resources
+-/d * 475528-144-1:	$OrphanFiles/ProgramFilesCommonX64/Microsoft Shared/OFFICE16/DataModel/Resources/1033
+-/d * 475521-144-1:	$OrphanFiles/ProgramFilesCommonX64/Microsoft Shared/OFFICE16/PlatformCapabilities
+-/d * 475522-144-1:	$OrphanFiles/ProgramFilesCommonX64/Microsoft Shared/OFFICE16/Cultures
+-/d * 475523-144-1:	$OrphanFiles/ProgramFilesCommonX64/Microsoft Shared/OFFICE16/1033
+-/d * 475524-144-1:	$OrphanFiles/ProgramFilesCommonX64/Microsoft Shared/OFFICE16/en-us
+-/d * 475525-144-1:	$OrphanFiles/ProgramFilesCommonX64/Microsoft Shared/OFFICE16/Office Setup Controller
+-/d * 475529-144-1:	$OrphanFiles/ProgramFilesCommonX64/Microsoft Shared/OFFICE16/Office Setup Controller/Office.en-us
+-/r * 475808-128-1:	$OrphanFiles/ProgramFilesCommonX64/Microsoft Shared/OFFICE16/AppvIsvSubsystems64.dll
+-/r * 475809-128-1:	$OrphanFiles/ProgramFilesCommonX64/Microsoft Shared/OFFICE16/C2R64.dll
+-/d * 475461-144-1:	$OrphanFiles/ProgramFilesCommonX64/Microsoft Shared/Filters
+-/d * 475462-144-1:	$OrphanFiles/ProgramFilesCommonX64/Microsoft Shared/MSClientDataMgr
+-/d * 475463-144-1:	$OrphanFiles/ProgramFilesCommonX64/Microsoft Shared/EQUATION
+-/d * 475530-144-1:	$OrphanFiles/ProgramFilesCommonX64/Microsoft Shared/EQUATION/1033
+-/d * 475464-144-1:	$OrphanFiles/ProgramFilesCommonX64/Microsoft Shared/Smart Tag
+-/d * 475531-144-1:	$OrphanFiles/ProgramFilesCommonX64/Microsoft Shared/Smart Tag/LISTS
+-/d * 475533-144-1:	$OrphanFiles/ProgramFilesCommonX64/Microsoft Shared/Smart Tag/LISTS/1033
+-/d * 475532-144-1:	$OrphanFiles/ProgramFilesCommonX64/Microsoft Shared/Smart Tag/1033
+-/d * 475465-144-1:	$OrphanFiles/ProgramFilesCommonX64/Microsoft Shared/EURO
+-/d * 475466-144-1:	$OrphanFiles/ProgramFilesCommonX64/Microsoft Shared/PROOF
+-/d * 475467-144-1:	$OrphanFiles/ProgramFilesCommonX64/Microsoft Shared/Help
+-/d * 475468-144-1:	$OrphanFiles/ProgramFilesCommonX64/Microsoft Shared/TEXTCONV
+-/d * 475469-144-1:	$OrphanFiles/ProgramFilesCommonX64/Microsoft Shared/TRANSLAT
+-/d * 475534-144-1:	$OrphanFiles/ProgramFilesCommonX64/Microsoft Shared/TRANSLAT/ENFR
+-/d * 475535-144-1:	$OrphanFiles/ProgramFilesCommonX64/Microsoft Shared/TRANSLAT/FREN
+-/d * 475536-144-1:	$OrphanFiles/ProgramFilesCommonX64/Microsoft Shared/TRANSLAT/ESEN
+-/d * 475537-144-1:	$OrphanFiles/ProgramFilesCommonX64/Microsoft Shared/TRANSLAT/ENES
+-/d * 475470-144-1:	$OrphanFiles/ProgramFilesCommonX64/Microsoft Shared/Web Server Extensions
+-/d * 475538-144-1:	$OrphanFiles/ProgramFilesCommonX64/Microsoft Shared/Web Server Extensions/16
+-/d * 475539-144-1:	$OrphanFiles/ProgramFilesCommonX64/Microsoft Shared/Web Server Extensions/16/BIN
+-/d * 475540-144-1:	$OrphanFiles/ProgramFilesCommonX64/Microsoft Shared/Web Server Extensions/16/BIN/1033
+-/d * 475471-144-1:	$OrphanFiles/ProgramFilesCommonX64/Microsoft Shared/DW
+-/d * 475472-144-1:	$OrphanFiles/ProgramFilesCommonX64/Microsoft Shared/GRPHFLT
+-/d * 475473-144-1:	$OrphanFiles/ProgramFilesCommonX64/Microsoft Shared/Source Engine
+-/d * 475474-144-1:	$OrphanFiles/ProgramFilesCommonX64/Microsoft Shared/VBA
+-/d * 475541-144-1:	$OrphanFiles/ProgramFilesCommonX64/Microsoft Shared/VBA/VBA7.1
+-/d * 475542-144-1:	$OrphanFiles/ProgramFilesCommonX64/Microsoft Shared/VBA/VBA7.1/1033
+-/d * 475456-144-1:	$OrphanFiles/ProgramFilesCommonX64/System
+-/d * 475543-144-1:	$OrphanFiles/ProgramFilesCommonX64/System/ole db
+-/d * 475544-144-1:	$OrphanFiles/ProgramFilesCommonX64/System/MSMAPI
+-/d * 475545-144-1:	$OrphanFiles/ProgramFilesCommonX64/System/MSMAPI/1033
+-/d * 475457-144-1:	$OrphanFiles/ProgramFilesCommonX64/ODBC
+-/d * 475546-144-1:	$OrphanFiles/ProgramFilesCommonX64/ODBC/Data Sources
+-/d * 475458-144-1:	$OrphanFiles/ProgramFilesCommonX64/DESIGNER
+-/d * 475226-144-1:	$OrphanFiles/Fonts
+-/d * 475454-144-1:	$OrphanFiles/Fonts/private
+-/d * 475170-144-1:	$OrphanFiles/ProgramFilesCommonX86
+-/d * 475392-144-6:	$OrphanFiles/ProgramFilesCommonX86/Microsoft Shared
+-/d * 475431-144-5:	$OrphanFiles/ProgramFilesCommonX86/Microsoft Shared/Office16
+-/d * 475444-144-1:	$OrphanFiles/ProgramFilesCommonX86/Microsoft Shared/Office16/Cultures
+-/d * 475445-144-1:	$OrphanFiles/ProgramFilesCommonX86/Microsoft Shared/Office16/1033
+-/d * 475446-144-1:	$OrphanFiles/ProgramFilesCommonX86/Microsoft Shared/Office16/en-us
+-/d * 475435-144-1:	$OrphanFiles/ProgramFilesCommonX86/Microsoft Shared/Filters
+-/d * 475436-144-1:	$OrphanFiles/ProgramFilesCommonX86/Microsoft Shared/EQUATION
+-/d * 475440-144-1:	$OrphanFiles/ProgramFilesCommonX86/Microsoft Shared/VBA
+-/d * 475447-144-1:	$OrphanFiles/ProgramFilesCommonX86/Microsoft Shared/VBA/VBA6
+-/d * 475448-144-1:	$OrphanFiles/ProgramFilesCommonX86/Microsoft Shared/VBA/VBA7.1
+-/d * 475449-144-1:	$OrphanFiles/ProgramFilesCommonX86/Microsoft Shared/VBA/VBA7.1/1033
+-/d * 475441-144-1:	$OrphanFiles/ProgramFilesCommonX86/Microsoft Shared/Portal
+-/d * 475450-144-1:	$OrphanFiles/ProgramFilesCommonX86/Microsoft Shared/Portal/1033
+-/d * 475442-144-1:	$OrphanFiles/ProgramFilesCommonX86/Microsoft Shared/Web Server Extensions
+-/d * 475451-144-1:	$OrphanFiles/ProgramFilesCommonX86/Microsoft Shared/Web Server Extensions/16
+-/d * 475452-144-1:	$OrphanFiles/ProgramFilesCommonX86/Microsoft Shared/Web Server Extensions/16/BIN
+-/d * 475406-144-1:	$OrphanFiles/ProgramFilesCommonX86/System
+-/d * 475453-144-1:	$OrphanFiles/ProgramFilesCommonX86/System/ole db
+-/d * 475158-144-1:	$OrphanFiles/loc
+-/d * 475156-144-1:	$OrphanFiles/Stationery
+-/d * 475748-144-1:	$OrphanFiles/Stationery/1033
+-/r * 475138-128-1:	$OrphanFiles/trans[2].gif
+-/r * 475136-128-1:	$OrphanFiles/trans[1].gif
+-/d * 475124-144-1:	$OrphanFiles/Templates
+-/d * 475739-144-1:	$OrphanFiles/Templates/Presentation Designs
+-/d * 475740-144-1:	$OrphanFiles/Templates/1033
+-/d * 475741-144-1:	$OrphanFiles/Templates/1033/Access
+-/d * 475744-144-1:	$OrphanFiles/Templates/1033/Access/Part
+-/d * 475745-144-1:	$OrphanFiles/Templates/1033/Access/DataType
+-/d * 475742-144-1:	$OrphanFiles/Templates/1033/GettingStarted16
+-/d * 475743-144-1:	$OrphanFiles/Templates/1033/ONENOTE
+-/d * 475746-144-1:	$OrphanFiles/Templates/1033/ONENOTE/16
+-/d * 475747-144-1:	$OrphanFiles/Templates/1033/ONENOTE/16/Stationery
+-/d * 475122-144-1:	$OrphanFiles/Licenses
+-/r * 475104-128-4:	$OrphanFiles/fpconfig.min[1].json
+-/d * 475092-144-1:	$OrphanFiles/fre
+-/d * 475090-144-1:	$OrphanFiles/Office15
+-/d * 475081-144-1:	$OrphanFiles/Client
+-/r * 475080-128-4:	$OrphanFiles/favicon[1].ico
+-/r * 475069-128-4:	$OrphanFiles/apps.50484.9007199266244427.4d45042b-d7a5-4a83-be66-97779553b24d[1].png
+-/d * 475058-144-1:	$OrphanFiles/Licenses16
+-/d * 475054-144-6:	$OrphanFiles/Document Themes 16
+-/d * 475588-144-1:	$OrphanFiles/Document Themes 16/Theme Effects
+-/d * 475589-144-1:	$OrphanFiles/Document Themes 16/Theme Fonts
+-/d * 475590-144-1:	$OrphanFiles/Document Themes 16/Theme Colors
+-/r * 474985-128-4:	$OrphanFiles/msbdata_86645df3ce18a48586daba3de8d8ed8e[1].htm
+-/r * 474972-128-1:	$OrphanFiles/trans[4].gif
+-/r * 474922-128-1:	$OrphanFiles/trans[4].gif
+-/r * 474917-128-4:	$OrphanFiles/68ac2b[1].ico
+-/r * 474397-128-4:	$OrphanFiles/init[1].js
+-/r * 474396-128-4:	$OrphanFiles/strings[1].js
+-/r * 474395-128-4:	$OrphanFiles/corev4[1].css
+-/r * 368532-128-1:	$OrphanFiles/Icons_Icon_PoP_sm.png
+-/r * 368533-128-1:	$OrphanFiles/Icons_Icon_Wind_sm.png
+-/r * 368569-128-6:	$OrphanFiles/InsiderHubAppList.scale-125_contrast-black.png
+-/r * 368570-128-1:	$OrphanFiles/InsiderHubAppList.scale-125_contrast-white.png
+-/r * 368628-128-4:	$OrphanFiles/InsiderHubLargeTile.scale-125_contrast-black.png
+-/r * 368629-128-4:	$OrphanFiles/InsiderHubLargeTile.scale-125_contrast-white.png
+-/r * 368634-128-4:	$OrphanFiles/InsiderHubMedTile.scale-125_contrast-black.png
+-/r * 368635-128-4:	$OrphanFiles/InsiderHubMedTile.scale-125_contrast-white.png
+-/r * 368640-128-4:	$OrphanFiles/InsiderHubSmallTile.scale-125_contrast-black.png
+-/r * 368641-128-6:	$OrphanFiles/InsiderHubSmallTile.scale-125_contrast-white.png
+-/r * 368646-128-4:	$OrphanFiles/InsiderHubSplashWideTile.scale-125_contrast-black.png
+-/r * 368647-128-4:	$OrphanFiles/InsiderHubSplashWideTile.scale-125_contrast-white.png
+-/r * 368652-128-4:	$OrphanFiles/InsiderHubStoreLogo.scale-125_contrast-black.png
+-/r * 368653-128-5:	$OrphanFiles/InsiderHubStoreLogo.scale-125_contrast-white.png
+-/r * 368658-128-4:	$OrphanFiles/InsiderHubWideTile.scale-125_contrast-black.png
+-/r * 368659-128-4:	$OrphanFiles/InsiderHubWideTile.scale-125_contrast-white.png
+-/r * 474392-128-4:	$OrphanFiles/owssvr[1].htm
+-/r * 392112-128-1:	$OrphanFiles/qt.conf
+-/r * 392111-128-4:	$OrphanFiles/Dropbox.exe
+-/r * 392110-128-4:	$OrphanFiles/DropboxUninstaller.exe
+-/r * 392109-128-1:	$OrphanFiles/Dropbox.VisualElementsManifest.xml
+-/r * 392108-128-4:	$OrphanFiles/_yappi.cp37-win32.pyd
+-/r * 368684-128-3:	$OrphanFiles/kweather.png
+-/r * 392107-128-4:	$OrphanFiles/_win32sysloader.cp37-win32.pyd
+-/r * 368747:	$OrphanFiles/OrphanFile-368747
+-/r * 368782:	$OrphanFiles/OrphanFile-368782
+-/r * 392106-128-4:	$OrphanFiles/_ctypes.cp37-win32.pyd
+-/r * 392105-128-4:	$OrphanFiles/_cffi_backend.cp37-win32.pyd
+-/r * 392104-128-4:	$OrphanFiles/_bz2.cp37-win32.pyd
+-/r * 392103-128-4:	$OrphanFiles/_bowbow.cp37-win32.pyd
+-/r * 392102-128-4:	$OrphanFiles/wrapt._wrappers.cp37-win32.pyd
+-/r * 392101-128-4:	$OrphanFiles/winxpgui.cp37-win32.pyd
+-/r * 392100-128-4:	$OrphanFiles/winverifysignature_native.cp37-win32.pyd
+-/r * 392099-128-4:	$OrphanFiles/winshell_native.cp37-win32.pyd
+-/r * 392098-128-4:	$OrphanFiles/winscreenshot_native.cp37-win32.pyd
+-/r * 392097-128-4:	$OrphanFiles/winrpcserver_native.cp37-win32.pyd
+-/r * 392096-128-4:	$OrphanFiles/winreindex_native.cp37-win32.pyd
+-/r * 392095-128-4:	$OrphanFiles/wininternetcheckapi.cp37-win32.pyd
+-/r * 392094-128-4:	$OrphanFiles/wininfinitedrivers_wow64_native.cp37-win32.pyd
+-/r * 392093-128-4:	$OrphanFiles/wininfinitedrivers_native.cp37-win32.pyd
+-/r * 392092-128-4:	$OrphanFiles/winhttp_native.cp37-win32.pyd
+-/r * 392091-128-4:	$OrphanFiles/winenumhandles_native.cp37-win32.pyd
+-/r * 392090-128-4:	$OrphanFiles/windragdrop.cp37-win32.pyd
+-/r * 392089-128-4:	$OrphanFiles/windisplaytoast_native.cp37-win32.pyd
+-/r * 392088-128-4:	$OrphanFiles/wind3d11_native.cp37-win32.pyd
+-/r * 392087-128-4:	$OrphanFiles/win32ts.cp37-win32.pyd
+-/r * 392086-128-4:	$OrphanFiles/win32service.cp37-win32.pyd
+-/r * 392085-128-4:	$OrphanFiles/win32security.cp37-win32.pyd
+-/r * 392084-128-4:	$OrphanFiles/win32profile.cp37-win32.pyd
+-/r * 392083-128-4:	$OrphanFiles/win32process.cp37-win32.pyd
+-/r * 369200:	$OrphanFiles/OrphanFile-369200
+-/r * 392082-128-4:	$OrphanFiles/win32print.cp37-win32.pyd
+-/r * 392081-128-4:	$OrphanFiles/win32pipe.cp37-win32.pyd
+-/r * 392080-128-4:	$OrphanFiles/win32job.cp37-win32.pyd
+-/r * 392079-128-4:	$OrphanFiles/win32gui.cp37-win32.pyd
+-/r * 392078-128-4:	$OrphanFiles/win32file.cp37-win32.pyd
+-/r * 392077-128-4:	$OrphanFiles/win32evtlog.cp37-win32.pyd
+-/r * 392076-128-4:	$OrphanFiles/win32event.cp37-win32.pyd
+-/r * 392075-128-4:	$OrphanFiles/win32com.shell.shell.cp37-win32.pyd
+-/r * 392074-128-4:	$OrphanFiles/win32clipboard.cp37-win32.pyd
+-/r * 392073-128-4:	$OrphanFiles/win32api.cp37-win32.pyd
+-/r * 392072-128-4:	$OrphanFiles/vcruntime140.dll
+-/r * 392071-128-4:	$OrphanFiles/vccorlib140.dll
+-/r * 369233:	$OrphanFiles/OrphanFile-369233
+-/r * 392070-128-4:	$OrphanFiles/user32_native.cp37-win32.pyd
+-/r * 392069-128-3:	$OrphanFiles/ucrtbase.dll
+-/r * 392068-128-4:	$OrphanFiles/tprt.cp37-win32.pyd
+-/r * 392067-128-4:	$OrphanFiles/tornado.speedups.cp37-win32.pyd
+-/r * 392066-128-4:	$OrphanFiles/shlwapi_native.cp37-win32.pyd
+-/r * 369242-128-4:	$OrphanFiles/microsoft_apis.dll
+-/r * 369242-128-7:	$OrphanFiles/microsoft_apis.dll:WofCompressedData
+-/r * 369243-128-4:	$OrphanFiles/microsoft_shell_integration.dll
+-/r * 369243-128-7:	$OrphanFiles/microsoft_shell_integration.dll:WofCompressedData
+-/r * 369246-128-3:	$OrphanFiles/mip_core.dll
+-/r * 369246-128-6:	$OrphanFiles/mip_core.dll:WofCompressedData
+-/r * 369247-128-4:	$OrphanFiles/mip_protection_sdk.dll
+-/r * 369247-128-7:	$OrphanFiles/mip_protection_sdk.dll:WofCompressedData
+-/r * 392065-128-4:	$OrphanFiles/shell32_native.cp37-win32.pyd
+-/r * 392064-128-4:	$OrphanFiles/shcore_native.cp37-win32.pyd
+-/d * 392053-144-6:	$OrphanFiles/resources
+-/r * 392054-128-4:	$OrphanFiles/resources/empty.docx
+-/r * 392055-128-4:	$OrphanFiles/resources/empty.pptx
+-/r * 392056-128-4:	$OrphanFiles/resources/empty.xlsx
+-/r * 392057-128-3:	$OrphanFiles/resources/icudtl.dat
+-/r * 392058-128-4:	$OrphanFiles/resources/local_views.zip
+-/r * 392059-128-4:	$OrphanFiles/resources/qtwebengine_resources.pak
+-/r * 392060-128-4:	$OrphanFiles/resources/qtwebengine_resources_100p.pak
+-/r * 392061-128-4:	$OrphanFiles/resources/qtwebengine_resources_200p.pak
+-/r * 392062-128-4:	$OrphanFiles/resources/resources_images.rcc
+-/r * 392063-128-4:	$OrphanFiles/resources/resources_qml.rcc
+-/r * 392052-128-4:	$OrphanFiles/QtWebEngineProcess.exe
+-/d * 392022-144-6:	$OrphanFiles/QtWebEngine
+-/d * 392023-144-6:	$OrphanFiles/QtWebEngine/Controls1Delegates
+-/r * 392024-128-4:	$OrphanFiles/QtWebEngine/Controls1Delegates/AlertDialog.qml
+-/r * 392025-128-4:	$OrphanFiles/QtWebEngine/Controls1Delegates/AuthenticationDialog.qml
+-/r * 392026-128-4:	$OrphanFiles/QtWebEngine/Controls1Delegates/ColorDialog.qml
+-/r * 392027-128-4:	$OrphanFiles/QtWebEngine/Controls1Delegates/ConfirmDialog.qml
+-/r * 392028-128-4:	$OrphanFiles/QtWebEngine/Controls1Delegates/FilePicker.qml
+-/r * 392029-128-3:	$OrphanFiles/QtWebEngine/Controls1Delegates/Menu.qml
+-/r * 392030-128-3:	$OrphanFiles/QtWebEngine/Controls1Delegates/MenuItem.qml
+-/r * 392031-128-4:	$OrphanFiles/QtWebEngine/Controls1Delegates/MenuSeparator.qml
+-/r * 392032-128-4:	$OrphanFiles/QtWebEngine/Controls1Delegates/PromptDialog.qml
+-/r * 392033-128-1:	$OrphanFiles/QtWebEngine/Controls1Delegates/qmldir
+-/r * 392034-128-3:	$OrphanFiles/QtWebEngine/Controls1Delegates/ToolTip.qml
+-/r * 392035-128-4:	$OrphanFiles/QtWebEngine/Controls1Delegates/TouchHandle.qml
+-/r * 392036-128-4:	$OrphanFiles/QtWebEngine/Controls1Delegates/TouchSelectionMenu.qml
+-/d * 392037-144-6:	$OrphanFiles/QtWebEngine/Controls2Delegates
+-/r * 392038-128-4:	$OrphanFiles/QtWebEngine/Controls2Delegates/AlertDialog.qml
+-/r * 392039-128-4:	$OrphanFiles/QtWebEngine/Controls2Delegates/AuthenticationDialog.qml
+-/r * 392040-128-4:	$OrphanFiles/QtWebEngine/Controls2Delegates/ConfirmDialog.qml
+-/r * 392041-128-1:	$OrphanFiles/QtWebEngine/Controls2Delegates/information.png
+-/r * 392042-128-3:	$OrphanFiles/QtWebEngine/Controls2Delegates/Menu.qml
+-/r * 392043-128-3:	$OrphanFiles/QtWebEngine/Controls2Delegates/MenuItem.qml
+-/r * 392044-128-4:	$OrphanFiles/QtWebEngine/Controls2Delegates/MenuSeparator.qml
+-/r * 392045-128-4:	$OrphanFiles/QtWebEngine/Controls2Delegates/PromptDialog.qml
+-/r * 392046-128-1:	$OrphanFiles/QtWebEngine/Controls2Delegates/qmldir
+-/r * 392047-128-1:	$OrphanFiles/QtWebEngine/Controls2Delegates/question.png
+-/r * 392048-128-3:	$OrphanFiles/QtWebEngine/Controls2Delegates/ToolTip.qml
+-/r * 392049-128-4:	$OrphanFiles/QtWebEngine/plugins.qmltypes
+-/r * 392050-128-1:	$OrphanFiles/QtWebEngine/qmldir
+-/r * 392051-128-4:	$OrphanFiles/QtWebEngine/qtwebengineplugin.dll
+-/r * 369265-128-4:	$OrphanFiles/mojo_core.dll
+-/r * 369265-128-7:	$OrphanFiles/mojo_core.dll:WofCompressedData
+-/r * 369267-128-3:	$OrphanFiles/msedge.dll
+-/r * 369267-128-6:	$OrphanFiles/msedge.dll:WofCompressedData
+-/d * 392018-144-6:	$OrphanFiles/QtWebChannel
+-/r * 392019-128-4:	$OrphanFiles/QtWebChannel/declarative_webchannel.dll
+-/r * 392020-128-4:	$OrphanFiles/QtWebChannel/plugins.qmltypes
+-/r * 392021-128-1:	$OrphanFiles/QtWebChannel/qmldir
+-/r * 369270-128-3:	$OrphanFiles/msedge.exe
+-/d * 392014-144-1:	$OrphanFiles/QtQuick.2
+-/r * 392015-128-4:	$OrphanFiles/QtQuick.2/plugins.qmltypes
+-/r * 392016-128-1:	$OrphanFiles/QtQuick.2/qmldir
+-/r * 392017-128-4:	$OrphanFiles/QtQuick.2/qtquick2plugin.dll
+-/r * 369276-128-4:	$OrphanFiles/msedgewebview2.exe
+-/r * 369276-128-7:	$OrphanFiles/msedgewebview2.exe:WofCompressedData
+-/d * 391832-144-1:	$OrphanFiles/QtQuick
+-/d * 391833-144-5:	$OrphanFiles/QtQuick/Controls
+-/r * 391834-128-4:	$OrphanFiles/QtQuick/Controls/ApplicationWindow.qml
+-/r * 391835-128-4:	$OrphanFiles/QtQuick/Controls/BusyIndicator.qml
+-/r * 391836-128-3:	$OrphanFiles/QtQuick/Controls/Button.qml
+-/r * 391837-128-3:	$OrphanFiles/QtQuick/Controls/Calendar.qml
+-/r * 391838-128-3:	$OrphanFiles/QtQuick/Controls/CheckBox.qml
+-/r * 391839-128-3:	$OrphanFiles/QtQuick/Controls/ComboBox.qml
+-/r * 391840-128-3:	$OrphanFiles/QtQuick/Controls/GroupBox.qml
+-/r * 391841-128-3:	$OrphanFiles/QtQuick/Controls/Label.qml
+-/r * 391842-128-3:	$OrphanFiles/QtQuick/Controls/Menu.qml
+-/r * 391843-128-3:	$OrphanFiles/QtQuick/Controls/MenuBar.qml
+-/r * 391844-128-4:	$OrphanFiles/QtQuick/Controls/plugins.qmltypes
+-/d * 391845-144-5:	$OrphanFiles/QtQuick/Controls/Private
+-/r * 391846-128-4:	$OrphanFiles/QtQuick/Controls/Private/AbstractCheckable.qml
+-/r * 391847-128-4:	$OrphanFiles/QtQuick/Controls/Private/BasicButton.qml
+-/r * 391848-128-4:	$OrphanFiles/QtQuick/Controls/Private/BasicTableView.qml
+-/r * 391849-128-4:	$OrphanFiles/QtQuick/Controls/Private/CalendarHeaderModel.qml
+-/r * 391850-128-4:	$OrphanFiles/QtQuick/Controls/Private/CalendarUtils.js
+-/r * 391851-128-4:	$OrphanFiles/QtQuick/Controls/Private/ColumnMenuContent.qml
+-/r * 391852-128-4:	$OrphanFiles/QtQuick/Controls/Private/ContentItem.qml
+-/r * 391853-128-3:	$OrphanFiles/QtQuick/Controls/Private/Control.qml
+-/r * 391854-128-3:	$OrphanFiles/QtQuick/Controls/Private/EditMenu.qml
+-/r * 391855-128-4:	$OrphanFiles/QtQuick/Controls/Private/EditMenu_base.qml
+-/r * 391856-128-3:	$OrphanFiles/QtQuick/Controls/Private/FastGlow.qml
+-/r * 391857-128-4:	$OrphanFiles/QtQuick/Controls/Private/FocusFrame.qml
+-/r * 391858-128-4:	$OrphanFiles/QtQuick/Controls/Private/HoverButton.qml
+-/r * 391859-128-4:	$OrphanFiles/QtQuick/Controls/Private/MenuContentItem.qml
+-/r * 391860-128-4:	$OrphanFiles/QtQuick/Controls/Private/MenuContentScroller.qml
+-/r * 391861-128-4:	$OrphanFiles/QtQuick/Controls/Private/MenuItemSubControls.qml
+-/r * 391862-128-4:	$OrphanFiles/QtQuick/Controls/Private/ModalPopupBehavior.qml
+-/r * 391863-128-3:	$OrphanFiles/QtQuick/Controls/Private/qmldir
+-/r * 391864-128-4:	$OrphanFiles/QtQuick/Controls/Private/ScrollBar.qml
+-/r * 391865-128-4:	$OrphanFiles/QtQuick/Controls/Private/ScrollViewHelper.qml
+-/r * 391866-128-4:	$OrphanFiles/QtQuick/Controls/Private/SourceProxy.qml
+-/r * 391867-128-4:	$OrphanFiles/QtQuick/Controls/Private/StackView.js
+-/r * 391868-128-4:	$OrphanFiles/QtQuick/Controls/Private/StackViewSlideDelegate.qml
+-/r * 391869-128-3:	$OrphanFiles/QtQuick/Controls/Private/style.js
+-/r * 391870-128-3:	$OrphanFiles/QtQuick/Controls/Private/Style.qml
+-/r * 391871-128-4:	$OrphanFiles/QtQuick/Controls/Private/SystemPaletteSingleton.qml
+-/r * 391872-128-3:	$OrphanFiles/QtQuick/Controls/Private/TabBar.qml
+-/r * 391873-128-4:	$OrphanFiles/QtQuick/Controls/Private/TableViewItemDelegateLoader.qml
+-/r * 391874-128-4:	$OrphanFiles/QtQuick/Controls/Private/TableViewSelection.qml
+-/r * 391875-128-4:	$OrphanFiles/QtQuick/Controls/Private/TextHandle.qml
+-/r * 391876-128-4:	$OrphanFiles/QtQuick/Controls/Private/TextInputWithHandles.qml
+-/r * 391877-128-4:	$OrphanFiles/QtQuick/Controls/Private/TextSingleton.qml
+-/r * 391878-128-4:	$OrphanFiles/QtQuick/Controls/Private/ToolMenuButton.qml
+-/r * 391879-128-4:	$OrphanFiles/QtQuick/Controls/Private/TreeViewItemDelegateLoader.qml
+-/r * 391880-128-4:	$OrphanFiles/QtQuick/Controls/ProgressBar.qml
+-/r * 391881-128-1:	$OrphanFiles/QtQuick/Controls/qmldir
+-/r * 391882-128-4:	$OrphanFiles/QtQuick/Controls/qtquickcontrolsplugin.dll
+-/r * 391883-128-4:	$OrphanFiles/QtQuick/Controls/RadioButton.qml
+-/r * 391884-128-4:	$OrphanFiles/QtQuick/Controls/ScrollView.qml
+-/r * 391885-128-3:	$OrphanFiles/QtQuick/Controls/Slider.qml
+-/r * 391886-128-3:	$OrphanFiles/QtQuick/Controls/SpinBox.qml
+-/r * 391887-128-4:	$OrphanFiles/QtQuick/Controls/SplitView.qml
+-/r * 391888-128-4:	$OrphanFiles/QtQuick/Controls/StackView.qml
+-/r * 391889-128-4:	$OrphanFiles/QtQuick/Controls/StackViewDelegate.qml
+-/r * 391890-128-4:	$OrphanFiles/QtQuick/Controls/StackViewTransition.qml
+-/r * 391891-128-4:	$OrphanFiles/QtQuick/Controls/StatusBar.qml
+-/d * 391892-144-1:	$OrphanFiles/QtQuick/Controls/Styles
+-/d * 391893-144-5:	$OrphanFiles/QtQuick/Controls/Styles/Base
+-/r * 391894-128-4:	$OrphanFiles/QtQuick/Controls/Styles/Base/ApplicationWindowStyle.qml
+-/r * 391895-128-4:	$OrphanFiles/QtQuick/Controls/Styles/Base/BasicTableViewStyle.qml
+-/r * 391896-128-4:	$OrphanFiles/QtQuick/Controls/Styles/Base/BusyIndicatorStyle.qml
+-/r * 391897-128-4:	$OrphanFiles/QtQuick/Controls/Styles/Base/ButtonStyle.qml
+-/r * 391898-128-4:	$OrphanFiles/QtQuick/Controls/Styles/Base/CalendarStyle.qml
+-/r * 391899-128-4:	$OrphanFiles/QtQuick/Controls/Styles/Base/CheckBoxStyle.qml
+-/r * 391900-128-4:	$OrphanFiles/QtQuick/Controls/Styles/Base/CircularButtonStyle.qml
+-/r * 391901-128-4:	$OrphanFiles/QtQuick/Controls/Styles/Base/CircularGaugeStyle.qml
+-/r * 391902-128-4:	$OrphanFiles/QtQuick/Controls/Styles/Base/CircularTickmarkLabelStyle.qml
+-/r * 391903-128-4:	$OrphanFiles/QtQuick/Controls/Styles/Base/ComboBoxStyle.qml
+-/r * 391904-128-4:	$OrphanFiles/QtQuick/Controls/Styles/Base/CommonStyleHelper.qml
+-/r * 391905-128-4:	$OrphanFiles/QtQuick/Controls/Styles/Base/DelayButtonStyle.qml
+-/r * 391906-128-4:	$OrphanFiles/QtQuick/Controls/Styles/Base/DialStyle.qml
+-/r * 391907-128-4:	$OrphanFiles/QtQuick/Controls/Styles/Base/FocusFrameStyle.qml
+-/r * 391908-128-4:	$OrphanFiles/QtQuick/Controls/Styles/Base/GaugeStyle.qml
+-/r * 391909-128-4:	$OrphanFiles/QtQuick/Controls/Styles/Base/GroupBoxStyle.qml
+-/r * 391910-128-4:	$OrphanFiles/QtQuick/Controls/Styles/Base/HandleStyle.qml
+-/r * 391911-128-4:	$OrphanFiles/QtQuick/Controls/Styles/Base/HandleStyleHelper.qml
+-/d * 391912-144-5:	$OrphanFiles/QtQuick/Controls/Styles/Base/images
+-/r * 391913-128-1:	$OrphanFiles/QtQuick/Controls/Styles/Base/images/arrow-down.png
+-/r * 391914-128-1:	$OrphanFiles/QtQuick/Controls/Styles/Base/images/arrow-down@2x.png
+-/r * 391915-128-1:	$OrphanFiles/QtQuick/Controls/Styles/Base/images/arrow-left.png
+-/r * 391916-128-1:	$OrphanFiles/QtQuick/Controls/Styles/Base/images/arrow-left@2x.png
+-/r * 391917-128-1:	$OrphanFiles/QtQuick/Controls/Styles/Base/images/arrow-right.png
+-/r * 391918-128-1:	$OrphanFiles/QtQuick/Controls/Styles/Base/images/arrow-right@2x.png
+-/r * 391919-128-1:	$OrphanFiles/QtQuick/Controls/Styles/Base/images/arrow-up.png
+-/r * 391920-128-1:	$OrphanFiles/QtQuick/Controls/Styles/Base/images/arrow-up@2x.png
+-/r * 391921-128-1:	$OrphanFiles/QtQuick/Controls/Styles/Base/images/button.png
+-/r * 391922-128-1:	$OrphanFiles/QtQuick/Controls/Styles/Base/images/button_down.png
+-/r * 391923-128-1:	$OrphanFiles/QtQuick/Controls/Styles/Base/images/check.png
+-/r * 391924-128-1:	$OrphanFiles/QtQuick/Controls/Styles/Base/images/check@2x.png
+-/r * 391925-128-1:	$OrphanFiles/QtQuick/Controls/Styles/Base/images/editbox.png
+-/r * 391926-128-1:	$OrphanFiles/QtQuick/Controls/Styles/Base/images/focusframe.png
+-/r * 391927-128-1:	$OrphanFiles/QtQuick/Controls/Styles/Base/images/groupbox.png
+-/r * 391928-128-1:	$OrphanFiles/QtQuick/Controls/Styles/Base/images/header.png
+-/r * 391929-128-3:	$OrphanFiles/QtQuick/Controls/Styles/Base/images/knob.png
+-/r * 391930-128-1:	$OrphanFiles/QtQuick/Controls/Styles/Base/images/leftanglearrow.png
+-/r * 391931-128-3:	$OrphanFiles/QtQuick/Controls/Styles/Base/images/needle.png
+-/r * 391932-128-4:	$OrphanFiles/QtQuick/Controls/Styles/Base/images/progress-indeterminate.png
+-/r * 391933-128-1:	$OrphanFiles/QtQuick/Controls/Styles/Base/images/rightanglearrow.png
+-/r * 391934-128-4:	$OrphanFiles/QtQuick/Controls/Styles/Base/images/scrollbar-handle-horizontal.png
+-/r * 391935-128-1:	$OrphanFiles/QtQuick/Controls/Styles/Base/images/scrollbar-handle-transient.png
+-/r * 391936-128-4:	$OrphanFiles/QtQuick/Controls/Styles/Base/images/scrollbar-handle-vertical.png
+-/r * 391937-128-1:	$OrphanFiles/QtQuick/Controls/Styles/Base/images/slider-groove.png
+-/r * 391938-128-1:	$OrphanFiles/QtQuick/Controls/Styles/Base/images/slider-handle.png
+-/r * 391939-128-4:	$OrphanFiles/QtQuick/Controls/Styles/Base/images/spinner_large.png
+-/r * 391940-128-4:	$OrphanFiles/QtQuick/Controls/Styles/Base/images/spinner_medium.png
+-/r * 391941-128-4:	$OrphanFiles/QtQuick/Controls/Styles/Base/images/spinner_small.png
+-/r * 391942-128-1:	$OrphanFiles/QtQuick/Controls/Styles/Base/images/tab.png
+-/r * 391943-128-1:	$OrphanFiles/QtQuick/Controls/Styles/Base/images/tab_selected.png
+-/r * 391944-128-4:	$OrphanFiles/QtQuick/Controls/Styles/Base/MenuBarStyle.qml
+-/r * 391945-128-4:	$OrphanFiles/QtQuick/Controls/Styles/Base/MenuStyle.qml
+-/r * 391946-128-4:	$OrphanFiles/QtQuick/Controls/Styles/Base/PieMenuStyle.qml
+-/r * 391947-128-4:	$OrphanFiles/QtQuick/Controls/Styles/Base/ProgressBarStyle.qml
+-/r * 391948-128-4:	$OrphanFiles/QtQuick/Controls/Styles/Base/RadioButtonStyle.qml
+-/r * 391949-128-4:	$OrphanFiles/QtQuick/Controls/Styles/Base/ScrollViewStyle.qml
+-/r * 391950-128-4:	$OrphanFiles/QtQuick/Controls/Styles/Base/SliderStyle.qml
+-/r * 391951-128-4:	$OrphanFiles/QtQuick/Controls/Styles/Base/SpinBoxStyle.qml
+-/r * 391952-128-4:	$OrphanFiles/QtQuick/Controls/Styles/Base/StatusBarStyle.qml
+-/r * 391953-128-4:	$OrphanFiles/QtQuick/Controls/Styles/Base/StatusIndicatorStyle.qml
+-/r * 391954-128-4:	$OrphanFiles/QtQuick/Controls/Styles/Base/SwitchStyle.qml
+-/r * 391955-128-4:	$OrphanFiles/QtQuick/Controls/Styles/Base/TableViewStyle.qml
+-/r * 391956-128-4:	$OrphanFiles/QtQuick/Controls/Styles/Base/TabViewStyle.qml
+-/r * 391957-128-4:	$OrphanFiles/QtQuick/Controls/Styles/Base/TextAreaStyle.qml
+-/r * 391958-128-4:	$OrphanFiles/QtQuick/Controls/Styles/Base/TextFieldStyle.qml
+-/r * 391959-128-4:	$OrphanFiles/QtQuick/Controls/Styles/Base/ToggleButtonStyle.qml
+-/r * 391960-128-4:	$OrphanFiles/QtQuick/Controls/Styles/Base/ToolBarStyle.qml
+-/r * 391961-128-4:	$OrphanFiles/QtQuick/Controls/Styles/Base/ToolButtonStyle.qml
+-/r * 391962-128-4:	$OrphanFiles/QtQuick/Controls/Styles/Base/TreeViewStyle.qml
+-/r * 391963-128-4:	$OrphanFiles/QtQuick/Controls/Styles/Base/TumblerStyle.qml
+-/d * 391964-144-5:	$OrphanFiles/QtQuick/Controls/Styles/Desktop
+-/r * 391965-128-4:	$OrphanFiles/QtQuick/Controls/Styles/Desktop/ApplicationWindowStyle.qml
+-/r * 391966-128-4:	$OrphanFiles/QtQuick/Controls/Styles/Desktop/BusyIndicatorStyle.qml
+-/r * 391967-128-4:	$OrphanFiles/QtQuick/Controls/Styles/Desktop/ButtonStyle.qml
+-/r * 391968-128-4:	$OrphanFiles/QtQuick/Controls/Styles/Desktop/CalendarStyle.qml
+-/r * 391969-128-4:	$OrphanFiles/QtQuick/Controls/Styles/Desktop/CheckBoxStyle.qml
+-/r * 391970-128-4:	$OrphanFiles/QtQuick/Controls/Styles/Desktop/ComboBoxStyle.qml
+-/r * 391971-128-4:	$OrphanFiles/QtQuick/Controls/Styles/Desktop/FocusFrameStyle.qml
+-/r * 391972-128-4:	$OrphanFiles/QtQuick/Controls/Styles/Desktop/GroupBoxStyle.qml
+-/r * 391973-128-4:	$OrphanFiles/QtQuick/Controls/Styles/Desktop/MenuBarStyle.qml
+-/r * 391974-128-4:	$OrphanFiles/QtQuick/Controls/Styles/Desktop/MenuStyle.qml
+-/r * 391975-128-4:	$OrphanFiles/QtQuick/Controls/Styles/Desktop/ProgressBarStyle.qml
+-/r * 391976-128-1:	$OrphanFiles/QtQuick/Controls/Styles/Desktop/qmldir
+-/r * 391977-128-4:	$OrphanFiles/QtQuick/Controls/Styles/Desktop/RadioButtonStyle.qml
+-/r * 391978-128-4:	$OrphanFiles/QtQuick/Controls/Styles/Desktop/RowItemSingleton.qml
+-/r * 391979-128-4:	$OrphanFiles/QtQuick/Controls/Styles/Desktop/ScrollViewStyle.qml
+-/r * 391980-128-4:	$OrphanFiles/QtQuick/Controls/Styles/Desktop/SliderStyle.qml
+-/r * 391981-128-4:	$OrphanFiles/QtQuick/Controls/Styles/Desktop/SpinBoxStyle.qml
+-/r * 391982-128-4:	$OrphanFiles/QtQuick/Controls/Styles/Desktop/StatusBarStyle.qml
+-/r * 391983-128-4:	$OrphanFiles/QtQuick/Controls/Styles/Desktop/SwitchStyle.qml
+-/r * 391984-128-4:	$OrphanFiles/QtQuick/Controls/Styles/Desktop/TableViewStyle.qml
+-/r * 391985-128-4:	$OrphanFiles/QtQuick/Controls/Styles/Desktop/TabViewStyle.qml
+-/r * 391986-128-4:	$OrphanFiles/QtQuick/Controls/Styles/Desktop/TextAreaStyle.qml
+-/r * 391987-128-4:	$OrphanFiles/QtQuick/Controls/Styles/Desktop/TextFieldStyle.qml
+-/r * 391988-128-4:	$OrphanFiles/QtQuick/Controls/Styles/Desktop/ToolBarStyle.qml
+-/r * 391989-128-4:	$OrphanFiles/QtQuick/Controls/Styles/Desktop/ToolButtonStyle.qml
+-/r * 391990-128-4:	$OrphanFiles/QtQuick/Controls/Styles/Desktop/TreeViewStyle.qml
+-/d * 391991-144-1:	$OrphanFiles/QtQuick/Controls/Styles/Flat
+-/r * 391992-128-1:	$OrphanFiles/QtQuick/Controls/Styles/Flat/plugins.qmltypes
+-/r * 391993-128-1:	$OrphanFiles/QtQuick/Controls/Styles/Flat/qmldir
+-/r * 391994-128-4:	$OrphanFiles/QtQuick/Controls/Styles/Flat/qtquickextrasflatplugin.dll
+-/r * 391995-128-3:	$OrphanFiles/QtQuick/Controls/Styles/qmldir
+-/r * 391996-128-3:	$OrphanFiles/QtQuick/Controls/Switch.qml
+-/r * 391997-128-3:	$OrphanFiles/QtQuick/Controls/Tab.qml
+-/r * 391998-128-4:	$OrphanFiles/QtQuick/Controls/TableView.qml
+-/r * 391999-128-4:	$OrphanFiles/QtQuick/Controls/TableViewColumn.qml
+-/r * 392000-128-3:	$OrphanFiles/QtQuick/Controls/TabView.qml
+-/r * 392001-128-3:	$OrphanFiles/QtQuick/Controls/TextArea.qml
+-/r * 392002-128-4:	$OrphanFiles/QtQuick/Controls/TextField.qml
+-/r * 392003-128-3:	$OrphanFiles/QtQuick/Controls/ToolBar.qml
+-/r * 392004-128-4:	$OrphanFiles/QtQuick/Controls/ToolButton.qml
+-/r * 392005-128-3:	$OrphanFiles/QtQuick/Controls/TreeView.qml
+-/d * 392006-144-1:	$OrphanFiles/QtQuick/Layouts
+-/r * 392007-128-4:	$OrphanFiles/QtQuick/Layouts/plugins.qmltypes
+-/r * 392008-128-1:	$OrphanFiles/QtQuick/Layouts/qmldir
+-/r * 392009-128-4:	$OrphanFiles/QtQuick/Layouts/qquicklayoutsplugin.dll
+-/d * 392010-144-1:	$OrphanFiles/QtQuick/Window.2
+-/r * 392011-128-4:	$OrphanFiles/QtQuick/Window.2/plugins.qmltypes
+-/r * 392012-128-1:	$OrphanFiles/QtQuick/Window.2/qmldir
+-/r * 392013-128-4:	$OrphanFiles/QtQuick/Window.2/windowplugin.dll
+-/d * 391792-144-6:	$OrphanFiles/QtGraphicalEffects
+-/r * 391793-128-3:	$OrphanFiles/QtGraphicalEffects/Blend.qml
+-/r * 391794-128-4:	$OrphanFiles/QtGraphicalEffects/BrightnessContrast.qml
+-/r * 391795-128-3:	$OrphanFiles/QtGraphicalEffects/Colorize.qml
+-/r * 391796-128-4:	$OrphanFiles/QtGraphicalEffects/ColorOverlay.qml
+-/r * 391797-128-4:	$OrphanFiles/QtGraphicalEffects/ConicalGradient.qml
+-/r * 391798-128-4:	$OrphanFiles/QtGraphicalEffects/Desaturate.qml
+-/r * 391799-128-4:	$OrphanFiles/QtGraphicalEffects/DirectionalBlur.qml
+-/r * 391800-128-3:	$OrphanFiles/QtGraphicalEffects/Displace.qml
+-/r * 391801-128-4:	$OrphanFiles/QtGraphicalEffects/DropShadow.qml
+-/r * 391802-128-3:	$OrphanFiles/QtGraphicalEffects/FastBlur.qml
+-/r * 391803-128-4:	$OrphanFiles/QtGraphicalEffects/GammaAdjust.qml
+-/r * 391804-128-4:	$OrphanFiles/QtGraphicalEffects/GaussianBlur.qml
+-/r * 391805-128-3:	$OrphanFiles/QtGraphicalEffects/Glow.qml
+-/r * 391806-128-4:	$OrphanFiles/QtGraphicalEffects/HueSaturation.qml
+-/r * 391807-128-4:	$OrphanFiles/QtGraphicalEffects/InnerShadow.qml
+-/r * 391808-128-4:	$OrphanFiles/QtGraphicalEffects/LevelAdjust.qml
+-/r * 391809-128-4:	$OrphanFiles/QtGraphicalEffects/LinearGradient.qml
+-/r * 391810-128-4:	$OrphanFiles/QtGraphicalEffects/MaskedBlur.qml
+-/r * 391811-128-4:	$OrphanFiles/QtGraphicalEffects/OpacityMask.qml
+-/r * 391812-128-1:	$OrphanFiles/QtGraphicalEffects/plugins.qmltypes
+-/d * 391813-144-5:	$OrphanFiles/QtGraphicalEffects/private
+-/r * 391814-128-4:	$OrphanFiles/QtGraphicalEffects/private/DropShadowBase.qml
+-/r * 391815-128-3:	$OrphanFiles/QtGraphicalEffects/private/FastGlow.qml
+-/r * 391816-128-4:	$OrphanFiles/QtGraphicalEffects/private/FastInnerShadow.qml
+-/r * 391817-128-4:	$OrphanFiles/QtGraphicalEffects/private/FastMaskedBlur.qml
+-/r * 391818-128-4:	$OrphanFiles/QtGraphicalEffects/private/GaussianDirectionalBlur.qml
+-/r * 391819-128-4:	$OrphanFiles/QtGraphicalEffects/private/GaussianGlow.qml
+-/r * 391820-128-4:	$OrphanFiles/QtGraphicalEffects/private/GaussianInnerShadow.qml
+-/r * 391821-128-4:	$OrphanFiles/QtGraphicalEffects/private/GaussianMaskedBlur.qml
+-/r * 391822-128-1:	$OrphanFiles/QtGraphicalEffects/private/qmldir
+-/r * 391823-128-4:	$OrphanFiles/QtGraphicalEffects/private/qtgraphicaleffectsprivate.dll
+-/r * 391824-128-3:	$OrphanFiles/QtGraphicalEffects/qmldir
+-/r * 391825-128-4:	$OrphanFiles/QtGraphicalEffects/qtgraphicaleffectsplugin.dll
+-/r * 391826-128-4:	$OrphanFiles/QtGraphicalEffects/RadialBlur.qml
+-/r * 391827-128-4:	$OrphanFiles/QtGraphicalEffects/RadialGradient.qml
+-/r * 391828-128-4:	$OrphanFiles/QtGraphicalEffects/RectangularGlow.qml
+-/r * 391829-128-4:	$OrphanFiles/QtGraphicalEffects/RecursiveBlur.qml
+-/r * 391830-128-4:	$OrphanFiles/QtGraphicalEffects/ThresholdMask.qml
+-/r * 391831-128-3:	$OrphanFiles/QtGraphicalEffects/ZoomBlur.qml
+-/r * 391791-128-4:	$OrphanFiles/Qt5WinExtras.dll
+-/r * 369534-128-4:	$OrphanFiles/msedge_elf.dll
+-/r * 369534-128-7:	$OrphanFiles/msedge_elf.dll:WofCompressedData
+-/r * 369536-128-4:	$OrphanFiles/msedge_proxy.exe
+-/r * 369536-128-7:	$OrphanFiles/msedge_proxy.exe:WofCompressedData
+-/r * 369537-128-4:	$OrphanFiles/msedge_pwa_launcher.exe
+-/r * 369537-128-7:	$OrphanFiles/msedge_pwa_launcher.exe:WofCompressedData
+-/r * 369551-128-3:	$OrphanFiles/msvcp140.dll
+-/r * 369551-128-6:	$OrphanFiles/msvcp140.dll:WofCompressedData
+-/r * 391790-128-4:	$OrphanFiles/Qt5Widgets.dll
+-/r * 391789-128-4:	$OrphanFiles/Qt5WebEngineWidgets.dll
+-/r * 391788-128-4:	$OrphanFiles/Qt5WebEngineCore.dll
+-/r * 369555-128-4:	$OrphanFiles/notification_helper.exe
+-/r * 369555-128-7:	$OrphanFiles/notification_helper.exe:WofCompressedData
+-/r * 369556-128-3:	$OrphanFiles/oneauth.dll
+-/r * 369556-128-6:	$OrphanFiles/oneauth.dll:WofCompressedData
+-/r * 369557-128-3:	$OrphanFiles/oneds.dll
+-/r * 369557-128-6:	$OrphanFiles/oneds.dll:WofCompressedData
+-/r * 369558-128-4:	$OrphanFiles/onnxruntime.dll
+-/r * 369558-128-7:	$OrphanFiles/onnxruntime.dll:WofCompressedData
+-/r * 369559-128-3:	$OrphanFiles/onramp.dll
+-/r * 369559-128-6:	$OrphanFiles/onramp.dll:WofCompressedData
+-/r * 369564-128-4:	$OrphanFiles/pwahelper.dll
+-/r * 369564-128-7:	$OrphanFiles/pwahelper.dll:WofCompressedData
+-/r * 369565-128-4:	$OrphanFiles/pwahelper.exe
+-/r * 369565-128-7:	$OrphanFiles/pwahelper.exe:WofCompressedData
+-/r * 369568-128-4:	$OrphanFiles/resources.pak
+-/r * 369568-128-7:	$OrphanFiles/resources.pak:WofCompressedData
+-/r * 369569-128-1:	$OrphanFiles/show_third_party_software_licenses.bat
+-/r * 369573-128-4:	$OrphanFiles/telclient.dll
+-/r * 369573-128-7:	$OrphanFiles/telclient.dll:WofCompressedData
+-/r * 369592-128-4:	$OrphanFiles/v8_context_snapshot.bin
+-/r * 369595-128-4:	$OrphanFiles/vccorlib140.dll
+-/r * 369595-128-7:	$OrphanFiles/vccorlib140.dll:WofCompressedData
+-/r * 369598-128-4:	$OrphanFiles/vcruntime140.dll
+-/r * 369598-128-7:	$OrphanFiles/vcruntime140.dll:WofCompressedData
+-/r * 369599-128-4:	$OrphanFiles/vcruntime140_1.dll
+-/r * 369599-128-7:	$OrphanFiles/vcruntime140_1.dll:WofCompressedData
+-/r * 369620-128-3:	$OrphanFiles/wdag.dll
+-/r * 369620-128-6:	$OrphanFiles/wdag.dll:WofCompressedData
+-/r * 369628-128-4:	$OrphanFiles/wns_push_client.dll
+-/r * 369628-128-7:	$OrphanFiles/wns_push_client.dll:WofCompressedData
+-/r * 391787-128-4:	$OrphanFiles/Qt5WebEngine.dll
+-/d * 369630-144-1:	$OrphanFiles/Installer
+-/r * 369629-128-4:	$OrphanFiles/Installer/msedge_7z.data
+-/r * 369631-128-1:	$OrphanFiles/Installer/setup.exe
+-/r * 369634-128-4:	$OrphanFiles/msedge.EtwManifest.man
+-/d * 369636-144-6:	$OrphanFiles/ResiliencyLinks
+-/r * 367781-128-3:	$OrphanFiles/ResiliencyLinks/icudtl.dat.DATA
+-/r * 367781-128-6:	$OrphanFiles/ResiliencyLinks/icudtl.dat.DATA:WofCompressedData
+-/r * 369268-128-4:	$OrphanFiles/ResiliencyLinks/msedge.dll.sig.DATA
+-/r * 369271-128-4:	$OrphanFiles/ResiliencyLinks/msedge.exe.sig.DATA
+-/r * 369277-128-4:	$OrphanFiles/ResiliencyLinks/msedgewebview2.exe.sig.DATA
+-/r * 369278-128-4:	$OrphanFiles/ResiliencyLinks/msedge_100_percent.pak.DATA
+-/r * 369278-128-7:	$OrphanFiles/ResiliencyLinks/msedge_100_percent.pak.DATA:WofCompressedData
+-/r * 369532-128-4:	$OrphanFiles/ResiliencyLinks/msedge_200_percent.pak.DATA
+-/r * 369532-128-7:	$OrphanFiles/ResiliencyLinks/msedge_200_percent.pak.DATA:WofCompressedData
+-/r * 369552-128-4:	$OrphanFiles/ResiliencyLinks/nacl_irt_x86_64.nexe.DATA
+-/r * 369552-128-7:	$OrphanFiles/ResiliencyLinks/nacl_irt_x86_64.nexe.DATA:WofCompressedData
+-/d * 369637-144-1:	$OrphanFiles/ResiliencyLinks/WidevineCdm
+-/d * 369638-144-1:	$OrphanFiles/ResiliencyLinks/WidevineCdm/_platform_specific
+-/d * 369640-144-1:	$OrphanFiles/ResiliencyLinks/WidevineCdm/_platform_specific/win_x64
+-/d * 369641-144-6:	$OrphanFiles/ResiliencyLinks/VisualElements
+-/d * 369642-144-6:	$OrphanFiles/ResiliencyLinks/Trust Protection Lists
+-/d * 369643-144-1:	$OrphanFiles/ResiliencyLinks/Notifications
+-/r * 369553-128-4:	$OrphanFiles/ResiliencyLinks/Notifications/SoftLandingAssetDark.gif.DATA
+-/r * 369554-128-4:	$OrphanFiles/ResiliencyLinks/Notifications/SoftLandingAssetLight.gif.DATA
+-/d * 369644-144-5:	$OrphanFiles/ResiliencyLinks/MLModels
+-/r * 369248-128-4:	$OrphanFiles/ResiliencyLinks/MLModels/autofill_labeling.onnx.DATA
+-/r * 369250-128-4:	$OrphanFiles/ResiliencyLinks/MLModels/autofill_labeling_email.onnx.DATA
+-/r * 369250-128-7:	$OrphanFiles/ResiliencyLinks/MLModels/autofill_labeling_email.onnx.DATA:WofCompressedData
+-/r * 369253-128-4:	$OrphanFiles/ResiliencyLinks/MLModels/autofill_labeling_features.txt.DATA
+-/r * 369258-128-4:	$OrphanFiles/ResiliencyLinks/MLModels/autofill_labeling_features_email.txt.DATA
+-/r * 369261-128-4:	$OrphanFiles/ResiliencyLinks/MLModels/nexturl.onnx.DATA
+-/r * 369261-128-7:	$OrphanFiles/ResiliencyLinks/MLModels/nexturl.onnx.DATA:WofCompressedData
+-/d * 369645-144-1:	$OrphanFiles/ResiliencyLinks/MEIPreload
+-/r * 369239-128-1:	$OrphanFiles/ResiliencyLinks/MEIPreload/manifest.json.DATA
+-/r * 369240-128-4:	$OrphanFiles/ResiliencyLinks/MEIPreload/preloaded_data.pb.DATA
+-/d * 369646-144-5:	$OrphanFiles/ResiliencyLinks/Locales
+-/r * 367928-128-3:	$OrphanFiles/ResiliencyLinks/Locales/af.pak.DATA
+-/r * 367928-128-6:	$OrphanFiles/ResiliencyLinks/Locales/af.pak.DATA:WofCompressedData
+-/r * 367944-128-3:	$OrphanFiles/ResiliencyLinks/Locales/am.pak.DATA
+-/r * 367944-128-6:	$OrphanFiles/ResiliencyLinks/Locales/am.pak.DATA:WofCompressedData
+-/r * 367950-128-3:	$OrphanFiles/ResiliencyLinks/Locales/ar.pak.DATA
+-/r * 367950-128-6:	$OrphanFiles/ResiliencyLinks/Locales/ar.pak.DATA:WofCompressedData
+-/r * 367974-128-3:	$OrphanFiles/ResiliencyLinks/Locales/as.pak.DATA
+-/r * 367974-128-6:	$OrphanFiles/ResiliencyLinks/Locales/as.pak.DATA:WofCompressedData
+-/r * 368045-128-3:	$OrphanFiles/ResiliencyLinks/Locales/az.pak.DATA
+-/r * 368045-128-6:	$OrphanFiles/ResiliencyLinks/Locales/az.pak.DATA:WofCompressedData
+-/r * 368068-128-3:	$OrphanFiles/ResiliencyLinks/Locales/be.pak.DATA
+-/r * 368068-128-6:	$OrphanFiles/ResiliencyLinks/Locales/be.pak.DATA:WofCompressedData
+-/r * 368069-128-3:	$OrphanFiles/ResiliencyLinks/Locales/bg.pak.DATA
+-/r * 368069-128-6:	$OrphanFiles/ResiliencyLinks/Locales/bg.pak.DATA:WofCompressedData
+-/r * 368070-128-3:	$OrphanFiles/ResiliencyLinks/Locales/bn-IN.pak.DATA
+-/r * 368070-128-6:	$OrphanFiles/ResiliencyLinks/Locales/bn-IN.pak.DATA:WofCompressedData
+-/r * 368075-128-3:	$OrphanFiles/ResiliencyLinks/Locales/bn.pak.DATA
+-/r * 368075-128-6:	$OrphanFiles/ResiliencyLinks/Locales/bn.pak.DATA:WofCompressedData
+-/r * 368078-128-3:	$OrphanFiles/ResiliencyLinks/Locales/bs.pak.DATA
+-/r * 368078-128-6:	$OrphanFiles/ResiliencyLinks/Locales/bs.pak.DATA:WofCompressedData
+-/r * 368079-128-4:	$OrphanFiles/ResiliencyLinks/Locales/ca-Es-VALENCIA.pak.DATA
+-/r * 368079-128-7:	$OrphanFiles/ResiliencyLinks/Locales/ca-Es-VALENCIA.pak.DATA:WofCompressedData
+-/r * 368082-128-3:	$OrphanFiles/ResiliencyLinks/Locales/ca.pak.DATA
+-/r * 368082-128-6:	$OrphanFiles/ResiliencyLinks/Locales/ca.pak.DATA:WofCompressedData
+-/r * 368083-128-3:	$OrphanFiles/ResiliencyLinks/Locales/chr.pak.DATA
+-/r * 368083-128-6:	$OrphanFiles/ResiliencyLinks/Locales/chr.pak.DATA:WofCompressedData
+-/r * 368086-128-3:	$OrphanFiles/ResiliencyLinks/Locales/cs.pak.DATA
+-/r * 368086-128-6:	$OrphanFiles/ResiliencyLinks/Locales/cs.pak.DATA:WofCompressedData
+-/r * 368087-128-3:	$OrphanFiles/ResiliencyLinks/Locales/cy.pak.DATA
+-/r * 368087-128-6:	$OrphanFiles/ResiliencyLinks/Locales/cy.pak.DATA:WofCompressedData
+-/r * 368089-128-3:	$OrphanFiles/ResiliencyLinks/Locales/da.pak.DATA
+-/r * 368089-128-6:	$OrphanFiles/ResiliencyLinks/Locales/da.pak.DATA:WofCompressedData
+-/r * 368090-128-3:	$OrphanFiles/ResiliencyLinks/Locales/de.pak.DATA
+-/r * 368090-128-6:	$OrphanFiles/ResiliencyLinks/Locales/de.pak.DATA:WofCompressedData
+-/r * 368115-128-3:	$OrphanFiles/ResiliencyLinks/Locales/el.pak.DATA
+-/r * 368115-128-6:	$OrphanFiles/ResiliencyLinks/Locales/el.pak.DATA:WofCompressedData
+-/r * 368117-128-3:	$OrphanFiles/ResiliencyLinks/Locales/en-GB.pak.DATA
+-/r * 368117-128-6:	$OrphanFiles/ResiliencyLinks/Locales/en-GB.pak.DATA:WofCompressedData
+-/r * 368119-128-3:	$OrphanFiles/ResiliencyLinks/Locales/en-US.pak.DATA
+-/r * 368119-128-6:	$OrphanFiles/ResiliencyLinks/Locales/en-US.pak.DATA:WofCompressedData
+-/r * 368121-128-3:	$OrphanFiles/ResiliencyLinks/Locales/es-419.pak.DATA
+-/r * 368121-128-6:	$OrphanFiles/ResiliencyLinks/Locales/es-419.pak.DATA:WofCompressedData
+-/r * 368123-128-3:	$OrphanFiles/ResiliencyLinks/Locales/es.pak.DATA
+-/r * 368123-128-6:	$OrphanFiles/ResiliencyLinks/Locales/es.pak.DATA:WofCompressedData
+-/r * 368147-128-3:	$OrphanFiles/ResiliencyLinks/Locales/et.pak.DATA
+-/r * 368147-128-6:	$OrphanFiles/ResiliencyLinks/Locales/et.pak.DATA:WofCompressedData
+-/r * 368149-128-3:	$OrphanFiles/ResiliencyLinks/Locales/eu.pak.DATA
+-/r * 368149-128-6:	$OrphanFiles/ResiliencyLinks/Locales/eu.pak.DATA:WofCompressedData
+-/r * 368152-128-3:	$OrphanFiles/ResiliencyLinks/Locales/fa.pak.DATA
+-/r * 368152-128-6:	$OrphanFiles/ResiliencyLinks/Locales/fa.pak.DATA:WofCompressedData
+-/r * 368153-128-3:	$OrphanFiles/ResiliencyLinks/Locales/fi.pak.DATA
+-/r * 368153-128-6:	$OrphanFiles/ResiliencyLinks/Locales/fi.pak.DATA:WofCompressedData
+-/r * 368156-128-3:	$OrphanFiles/ResiliencyLinks/Locales/fil.pak.DATA
+-/r * 368156-128-6:	$OrphanFiles/ResiliencyLinks/Locales/fil.pak.DATA:WofCompressedData
+-/r * 368221-128-3:	$OrphanFiles/ResiliencyLinks/Locales/fr-CA.pak.DATA
+-/r * 368221-128-6:	$OrphanFiles/ResiliencyLinks/Locales/fr-CA.pak.DATA:WofCompressedData
+-/r * 368223-128-3:	$OrphanFiles/ResiliencyLinks/Locales/fr.pak.DATA
+-/r * 368223-128-6:	$OrphanFiles/ResiliencyLinks/Locales/fr.pak.DATA:WofCompressedData
+-/r * 368225-128-3:	$OrphanFiles/ResiliencyLinks/Locales/ga.pak.DATA
+-/r * 368225-128-6:	$OrphanFiles/ResiliencyLinks/Locales/ga.pak.DATA:WofCompressedData
+-/r * 368230-128-3:	$OrphanFiles/ResiliencyLinks/Locales/gd.pak.DATA
+-/r * 368230-128-6:	$OrphanFiles/ResiliencyLinks/Locales/gd.pak.DATA:WofCompressedData
+-/r * 368236-128-3:	$OrphanFiles/ResiliencyLinks/Locales/gl.pak.DATA
+-/r * 368236-128-6:	$OrphanFiles/ResiliencyLinks/Locales/gl.pak.DATA:WofCompressedData
+-/r * 368258-128-3:	$OrphanFiles/ResiliencyLinks/Locales/gu.pak.DATA
+-/r * 368258-128-6:	$OrphanFiles/ResiliencyLinks/Locales/gu.pak.DATA:WofCompressedData
+-/r * 368266-128-3:	$OrphanFiles/ResiliencyLinks/Locales/he.pak.DATA
+-/r * 368266-128-6:	$OrphanFiles/ResiliencyLinks/Locales/he.pak.DATA:WofCompressedData
+-/r * 368269-128-3:	$OrphanFiles/ResiliencyLinks/Locales/hi.pak.DATA
+-/r * 368269-128-6:	$OrphanFiles/ResiliencyLinks/Locales/hi.pak.DATA:WofCompressedData
+-/r * 368270-128-3:	$OrphanFiles/ResiliencyLinks/Locales/hr.pak.DATA
+-/r * 368270-128-6:	$OrphanFiles/ResiliencyLinks/Locales/hr.pak.DATA:WofCompressedData
+-/r * 368272-128-3:	$OrphanFiles/ResiliencyLinks/Locales/hu.pak.DATA
+-/r * 368272-128-6:	$OrphanFiles/ResiliencyLinks/Locales/hu.pak.DATA:WofCompressedData
+-/r * 368274-128-3:	$OrphanFiles/ResiliencyLinks/Locales/hy.pak.DATA
+-/r * 368274-128-6:	$OrphanFiles/ResiliencyLinks/Locales/hy.pak.DATA:WofCompressedData
+-/r * 368275-128-3:	$OrphanFiles/ResiliencyLinks/Locales/id.pak.DATA
+-/r * 368275-128-6:	$OrphanFiles/ResiliencyLinks/Locales/id.pak.DATA:WofCompressedData
+-/r * 368277-128-3:	$OrphanFiles/ResiliencyLinks/Locales/is.pak.DATA
+-/r * 368277-128-6:	$OrphanFiles/ResiliencyLinks/Locales/is.pak.DATA:WofCompressedData
+-/r * 368284-128-3:	$OrphanFiles/ResiliencyLinks/Locales/it.pak.DATA
+-/r * 368284-128-6:	$OrphanFiles/ResiliencyLinks/Locales/it.pak.DATA:WofCompressedData
+-/r * 368290-128-3:	$OrphanFiles/ResiliencyLinks/Locales/ja.pak.DATA
+-/r * 368290-128-6:	$OrphanFiles/ResiliencyLinks/Locales/ja.pak.DATA:WofCompressedData
+-/r * 368294-128-3:	$OrphanFiles/ResiliencyLinks/Locales/ka.pak.DATA
+-/r * 368294-128-6:	$OrphanFiles/ResiliencyLinks/Locales/ka.pak.DATA:WofCompressedData
+-/r * 368295-128-3:	$OrphanFiles/ResiliencyLinks/Locales/kk.pak.DATA
+-/r * 368295-128-6:	$OrphanFiles/ResiliencyLinks/Locales/kk.pak.DATA:WofCompressedData
+-/r * 368296-128-3:	$OrphanFiles/ResiliencyLinks/Locales/km.pak.DATA
+-/r * 368296-128-6:	$OrphanFiles/ResiliencyLinks/Locales/km.pak.DATA:WofCompressedData
+-/r * 368297-128-3:	$OrphanFiles/ResiliencyLinks/Locales/kn.pak.DATA
+-/r * 368297-128-6:	$OrphanFiles/ResiliencyLinks/Locales/kn.pak.DATA:WofCompressedData
+-/r * 368298-128-3:	$OrphanFiles/ResiliencyLinks/Locales/ko.pak.DATA
+-/r * 368298-128-6:	$OrphanFiles/ResiliencyLinks/Locales/ko.pak.DATA:WofCompressedData
+-/r * 368311-128-3:	$OrphanFiles/ResiliencyLinks/Locales/kok.pak.DATA
+-/r * 368311-128-6:	$OrphanFiles/ResiliencyLinks/Locales/kok.pak.DATA:WofCompressedData
+-/r * 368324-128-3:	$OrphanFiles/ResiliencyLinks/Locales/ky.pak.DATA
+-/r * 368324-128-6:	$OrphanFiles/ResiliencyLinks/Locales/ky.pak.DATA:WofCompressedData
+-/r * 368334-128-3:	$OrphanFiles/ResiliencyLinks/Locales/lb.pak.DATA
+-/r * 368334-128-6:	$OrphanFiles/ResiliencyLinks/Locales/lb.pak.DATA:WofCompressedData
+-/r * 368662-128-3:	$OrphanFiles/ResiliencyLinks/Locales/lo.pak.DATA
+-/r * 368662-128-6:	$OrphanFiles/ResiliencyLinks/Locales/lo.pak.DATA:WofCompressedData
+-/r * 368670-128-3:	$OrphanFiles/ResiliencyLinks/Locales/lt.pak.DATA
+-/r * 368670-128-6:	$OrphanFiles/ResiliencyLinks/Locales/lt.pak.DATA:WofCompressedData
+-/r * 368671-128-3:	$OrphanFiles/ResiliencyLinks/Locales/lv.pak.DATA
+-/r * 368671-128-6:	$OrphanFiles/ResiliencyLinks/Locales/lv.pak.DATA:WofCompressedData
+-/r * 368673-128-3:	$OrphanFiles/ResiliencyLinks/Locales/mi.pak.DATA
+-/r * 368673-128-6:	$OrphanFiles/ResiliencyLinks/Locales/mi.pak.DATA:WofCompressedData
+-/r * 368674-128-3:	$OrphanFiles/ResiliencyLinks/Locales/mk.pak.DATA
+-/r * 368674-128-6:	$OrphanFiles/ResiliencyLinks/Locales/mk.pak.DATA:WofCompressedData
+-/r * 368677-128-3:	$OrphanFiles/ResiliencyLinks/Locales/ml.pak.DATA
+-/r * 368677-128-6:	$OrphanFiles/ResiliencyLinks/Locales/ml.pak.DATA:WofCompressedData
+-/r * 368686-128-3:	$OrphanFiles/ResiliencyLinks/Locales/mn.pak.DATA
+-/r * 368686-128-6:	$OrphanFiles/ResiliencyLinks/Locales/mn.pak.DATA:WofCompressedData
+-/r * 369008-128-3:	$OrphanFiles/ResiliencyLinks/Locales/mr.pak.DATA
+-/r * 369008-128-6:	$OrphanFiles/ResiliencyLinks/Locales/mr.pak.DATA:WofCompressedData
+-/r * 369053-128-3:	$OrphanFiles/ResiliencyLinks/Locales/ms.pak.DATA
+-/r * 369053-128-6:	$OrphanFiles/ResiliencyLinks/Locales/ms.pak.DATA:WofCompressedData
+-/r * 369060-128-3:	$OrphanFiles/ResiliencyLinks/Locales/mt.pak.DATA
+-/r * 369060-128-6:	$OrphanFiles/ResiliencyLinks/Locales/mt.pak.DATA:WofCompressedData
+-/r * 369140-128-3:	$OrphanFiles/ResiliencyLinks/Locales/nb.pak.DATA
+-/r * 369140-128-6:	$OrphanFiles/ResiliencyLinks/Locales/nb.pak.DATA:WofCompressedData
+-/r * 369163-128-3:	$OrphanFiles/ResiliencyLinks/Locales/ne.pak.DATA
+-/r * 369163-128-6:	$OrphanFiles/ResiliencyLinks/Locales/ne.pak.DATA:WofCompressedData
+-/r * 369164-128-3:	$OrphanFiles/ResiliencyLinks/Locales/nl.pak.DATA
+-/r * 369164-128-6:	$OrphanFiles/ResiliencyLinks/Locales/nl.pak.DATA:WofCompressedData
+-/r * 369165-128-3:	$OrphanFiles/ResiliencyLinks/Locales/nn.pak.DATA
+-/r * 369165-128-6:	$OrphanFiles/ResiliencyLinks/Locales/nn.pak.DATA:WofCompressedData
+-/r * 369167-128-3:	$OrphanFiles/ResiliencyLinks/Locales/or.pak.DATA
+-/r * 369167-128-6:	$OrphanFiles/ResiliencyLinks/Locales/or.pak.DATA:WofCompressedData
+-/r * 369168-128-3:	$OrphanFiles/ResiliencyLinks/Locales/pa.pak.DATA
+-/r * 369168-128-6:	$OrphanFiles/ResiliencyLinks/Locales/pa.pak.DATA:WofCompressedData
+-/r * 369171-128-3:	$OrphanFiles/ResiliencyLinks/Locales/pl.pak.DATA
+-/r * 369171-128-6:	$OrphanFiles/ResiliencyLinks/Locales/pl.pak.DATA:WofCompressedData
+-/r * 369173-128-3:	$OrphanFiles/ResiliencyLinks/Locales/prs.pak.DATA
+-/r * 369173-128-6:	$OrphanFiles/ResiliencyLinks/Locales/prs.pak.DATA:WofCompressedData
+-/r * 369174-128-3:	$OrphanFiles/ResiliencyLinks/Locales/pt-BR.pak.DATA
+-/r * 369174-128-6:	$OrphanFiles/ResiliencyLinks/Locales/pt-BR.pak.DATA:WofCompressedData
+-/r * 369178-128-3:	$OrphanFiles/ResiliencyLinks/Locales/pt-PT.pak.DATA
+-/r * 369178-128-6:	$OrphanFiles/ResiliencyLinks/Locales/pt-PT.pak.DATA:WofCompressedData
+-/r * 369179-128-3:	$OrphanFiles/ResiliencyLinks/Locales/qu.pak.DATA
+-/r * 369179-128-6:	$OrphanFiles/ResiliencyLinks/Locales/qu.pak.DATA:WofCompressedData
+-/r * 369181-128-3:	$OrphanFiles/ResiliencyLinks/Locales/ro.pak.DATA
+-/r * 369181-128-6:	$OrphanFiles/ResiliencyLinks/Locales/ro.pak.DATA:WofCompressedData
+-/r * 369182-128-3:	$OrphanFiles/ResiliencyLinks/Locales/ru.pak.DATA
+-/r * 369182-128-6:	$OrphanFiles/ResiliencyLinks/Locales/ru.pak.DATA:WofCompressedData
+-/r * 369185-128-3:	$OrphanFiles/ResiliencyLinks/Locales/sd.pak.DATA
+-/r * 369185-128-6:	$OrphanFiles/ResiliencyLinks/Locales/sd.pak.DATA:WofCompressedData
+-/r * 369186-128-3:	$OrphanFiles/ResiliencyLinks/Locales/si.pak.DATA
+-/r * 369186-128-6:	$OrphanFiles/ResiliencyLinks/Locales/si.pak.DATA:WofCompressedData
+-/r * 369187-128-3:	$OrphanFiles/ResiliencyLinks/Locales/sk.pak.DATA
+-/r * 369187-128-6:	$OrphanFiles/ResiliencyLinks/Locales/sk.pak.DATA:WofCompressedData
+-/r * 369189-128-3:	$OrphanFiles/ResiliencyLinks/Locales/sl.pak.DATA
+-/r * 369189-128-6:	$OrphanFiles/ResiliencyLinks/Locales/sl.pak.DATA:WofCompressedData
+-/r * 369190-128-3:	$OrphanFiles/ResiliencyLinks/Locales/sq.pak.DATA
+-/r * 369190-128-6:	$OrphanFiles/ResiliencyLinks/Locales/sq.pak.DATA:WofCompressedData
+-/r * 369191-128-4:	$OrphanFiles/ResiliencyLinks/Locales/sr-Cyrl-BA.pak.DATA
+-/r * 369191-128-7:	$OrphanFiles/ResiliencyLinks/Locales/sr-Cyrl-BA.pak.DATA:WofCompressedData
+-/r * 369192-128-4:	$OrphanFiles/ResiliencyLinks/Locales/sr-Latn-RS.pak.DATA
+-/r * 369192-128-7:	$OrphanFiles/ResiliencyLinks/Locales/sr-Latn-RS.pak.DATA:WofCompressedData
+-/r * 369197-128-3:	$OrphanFiles/ResiliencyLinks/Locales/sr.pak.DATA
+-/r * 369197-128-6:	$OrphanFiles/ResiliencyLinks/Locales/sr.pak.DATA:WofCompressedData
+-/r * 369206-128-3:	$OrphanFiles/ResiliencyLinks/Locales/sv.pak.DATA
+-/r * 369206-128-6:	$OrphanFiles/ResiliencyLinks/Locales/sv.pak.DATA:WofCompressedData
+-/r * 369208-128-3:	$OrphanFiles/ResiliencyLinks/Locales/sw.pak.DATA
+-/r * 369208-128-6:	$OrphanFiles/ResiliencyLinks/Locales/sw.pak.DATA:WofCompressedData
+-/r * 369209-128-3:	$OrphanFiles/ResiliencyLinks/Locales/ta.pak.DATA
+-/r * 369209-128-6:	$OrphanFiles/ResiliencyLinks/Locales/ta.pak.DATA:WofCompressedData
+-/r * 369216-128-3:	$OrphanFiles/ResiliencyLinks/Locales/te.pak.DATA
+-/r * 369216-128-6:	$OrphanFiles/ResiliencyLinks/Locales/te.pak.DATA:WofCompressedData
+-/r * 369217-128-3:	$OrphanFiles/ResiliencyLinks/Locales/th.pak.DATA
+-/r * 369217-128-6:	$OrphanFiles/ResiliencyLinks/Locales/th.pak.DATA:WofCompressedData
+-/r * 369218-128-3:	$OrphanFiles/ResiliencyLinks/Locales/tk.pak.DATA
+-/r * 369218-128-6:	$OrphanFiles/ResiliencyLinks/Locales/tk.pak.DATA:WofCompressedData
+-/r * 369219-128-3:	$OrphanFiles/ResiliencyLinks/Locales/tr.pak.DATA
+-/r * 369219-128-6:	$OrphanFiles/ResiliencyLinks/Locales/tr.pak.DATA:WofCompressedData
+-/r * 369220-128-3:	$OrphanFiles/ResiliencyLinks/Locales/tt.pak.DATA
+-/r * 369220-128-6:	$OrphanFiles/ResiliencyLinks/Locales/tt.pak.DATA:WofCompressedData
+-/r * 369224-128-3:	$OrphanFiles/ResiliencyLinks/Locales/ug.pak.DATA
+-/r * 369224-128-6:	$OrphanFiles/ResiliencyLinks/Locales/ug.pak.DATA:WofCompressedData
+-/r * 369227-128-3:	$OrphanFiles/ResiliencyLinks/Locales/uk.pak.DATA
+-/r * 369227-128-6:	$OrphanFiles/ResiliencyLinks/Locales/uk.pak.DATA:WofCompressedData
+-/r * 369229-128-3:	$OrphanFiles/ResiliencyLinks/Locales/ur.pak.DATA
+-/r * 369229-128-6:	$OrphanFiles/ResiliencyLinks/Locales/ur.pak.DATA:WofCompressedData
+-/r * 369232-128-3:	$OrphanFiles/ResiliencyLinks/Locales/uz-Latn.pak.DATA
+-/r * 369232-128-6:	$OrphanFiles/ResiliencyLinks/Locales/uz-Latn.pak.DATA:WofCompressedData
+-/r * 369236-128-3:	$OrphanFiles/ResiliencyLinks/Locales/vi.pak.DATA
+-/r * 369236-128-6:	$OrphanFiles/ResiliencyLinks/Locales/vi.pak.DATA:WofCompressedData
+-/r * 369237-128-3:	$OrphanFiles/ResiliencyLinks/Locales/zh-CN.pak.DATA
+-/r * 369237-128-6:	$OrphanFiles/ResiliencyLinks/Locales/zh-CN.pak.DATA:WofCompressedData
+-/r * 369238-128-3:	$OrphanFiles/ResiliencyLinks/Locales/zh-TW.pak.DATA
+-/r * 369238-128-6:	$OrphanFiles/ResiliencyLinks/Locales/zh-TW.pak.DATA:WofCompressedData
+-/d * 369647-144-5:	$OrphanFiles/ResiliencyLinks/Locales/devtools
+-/r * 368091-128-3:	$OrphanFiles/ResiliencyLinks/Locales/devtools/de.pak.DATA
+-/r * 368091-128-6:	$OrphanFiles/ResiliencyLinks/Locales/devtools/de.pak.DATA:WofCompressedData
+-/r * 368092-128-3:	$OrphanFiles/ResiliencyLinks/Locales/devtools/es.pak.DATA
+-/r * 368092-128-6:	$OrphanFiles/ResiliencyLinks/Locales/devtools/es.pak.DATA:WofCompressedData
+-/r * 368094-128-3:	$OrphanFiles/ResiliencyLinks/Locales/devtools/fr.pak.DATA
+-/r * 368094-128-6:	$OrphanFiles/ResiliencyLinks/Locales/devtools/fr.pak.DATA:WofCompressedData
+-/r * 368095-128-3:	$OrphanFiles/ResiliencyLinks/Locales/devtools/it.pak.DATA
+-/r * 368095-128-6:	$OrphanFiles/ResiliencyLinks/Locales/devtools/it.pak.DATA:WofCompressedData
+-/r * 368098-128-3:	$OrphanFiles/ResiliencyLinks/Locales/devtools/ja.pak.DATA
+-/r * 368098-128-6:	$OrphanFiles/ResiliencyLinks/Locales/devtools/ja.pak.DATA:WofCompressedData
+-/r * 368102-128-3:	$OrphanFiles/ResiliencyLinks/Locales/devtools/ko.pak.DATA
+-/r * 368102-128-6:	$OrphanFiles/ResiliencyLinks/Locales/devtools/ko.pak.DATA:WofCompressedData
+-/r * 368104-128-3:	$OrphanFiles/ResiliencyLinks/Locales/devtools/pt-BR.pak.DATA
+-/r * 368104-128-6:	$OrphanFiles/ResiliencyLinks/Locales/devtools/pt-BR.pak.DATA:WofCompressedData
+-/r * 368107-128-3:	$OrphanFiles/ResiliencyLinks/Locales/devtools/ru.pak.DATA
+-/r * 368107-128-6:	$OrphanFiles/ResiliencyLinks/Locales/devtools/ru.pak.DATA:WofCompressedData
+-/r * 368109-128-3:	$OrphanFiles/ResiliencyLinks/Locales/devtools/zh-CN.pak.DATA
+-/r * 368109-128-6:	$OrphanFiles/ResiliencyLinks/Locales/devtools/zh-CN.pak.DATA:WofCompressedData
+-/r * 368114-128-3:	$OrphanFiles/ResiliencyLinks/Locales/devtools/zh-TW.pak.DATA
+-/r * 368114-128-6:	$OrphanFiles/ResiliencyLinks/Locales/devtools/zh-TW.pak.DATA:WofCompressedData
+-/d * 369648-144-6:	$OrphanFiles/ResiliencyLinks/identity_proxy
+-/r * 367799-128-4:	$OrphanFiles/ResiliencyLinks/identity_proxy/identity_helper.Sparse.Beta.msix.DATA
+-/r * 367799-128-7:	$OrphanFiles/ResiliencyLinks/identity_proxy/identity_helper.Sparse.Beta.msix.DATA:WofCompressedData
+-/r * 367805-128-4:	$OrphanFiles/ResiliencyLinks/identity_proxy/identity_helper.Sparse.Canary.msix.DATA
+-/r * 367805-128-7:	$OrphanFiles/ResiliencyLinks/identity_proxy/identity_helper.Sparse.Canary.msix.DATA:WofCompressedData
+-/r * 367809-128-4:	$OrphanFiles/ResiliencyLinks/identity_proxy/identity_helper.Sparse.Dev.msix.DATA
+-/r * 367811-128-4:	$OrphanFiles/ResiliencyLinks/identity_proxy/identity_helper.Sparse.Internal.msix.DATA
+-/r * 367812-128-4:	$OrphanFiles/ResiliencyLinks/identity_proxy/identity_helper.Sparse.Stable.msix.DATA
+-/r * 367820-128-4:	$OrphanFiles/ResiliencyLinks/identity_proxy/resources.pri.DATA
+-/d * 369649-144-1:	$OrphanFiles/ResiliencyLinks/Extensions
+-/r * 367772-128-1:	$OrphanFiles/ResiliencyLinks/Extensions/external_extensions.json.DATA
+-/r * 369885-128-4:	$OrphanFiles/NinjaCatOnDragon.scale-125.png
+-/r * 370969-128-4:	$OrphanFiles/nucleus_python.cp37-win32.pyd
+-/r * 371257:	$OrphanFiles/OrphanFile-371257
+-/r * 371284:	$OrphanFiles/OrphanFile-371284
+-/r * 371462:	$OrphanFiles/OrphanFile-371462
+-/r * 371476-128-12:	$OrphanFiles/SplashScreen.scale-125_contrast-white.png
+-/r * 372086-128-6:	$OrphanFiles/StoreLogo.scale-100.png
+-/r * 372093:	$OrphanFiles/OrphanFile-372093
+-/r * 372101:	$OrphanFiles/OrphanFile-372101
+-/r * 372105-128-4:	$OrphanFiles/StoreLogo.scale-150.png
+-/r * 372117-128-4:	$OrphanFiles/StoreLogo.scale-200.png
+-/r * 372407-128-1:	$OrphanFiles/W0.png
+-/r * 372408-128-1:	$OrphanFiles/W1.png
+-/r * 372409-128-1:	$OrphanFiles/W2.png
+-/r * 372410-128-1:	$OrphanFiles/W3.png
+-/r * 372411-128-1:	$OrphanFiles/W4.png
+-/r * 372412-128-1:	$OrphanFiles/W5.png
+-/r * 372413-128-1:	$OrphanFiles/W6.png
+-/r * 372414-128-1:	$OrphanFiles/W7.png
+-/r * 372416-128-3:	$OrphanFiles/wdt.png
+-/r * 372417-128-4:	$OrphanFiles/weather_2_travel.png
+-/r * 372418-128-11:	$OrphanFiles/Weather_LogoSmall.targetsize-24_altform-unplated.png
+-/r * 372419-128-1:	$OrphanFiles/Weather_LogoSmall.targetsize-24.png
+-/r * 372420-128-11:	$OrphanFiles/OrphanFile-372420
+-/r * 372421:	$OrphanFiles/Weather_LogoSmall.targetsize-48.png
+-/r * 372422:	$OrphanFiles/Weather_LogoSmall.scale-100.png
+-/r * 372423-128-1:	$OrphanFiles/Weather_LogoSmall.scale-100.png
+-/r * 372424-128-4:	$OrphanFiles/Weather_LogoSmall.scale-200.png
+-/r * 372425-128-6:	$OrphanFiles/Weather_LogoSmall.scale-200.png
+-/r * 372426-128-1:	$OrphanFiles/Weather_LogoSmall.targetsize-16_altform-unplated.png
+-/r * 372427-128-1:	$OrphanFiles/Weather_LogoSmall.targetsize-16.png
+-/r * 372428-128-4:	$OrphanFiles/Weather_LogoSmall.targetsize-256.png
+-/r * 372429-128-4:	$OrphanFiles/Weather_LogoSmall.targetsize-256_altform-unplated.png
+-/r * 372431-128-1:	$OrphanFiles/Weather_LogoSmall.targetsize-32.png
+-/r * 372432:	$OrphanFiles/Weather_LogoSmall.targetsize-32_altform-unplated.png
+-/r * 372434:	$OrphanFiles/OrphanFile-372434
+-/r * 372435-128-4:	$OrphanFiles/Weather_TileWide.scale-200.png
+-/r * 372436-128-4:	$OrphanFiles/Weather_SplashScreen.scale-200.png
+-/r * 372437-128-4:	$OrphanFiles/Weather_SplashScreen.scale-200.png
+-/r * 372438-128-4:	$OrphanFiles/Weather_TileLargeSquare.scale-100.png
+-/r * 372439-128-4:	$OrphanFiles/Weather_TileLargeSquare.scale-100.png
+-/r * 372440-128-4:	$OrphanFiles/Weather_TileLargeSquare.scale-200.png
+-/r * 372441-128-4:	$OrphanFiles/Weather_TileLargeSquare.scale-200.png
+-/r * 372442-128-4:	$OrphanFiles/Weather_TileMediumSquare.scale-100.png
+-/r * 372443-128-6:	$OrphanFiles/Weather_TileMediumSquare.scale-100.png
+-/r * 372444-128-4:	$OrphanFiles/Weather_TileMediumSquare.scale-200.png
+-/r * 372445-128-4:	$OrphanFiles/Weather_TileMediumSquare.scale-200.png
+-/r * 372446:	$OrphanFiles/Weather_TileSmallSquare.scale-100.png
+-/r * 372447-128-1:	$OrphanFiles/Weather_TileSmallSquare.scale-100.png
+-/r * 372448-128-4:	$OrphanFiles/Weather_TileSmallSquare.scale-200.png
+-/r * 372449-128-5:	$OrphanFiles/Weather_TileSmallSquare.scale-200.png
+-/r * 372450-128-4:	$OrphanFiles/Weather_TileWide.scale-100.png
+-/r * 372451-128-4:	$OrphanFiles/Weather_TileWide.scale-100.png
+-/r * 372452-128-4:	$OrphanFiles/weather_trends.png
+-/r * 372453-128-4:	$OrphanFiles/weatherdotcom.png
+-/r * 372613:	$OrphanFiles/OrphanFile-372613
+-/r * 372634:	$OrphanFiles/OrphanFile-372634
+-/r * 373043-128-4:	$OrphanFiles/resources.pri
+-/r * 373072-128-4:	$OrphanFiles/resources.pri
+-/r * 373078-128-4:	$OrphanFiles/resources.pri
+-/r * 373193-128-4:	$OrphanFiles/resources.pri
+-/r * 373212-128-4:	$OrphanFiles/resources.pri
+-/r * 373212-128-7:	$OrphanFiles/resources.pri:WofCompressedData
+-/r * 375130-128-4:	$OrphanFiles/configuration.sqlite
+-/r * 375130-128-7:	$OrphanFiles/configuration.sqlite:WofCompressedData
+-/r * 375811-128-4:	$OrphanFiles/opengl32sw.dll
+-/r * 375922-128-3:	$OrphanFiles/MSNMDL2.ttf
+-/r * 375922-128-6:	$OrphanFiles/MSNMDL2.ttf:WofCompressedData
+-/r * 376032-128-4:	$OrphanFiles/WeatherColorIcons.ttf
+-/r * 376032-128-7:	$OrphanFiles/WeatherColorIcons.ttf:WofCompressedData
+-/r * 376411-128-4:	$OrphanFiles/Microsoft.Msn.Weather.Tile.winmd
+-/r * 376411-128-7:	$OrphanFiles/Microsoft.Msn.Weather.Tile.winmd:WofCompressedData
+-/r * 376555-128-4:	$OrphanFiles/StoreRatingPromotion.winmd
+-/d * 376760-144-6:	$OrphanFiles/Integration
+-/r * 377126-128-4:	$OrphanFiles/AppxBlockMap.xml
+-/r * 377183-128-4:	$OrphanFiles/AppxBlockMap.xml
+-/r * 377265-128-4:	$OrphanFiles/AppxBlockMap.xml
+-/r * 377265-128-7:	$OrphanFiles/AppxBlockMap.xml:WofCompressedData
+-/r * 377330-128-4:	$OrphanFiles/AppxBlockMap.xml
+-/r * 377337-128-1:	$OrphanFiles/AppxBlockMap.xml
+-/r * 377341-128-4:	$OrphanFiles/AppxBlockMap.xml
+-/r * 377341-128-7:	$OrphanFiles/AppxBlockMap.xml:WofCompressedData
+-/r * 377348-128-4:	$OrphanFiles/AppxBundleManifest.xml
+-/r * 377348-128-7:	$OrphanFiles/AppxBundleManifest.xml:WofCompressedData
+-/r * 377384-128-4:	$OrphanFiles/AppxManifest.xml
+-/r * 377384-128-7:	$OrphanFiles/AppxManifest.xml:WofCompressedData
+-/r * 377385-128-4:	$OrphanFiles/AppxManifest.xml
+-/r * 377442-128-4:	$OrphanFiles/AppxManifest.xml
+-/r * 377475-128-4:	$OrphanFiles/AppxManifest.xml
+-/r * 377568-128-4:	$OrphanFiles/AppxManifest.xml
+-/r * 377664-128-1:	$OrphanFiles/BuildInfo.xml
+-/d * 381325-144-1:	$OrphanFiles/Data
+-/d * 384469-144-1:	$OrphanFiles/Data/Delta
+-/d * 385236-144-1:	$OrphanFiles/Data/Delta/root
+-/d * 385661-144-6:	$OrphanFiles/Data/Delta/root/Integration
+-/d * 386207-144-1:	$OrphanFiles/Data/Delta/root/Integration/C2RIntLoc.en-us.16.msi
+-/d * 389697-144-1:	$OrphanFiles/Data/Delta/root/Integration/C2RInt.16.msi
+-/d * 389701-144-1:	$OrphanFiles/Data/Delta/root/Integration/SPPRedist.msi
+-/d * 386233-144-5:	$OrphanFiles/Data/Delta/root/Office16
+-/d * 386766-144-5:	$OrphanFiles/Data/Delta/root/Office16/1033
+-/d * 386218-144-1:	$OrphanFiles/Data/Delta/root/Office16/1033/TellMeOutlookTask.nrr
+-/d * 387449-144-1:	$OrphanFiles/Data/Delta/root/Office16/1033/TellMeAccess.nrr
+-/d * 387770-144-1:	$OrphanFiles/Data/Delta/root/Office16/1033/TellMePowerPoint.nrr
+-/d * 388183-144-1:	$OrphanFiles/Data/Delta/root/Office16/1033/TellMeExcel.nrr
+-/d * 388193-144-1:	$OrphanFiles/Data/Delta/root/Office16/1033/TellMeWord.nrr
+-/d * 388662-144-1:	$OrphanFiles/Data/Delta/root/Office16/1033/TellMeOneNote.nrr
+-/d * 388759-144-1:	$OrphanFiles/Data/Delta/root/Office16/1033/TellMeOutlook.nrr
+-/d * 389677-144-1:	$OrphanFiles/Data/Delta/root/Office16/1033/TellMeOutlookAddr.nrr
+-/d * 389680-144-1:	$OrphanFiles/Data/Delta/root/Office16/1033/TellMeOutlookAppt.nrr
+-/d * 389682-144-1:	$OrphanFiles/Data/Delta/root/Office16/1033/TellMeOutlookMail.nrr
+-/d * 389684-144-1:	$OrphanFiles/Data/Delta/root/Office16/1033/TellMeOutlookMailRead.nrr
+-/d * 389686-144-1:	$OrphanFiles/Data/Delta/root/Office16/1033/TellMeOutlookMeetingReqRead.nrr
+-/d * 389688-144-1:	$OrphanFiles/Data/Delta/root/Office16/1033/TellMeOutlookMeetingReqSend.nrr
+-/d * 389703-144-1:	$OrphanFiles/Data/Delta/root/Office16/ACEDAO.DLL
+-/d * 389704-144-1:	$OrphanFiles/Data/Delta/root/Office16/CHAKRACORE.DLL
+-/d * 389705-144-1:	$OrphanFiles/Data/Delta/root/Office16/ADDINS
+-/d * 389706-144-6:	$OrphanFiles/Data/Delta/root/Office16/ADDINS/EduWorks Data Streamer Add-In
+-/d * 389700-144-1:	$OrphanFiles/Data/Delta/root/Office16/ADDINS/EduWorks Data Streamer Add-In/MicrosoftDataStreamerforExcel.dll.manifest
+-/d * 389702-144-1:	$OrphanFiles/Data/Delta/root/Office16/ADDINS/EduWorks Data Streamer Add-In/MicrosoftDataStreamerforExcel.dll
+-/d * 389707-144-1:	$OrphanFiles/Data/Delta/root/Office16/ADDINS/EduWorks Data Streamer Add-In/Microsoft.DataStreamer.Core.dll
+-/d * 389709-144-1:	$OrphanFiles/Data/Delta/root/Office16/ADDINS/EduWorks Data Streamer Add-In/Microsoft.DataStreamer.Excel.dll
+-/d * 389711-144-1:	$OrphanFiles/Data/Delta/root/Office16/ADDINS/EduWorks Data Streamer Add-In/Microsoft.DataStreamer.Manifest.dll
+-/d * 389713-144-1:	$OrphanFiles/Data/Delta/root/Office16/ADDINS/EduWorks Data Streamer Add-In/Microsoft.DataStreamer.Serial.dll
+-/d * 389715-144-1:	$OrphanFiles/Data/Delta/root/Office16/ADDINS/EduWorks Data Streamer Add-In/Microsoft.DataStreamer.StreamerUI.dll
+-/d * 389717-144-1:	$OrphanFiles/Data/Delta/root/Office16/ADDINS/EduWorks Data Streamer Add-In/Microsoft.DataStreamer.UWP.dll
+-/d * 389719-144-1:	$OrphanFiles/Data/Delta/root/Office16/ADDINS/EduWorks Data Streamer Add-In/Microsoft.DataStreamer.Views.dll
+-/d * 389721-144-1:	$OrphanFiles/Data/Delta/root/Office16/ADDINS/EduWorks Data Streamer Add-In/Microsoft.DataStreamer.Workbook.dll
+-/d * 389708-144-1:	$OrphanFiles/Data/Delta/root/Office16/CLVIEW.EXE
+-/d * 389710-144-1:	$OrphanFiles/Data/Delta/root/Office16/CNFNOT32.EXE
+-/d * 389712-144-1:	$OrphanFiles/Data/Delta/root/Office16/csi.dll
+-/d * 389714-144-1:	$OrphanFiles/Data/Delta/root/Office16/CSIRESOURCES.DLL
+-/d * 389716-144-1:	$OrphanFiles/Data/Delta/root/Office16/DLGSETP.DLL
+-/d * 389718-144-1:	$OrphanFiles/Data/Delta/root/Office16/EMSMDB32.DLL
+-/d * 389720-144-1:	$OrphanFiles/Data/Delta/root/Office16/EXCEL.EXE
+-/d * 389722-144-1:	$OrphanFiles/Data/Delta/root/Office16/excelcnv.exe
+-/d * 389724-144-1:	$OrphanFiles/Data/Delta/root/Office16/GRAPH.EXE
+-/d * 389726-144-1:	$OrphanFiles/Data/Delta/root/Office16/IEContentService.exe
+-/d * 389728-144-1:	$OrphanFiles/Data/Delta/root/Office16/MSACCESS.EXE
+-/d * 389732-144-1:	$OrphanFiles/Data/Delta/root/Office16/msoadfsb.exe
+-/d * 389734-144-1:	$OrphanFiles/Data/Delta/root/Office16/MSOSREC.EXE
+-/d * 389736-144-1:	$OrphanFiles/Data/Delta/root/Office16/MSOSYNC.EXE
+-/d * 389738-144-1:	$OrphanFiles/Data/Delta/root/Office16/MSOUC.EXE
+-/d * 389740-144-1:	$OrphanFiles/Data/Delta/root/Office16/MSPST32.DLL
+-/d * 389742-144-1:	$OrphanFiles/Data/Delta/root/Office16/MSPUB.EXE
+-/d * 389744-144-1:	$OrphanFiles/Data/Delta/root/Office16/MSQRY32.EXE
+-/d * 389746-144-1:	$OrphanFiles/Data/Delta/root/Office16/NAMECONTROLSERVER.EXE
+-/d * 389748-144-1:	$OrphanFiles/Data/Delta/root/Office16/OART.DLL
+-/d * 389750-144-1:	$OrphanFiles/Data/Delta/root/Office16/officeappguardwin32.exe
+-/d * 389752-144-1:	$OrphanFiles/Data/Delta/root/Office16/OLMAPI32.DLL
+-/d * 389756-144-1:	$OrphanFiles/Data/Delta/root/Office16/ONBttnIE.dll
+-/d * 389758-144-1:	$OrphanFiles/Data/Delta/root/Office16/ONBttnIELinkedNotes.dll
+-/d * 389760-144-1:	$OrphanFiles/Data/Delta/root/Office16/ONBttnOL.dll
+-/d * 389762-144-1:	$OrphanFiles/Data/Delta/root/Office16/ONBttnPPT.dll
+-/d * 389764-144-1:	$OrphanFiles/Data/Delta/root/Office16/ONBttnWD.dll
+-/d * 389766-144-1:	$OrphanFiles/Data/Delta/root/Office16/ONENOTE.EXE
+-/d * 389768-144-1:	$OrphanFiles/Data/Delta/root/Office16/ONENOTEIMP.DLL
+-/d * 389770-144-1:	$OrphanFiles/Data/Delta/root/Office16/ONENOTEM.EXE
+-/d * 389772-144-1:	$OrphanFiles/Data/Delta/root/Office16/ONENOTEW32.DLL
+-/d * 389774-144-1:	$OrphanFiles/Data/Delta/root/Office16/ONFILTER.DLL
+-/d * 389776-144-1:	$OrphanFiles/Data/Delta/root/Office16/ONMAIN.DLL
+-/d * 389778-144-1:	$OrphanFiles/Data/Delta/root/Office16/ONMAINW32.DLL
+-/d * 389780-144-1:	$OrphanFiles/Data/Delta/root/Office16/ONPPTAddin.dll
+-/d * 389782-144-1:	$OrphanFiles/Data/Delta/root/Office16/ONWordAddin.dll
+-/d * 389784-144-1:	$OrphanFiles/Data/Delta/root/Office16/ORGCHART.EXE
+-/d * 389786-144-1:	$OrphanFiles/Data/Delta/root/Office16/OUTLLIBR.COMMON.DLL
+-/d * 389788-144-1:	$OrphanFiles/Data/Delta/root/Office16/OUTLOOK.EXE
+-/d * 389790-144-1:	$OrphanFiles/Data/Delta/root/Office16/OWSSUPP.DLL
+-/d * 389792-144-1:	$OrphanFiles/Data/Delta/root/Office16/PDFREFLOW.EXE
+-/d * 389794-144-1:	$OrphanFiles/Data/Delta/root/Office16/PerfBoost.exe
+-/d * 389796-144-1:	$OrphanFiles/Data/Delta/root/Office16/POWERPNT.EXE
+-/d * 389798-144-1:	$OrphanFiles/Data/Delta/root/Office16/PPSLAX.DLL
+-/d * 389800-144-1:	$OrphanFiles/Data/Delta/root/Office16/protocolhandler.exe
+-/d * 389802-144-1:	$OrphanFiles/Data/Delta/root/Office16/SCANPST.EXE
+-/d * 389804-144-1:	$OrphanFiles/Data/Delta/root/Office16/SDXHelper.exe
+-/d * 389806-144-1:	$OrphanFiles/Data/Delta/root/Office16/SELFCERT.EXE
+-/d * 389808-144-1:	$OrphanFiles/Data/Delta/root/Office16/SETLANG.EXE
+-/d * 389810-144-1:	$OrphanFiles/Data/Delta/root/Office16/SkypeSrv
+-/d * 389832-144-1:	$OrphanFiles/Data/Delta/root/Office16/SkypeSrv/SKYPESERVER.EXE
+-/d * 389812-144-1:	$OrphanFiles/Data/Delta/root/Office16/URLREDIR.DLL
+-/d * 389814-144-1:	$OrphanFiles/Data/Delta/root/Office16/VPREVIEW.EXE
+-/d * 389816-144-1:	$OrphanFiles/Data/Delta/root/Office16/WINWORD.EXE
+-/d * 389818-144-1:	$OrphanFiles/Data/Delta/root/Office16/Wordcnv.dll
+-/d * 389820-144-1:	$OrphanFiles/Data/Delta/root/Office16/Wordconv.exe
+-/d * 389822-144-1:	$OrphanFiles/Data/Delta/root/Office16/WWLIB.DLL
+-/d * 389824-144-1:	$OrphanFiles/Data/Delta/root/vfs
+-/d * 471799-144-1:	$OrphanFiles/Data/Delta/root/vfs/ProgramFilesCommonX64
+-/d * 471813-144-1:	$OrphanFiles/Data/Delta/root/vfs/ProgramFilesCommonX64/Microsoft Shared
+-/d * 389828-144-1:	$OrphanFiles/Data/Delta/root/vfs/ProgramFilesCommonX64/Microsoft Shared/Filters
+-/d * 389830-144-1:	$OrphanFiles/Data/Delta/root/vfs/ProgramFilesCommonX64/Microsoft Shared/Filters/offfiltx.dll
+-/d * 474346-144-1:	$OrphanFiles/Data/Delta/root/vfs/ProgramFilesCommonX64/Microsoft Shared/Filters/odffilt.dll
+-/d * 472053-144-1:	$OrphanFiles/Data/Delta/root/vfs/ProgramFilesCommonX64/Microsoft Shared/DW
+-/d * 389826-144-1:	$OrphanFiles/Data/Delta/root/vfs/ProgramFilesCommonX64/Microsoft Shared/DW/DWTRIG20.EXE
+-/d * 472057-144-1:	$OrphanFiles/Data/Delta/root/vfs/ProgramFilesCommonX64/Microsoft Shared/DW/DW20.EXE
+-/d * 475749-144-5:	$OrphanFiles/Data/Delta/root/vfs/ProgramFilesCommonX64/Microsoft Shared/OFFICE16
+-/d * 389941-144-1:	$OrphanFiles/Data/Delta/root/vfs/ProgramFilesCommonX64/Microsoft Shared/OFFICE16/ACEDAO.DLL
+-/d * 389943-144-1:	$OrphanFiles/Data/Delta/root/vfs/ProgramFilesCommonX64/Microsoft Shared/OFFICE16/ACEODBC.DLL
+-/d * 390194-144-1:	$OrphanFiles/Data/Delta/root/vfs/ProgramFilesCommonX64/Microsoft Shared/OFFICE16/ACEOLEDB.DLL
+-/d * 391372-144-1:	$OrphanFiles/Data/Delta/root/vfs/ProgramFilesCommonX64/Microsoft Shared/OFFICE16/Csi.dll
+-/d * 467818-144-1:	$OrphanFiles/Data/Delta/root/vfs/ProgramFilesCommonX64/Microsoft Shared/OFFICE16/FLTLDR.EXE
+-/d * 469598-144-1:	$OrphanFiles/Data/Delta/root/vfs/ProgramFilesCommonX64/Microsoft Shared/OFFICE16/MSO.DLL
+-/d * 472059-144-1:	$OrphanFiles/Data/Delta/root/vfs/ProgramFilesCommonX64/Microsoft Shared/OFFICE16/Mso20win32client.dll
+-/d * 472335-144-1:	$OrphanFiles/Data/Delta/root/vfs/ProgramFilesCommonX64/Microsoft Shared/OFFICE16/Mso30win32client.dll
+-/d * 474817-144-1:	$OrphanFiles/Data/Delta/root/vfs/ProgramFilesCommonX64/Microsoft Shared/OFFICE16/Mso40UIwin32client.dll
+-/d * 474893-144-1:	$OrphanFiles/Data/Delta/root/vfs/ProgramFilesCommonX64/Microsoft Shared/OFFICE16/Mso98win32client.dll
+-/d * 475750-144-1:	$OrphanFiles/Data/Delta/root/vfs/ProgramFilesCommonX64/Microsoft Shared/OFFICE16/ACECORE.DLL
+-/d * 475751-144-1:	$OrphanFiles/Data/Delta/root/vfs/ProgramFilesCommonX64/Microsoft Shared/OFFICE16/msoshext.dll
+-/d * 475753-144-1:	$OrphanFiles/Data/Delta/root/vfs/ProgramFilesCommonX64/Microsoft Shared/OFFICE16/msowercrash.dll
+-/d * 475755-144-1:	$OrphanFiles/Data/Delta/root/vfs/ProgramFilesCommonX64/Microsoft Shared/OFFICE16/msowerrelief.dll
+-/d * 475757-144-1:	$OrphanFiles/Data/Delta/root/vfs/ProgramFilesCommonX64/Microsoft Shared/OFFICE16/OLicenseHeartbeat.exe
+-/d * 475759-144-1:	$OrphanFiles/Data/Delta/root/vfs/ProgramFilesCommonX86
+-/d * 475781-144-1:	$OrphanFiles/Data/Delta/root/vfs/ProgramFilesCommonX86/Microsoft Shared
+-/d * 475773-144-1:	$OrphanFiles/Data/Delta/root/vfs/ProgramFilesCommonX86/Microsoft Shared/Portal
+-/d * 475798-144-1:	$OrphanFiles/Data/Delta/root/vfs/ProgramFilesCommonX86/Microsoft Shared/Portal/PortalConnectCore.dll
+-/d * 475782-144-5:	$OrphanFiles/Data/Delta/root/vfs/ProgramFilesCommonX86/Microsoft Shared/OFFICE16
+-/d * 475761-144-1:	$OrphanFiles/Data/Delta/root/vfs/ProgramFilesCommonX86/Microsoft Shared/OFFICE16/MSO.DLL
+-/d * 475763-144-1:	$OrphanFiles/Data/Delta/root/vfs/ProgramFilesCommonX86/Microsoft Shared/OFFICE16/Mso20win32client.dll
+-/d * 475765-144-1:	$OrphanFiles/Data/Delta/root/vfs/ProgramFilesCommonX86/Microsoft Shared/OFFICE16/Mso30win32client.dll
+-/d * 475767-144-1:	$OrphanFiles/Data/Delta/root/vfs/ProgramFilesCommonX86/Microsoft Shared/OFFICE16/Mso40UIwin32client.dll
+-/d * 475769-144-1:	$OrphanFiles/Data/Delta/root/vfs/ProgramFilesCommonX86/Microsoft Shared/OFFICE16/Mso98win32client.dll
+-/d * 475771-144-1:	$OrphanFiles/Data/Delta/root/vfs/ProgramFilesCommonX86/Microsoft Shared/OFFICE16/msoshext.dll
+-/d * 475783-144-1:	$OrphanFiles/Data/Delta/root/vfs/ProgramFilesCommonX86/Microsoft Shared/OFFICE16/Csi.dll
+-/d * 475775-144-1:	$OrphanFiles/Data/Delta/root/vfs/ProgramFilesX86
+-/d * 475801-144-1:	$OrphanFiles/Data/Delta/root/vfs/ProgramFilesX86/Microsoft Office
+-/d * 475802-144-5:	$OrphanFiles/Data/Delta/root/vfs/ProgramFilesX86/Microsoft Office/Office16
+-/d * 475777-144-1:	$OrphanFiles/Data/Delta/root/vfs/ProgramFilesX86/Microsoft Office/Office16/ONBttnIE.dll
+-/d * 475779-144-1:	$OrphanFiles/Data/Delta/root/vfs/ProgramFilesX86/Microsoft Office/Office16/ONBttnIELinkedNotes.dll
+-/d * 475784-144-1:	$OrphanFiles/Data/Delta/root/vfs/ProgramFilesX86/Microsoft Office/Office16/OWSCLT.DLL
+-/d * 475786-144-1:	$OrphanFiles/Data/Delta/root/vfs/ProgramFilesX86/Microsoft Office/Office16/OWSSUPP.DLL
+-/d * 475788-144-1:	$OrphanFiles/Data/Delta/root/vfs/ProgramFilesX86/Microsoft Office/Office16/PPSLAX.DLL
+-/d * 475790-144-1:	$OrphanFiles/Data/Delta/root/vfs/ProgramFilesX86/Microsoft Office/Office16/URLREDIR.DLL
+-/d * 475803-144-1:	$OrphanFiles/Data/Delta/root/vfs/ProgramFilesX86/Microsoft Office/Office16/GROOVEEX.DLL
+-/r * 385382-128-1:	$OrphanFiles/trans[1].gif
+-/r * 386737-128-4:	$OrphanFiles/LockScreen___2560_1600_notdimmed.jpg
+-/r * 388266-128-1:	$OrphanFiles/DropboxClient_109.4.517.exe
+-/r * 388518-128-3:	$OrphanFiles/old_msedge.exe
+-/r * 388518-128-6:	$OrphanFiles/old_msedge.exe:WofCompressedData
+-/d * 389692-144-6:	$OrphanFiles/Office16
+-/d * 389693-144-5:	$OrphanFiles/Office16/1033
+-/d * 475729-144-1:	$OrphanFiles/Office16/1033/PUBFTSCM
+-/d * 475730-144-1:	$OrphanFiles/Office16/1033/PUBSPAPR
+-/d * 475731-144-1:	$OrphanFiles/Office16/1033/DataServices
+-/d * 475732-144-1:	$OrphanFiles/Office16/1033/QuickStyles
+-/d * 475733-144-1:	$OrphanFiles/Office16/1033/Bibliography
+-/d * 389729-144-5:	$OrphanFiles/Office16/ADDINS
+-/d * 389730-144-6:	$OrphanFiles/Office16/ADDINS/EduWorks Data Streamer Add-In
+-/d * 475637-144-1:	$OrphanFiles/Office16/ADDINS/Microsoft Power Query for Excel Integrated
+-/d * 475640-144-1:	$OrphanFiles/Office16/ADDINS/Microsoft Power Query for Excel Integrated/bin
+-/d * 475638-144-1:	$OrphanFiles/Office16/ADDINS/PowerPivot Excel Add-in
+-/d * 475641-144-1:	$OrphanFiles/Office16/ADDINS/PowerPivot Excel Add-in/Cartridges
+-/d * 475642-144-1:	$OrphanFiles/Office16/ADDINS/PowerPivot Excel Add-in/Resources
+-/d * 475643-144-1:	$OrphanFiles/Office16/ADDINS/PowerPivot Excel Add-in/Resources/1033
+-/d * 475639-144-1:	$OrphanFiles/Office16/ADDINS/Power Map Excel Add-in
+-/r * 389754-128-1:	$OrphanFiles/Office16/AppvIsvSubsystems64.dll
+-/r * 389755-128-1:	$OrphanFiles/Office16/C2R64.dll
+-/d * 475000-144-1:	$OrphanFiles/Office16/SkypeSrv
+-/d * 475591-144-1:	$OrphanFiles/Office16/PAGESIZE
+-/d * 475592-144-1:	$OrphanFiles/Office16/LogoImages
+-/d * 475593-144-1:	$OrphanFiles/Office16/AccessWeb
+-/d * 475594-144-1:	$OrphanFiles/Office16/ACCWIZ
+-/d * 475595-144-1:	$OrphanFiles/Office16/PUBWIZ
+-/d * 475596-144-1:	$OrphanFiles/Office16/PROOF
+-/d * 475597-144-1:	$OrphanFiles/Office16/OutlookAutoDiscover
+-/d * 475598-144-1:	$OrphanFiles/Office16/ODBC Drivers
+-/d * 475644-144-1:	$OrphanFiles/Office16/ODBC Drivers/Salesforce

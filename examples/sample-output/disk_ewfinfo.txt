@@ -1,0 +1,27 @@
+ewfinfo 20140816
+
+Acquiry information
+	Description:		rocba-cdrivev6
+	Acquisition date:	Fri Dec 18 18:26:51 2020
+	System date:		Fri Dec 18 18:26:51 2020
+	Operating system used:	Win 10, Build 19042 (64 bit)
+	Software version used:	XWF 20.1
+	Password:		N/A
+
+EWF information
+	File format:		EnCase 1
+	Sectors per chunk:	64
+	Compression method:	deflate
+	Compression level:	no compression
+
+Media information
+	Media type:		fixed disk
+	Is physical:		no
+	Bytes per sector:	512
+	Number of sectors:	170764280
+	Media size:		81 GiB (87431311360 bytes)
+
+Digest hash information
+	MD5:			5efc207c85587683e5ca5fa2d5ef1aa4
+	SHA1:			645dcd29ab039359fbdb6643961478b3d914f21d
+

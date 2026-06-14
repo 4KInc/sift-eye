@@ -1,0 +1,51 @@
+Volatility 3 Framework 2.28.0
+
+Offset	FileFullPath	File output
+
+0xdd82a7065000		Disabled
+0xdd82a7086000	\REGISTRY\MACHINE\SYSTEM	Disabled
+0xdd82a7186000	\REGISTRY\MACHINE\HARDWARE	Disabled
+0xdd82a7d98000	\Device\HarddiskVolume1\EFI\Microsoft\Boot\BCD	Disabled
+0xdd82a7d90000	\SystemRoot\System32\Config\SOFTWARE	Disabled
+0xdd82a7a27000	\SystemRoot\System32\Config\DEFAULT	Disabled
+0xdd82abca5000	\SystemRoot\System32\Config\SECURITY	Disabled
+0xdd82abdc7000	\SystemRoot\System32\Config\SAM	Disabled
+0xdd82abf10000	\??\C:\WINDOWS\ServiceProfiles\NetworkService\NTUSER.DAT	Disabled
+0xdd82ac483000	\SystemRoot\System32\Config\BBI	Disabled
+0xdd82ac495000	\??\C:\WINDOWS\ServiceProfiles\LocalService\NTUSER.DAT	Disabled
+0xdd82ae9e5000	\??\C:\WINDOWS\AppCompat\Programs\Amcache.hve	Disabled
+0xdd82ace64000	\??\C:\Users\fredr\ntuser.dat	Disabled
+0xdd82aed82000	\??\C:\Users\fredr\AppData\Local\Microsoft\Windows\UsrClass.dat	Disabled
+0xdd82ae585000	\??\C:\WINDOWS\ServiceProfiles\NetworkService\AppData\Local\Microsoft\Windows\DeliveryOptimization\State\dosvcState.dat	Disabled
+0xdd82b1542000	\??\C:\ProgramData\Microsoft\Windows\AppRepository\Packages\Microsoft.Windows.StartMenuExperienceHost_10.0.19041.610_neutral_neutral_cw5n1h2txyewy\ActivationStore.dat	Disabled
+0xdd82b0ea1000	\??\C:\Users\fredr\AppData\Local\Packages\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\Settings\settings.dat	Disabled
+0xdd82b1821000	\??\C:\ProgramData\Microsoft\Windows\AppRepository\Packages\Microsoft.Windows.Search_1.14.0.19041_neutral_neutral_cw5n1h2txyewy\ActivationStore.dat	Disabled
+0xdd82b1726000	\??\C:\Users\fredr\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\Settings\settings.dat	Disabled
+0xdd82b1dea000	\??\C:\ProgramData\Microsoft\Windows\AppRepository\Packages\Microsoft.LockApp_10.0.19041.423_neutral__cw5n1h2txyewy\ActivationStore.dat	Disabled
+0xdd82b1eee000	\??\C:\Users\fredr\AppData\Local\Packages\Microsoft.LockApp_cw5n1h2txyewy\Settings\settings.dat	Disabled
+0xdd82b3107000	\??\C:\ProgramData\Microsoft\Windows\AppRepository\Packages\Microsoft.Windows.ShellExperienceHost_10.0.19041.610_neutral_neutral_cw5n1h2txyewy\ActivationStore.dat	Disabled
+0xdd82b3205000	\??\C:\Users\fredr\AppData\Local\Packages\Microsoft.Windows.ShellExperienceHost_cw5n1h2txyewy\Settings\settings.dat	Disabled
+0xdd82b42d1000	\??\C:\ProgramData\Packages\AppleInc.iCloud_nzyj5cx40ttqa\S-1-5-21-528816539-567677750-276746561-1002\SystemAppData\Helium\Cache\6fe7e46a06cab29a.dat	Disabled
+0xdd82b42d3000	\??\C:\Users\fredr\AppData\Local\Packages\AppleInc.iCloud_nzyj5cx40ttqa\SystemAppData\Helium\User.dat	Disabled
+0xdd82b42d5000	\??\C:\Users\fredr\AppData\Local\Packages\AppleInc.iCloud_nzyj5cx40ttqa\SystemAppData\Helium\UserClasses.dat	Disabled
+0xdd82b42d7000	\??\C:\ProgramData\Packages\AppleInc.iCloud_nzyj5cx40ttqa\S-1-5-21-528816539-567677750-276746561-1002\SystemAppData\Helium\Cache\6fe7e46a06cab29a_COM15.dat	Disabled
+0xdd82b457c000	\??\C:\ProgramData\Packages\AppleInc.iCloud_nzyj5cx40ttqa\S-1-5-21-528816539-567677750-276746561-1002\SystemAppData\Helium\Cache\6fe7e46a06cab29a.dat	Disabled
+0xdd82b52e4000	\??\C:\ProgramData\Packages\91750D7E.Slack_8she8kybcnzg4\S-1-5-21-528816539-567677750-276746561-1002\SystemAppData\Helium\Cache\c4354f609895c491.dat	Disabled
+0xdd82b52d7000	\??\C:\Users\fredr\AppData\Local\Packages\91750D7E.Slack_8she8kybcnzg4\SystemAppData\Helium\User.dat	Disabled
+0xdd82b51bd000	\??\C:\Users\fredr\AppData\Local\Packages\91750D7E.Slack_8she8kybcnzg4\SystemAppData\Helium\UserClasses.dat	Disabled
+0xdd82b5291000	\??\C:\ProgramData\Packages\91750D7E.Slack_8she8kybcnzg4\S-1-5-21-528816539-567677750-276746561-1002\SystemAppData\Helium\Cache\c4354f609895c491_COM15.dat	Disabled
+0xdd82b3183000	\??\C:\ProgramData\Packages\91750D7E.Slack_8she8kybcnzg4\S-1-5-21-528816539-567677750-276746561-1002\SystemAppData\Helium\Cache\c4354f609895c491.dat	Disabled
+0xdd82b5507000	\??\C:\ProgramData\Microsoft\Windows\AppRepository\Packages\Microsoft.549981C3F5F10_2.2010.22653.0_x64__8wekyb3d8bbwe\ActivationStore.dat	Disabled
+0xdd82b611e000	\??\C:\Users\fredr\AppData\Local\Packages\Microsoft.549981C3F5F10_8wekyb3d8bbwe\Settings\settings.dat	Disabled
+0xdd82b6127000	\??\C:\ProgramData\Microsoft\Windows\AppRepository\Packages\Microsoft.UI.Xaml.2.4_2.42007.9001.0_x64__8wekyb3d8bbwe\ActivationStore.dat	Disabled
+0xdd82c042a000	\??\C:\ProgramData\Microsoft\Windows\AppRepository\Packages\Microsoft.ZuneVideo_10.20092.11911.0_x64__8wekyb3d8bbwe\ActivationStore.dat	Disabled
+0xdd82c0403000	\??\C:\Users\fredr\AppData\Local\Packages\Microsoft.ZuneVideo_8wekyb3d8bbwe\Settings\settings.dat	Disabled
+0xdd82aea06000	\??\C:\ProgramData\Microsoft\Windows\AppRepository\Packages\MicrosoftWindows.Client.CBS_120.2212.31.0_x64__cw5n1h2txyewy\ActivationStore.dat	Disabled
+0xdd82bedec000	\??\C:\Users\fredr\AppData\Local\Packages\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\Settings\settings.dat	Disabled
+0xdd82c99e1000	\??\C:\ProgramData\Microsoft\Windows\AppRepository\Packages\Microsoft.Windows.Photos_2020.20090.1002.0_x64__8wekyb3d8bbwe\ActivationStore.dat	Disabled
+0xdd82bae86000	\??\C:\Users\fredr\AppData\Local\Packages\Microsoft.Windows.Photos_8wekyb3d8bbwe\Settings\settings.dat	Disabled
+0xdd82db0a0000	\??\C:\ProgramData\Microsoft\Windows\AppRepository\Packages\Microsoft.UI.Xaml.2.3_2.32002.13001.0_x64__8wekyb3d8bbwe\ActivationStore.dat	Disabled
+0xdd82cb524000	\??\C:\ProgramData\Microsoft\Windows\AppRepository\Packages\Microsoft.YourPhone_1.20101.99.0_x64__8wekyb3d8bbwe\ActivationStore.dat	Disabled
+0xdd82b2520000	\??\C:\Users\fredr\AppData\Local\Packages\Microsoft.YourPhone_8wekyb3d8bbwe\Settings\settings.dat	Disabled
+0xdd82cac26000	\??\C:\ProgramData\Microsoft\Windows\AppRepository\Packages\Microsoft.WindowsStore_12011.1001.1.0_x64__8wekyb3d8bbwe\ActivationStore.dat	Disabled
+0xdd82d68be000	\??\C:\Users\fredr\AppData\Local\Packages\Microsoft.WindowsStore_8wekyb3d8bbwe\Settings\settings.dat	Disabled
